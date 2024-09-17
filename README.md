@@ -1,5 +1,6 @@
 # Walid-Lahlali-Data-Science-Machine-Learning-Projects
-Walid Lahlali Data Science Portfolio
+# Walid Lahlali Data Science Portfolio
+
 Welcome to my Data Science Portfolio! This repository is a showcase of the work I’ve completed throughout my data science journey. Organized like a tree, this portfolio contains four main directories (branches), each filled with projects, assignments, and resources that demonstrate my skills in data science, machine learning, and analytics.
 
 The four branches of this portfolio are:

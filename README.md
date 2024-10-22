@@ -17,7 +17,7 @@ Each branch is divided into subdirectories, and each subdirectory contains noteb
 ________________________________________
 
 
-Repository Structure
+## Repository Structure
 
 **1. [Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**
    

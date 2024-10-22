@@ -19,7 +19,7 @@ ________________________________________
 
 Repository Structure
 
-1. [Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)
+**1. [Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**
    
 This branch focuses on the essential building blocks of data science and Python programming. It contains 11 subdirectories:
 
@@ -37,15 +37,24 @@ This branch focuses on the essential building blocks of data science and Python 
 
       + [String Operations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations/6%20-%20String%20operations.ipynb): More advanced string manipulation techniques, such as concatenation, splitting, and finding substrings.
 
-•	Python-Lists: This section dives into Python lists, one of the fundamental data structures used to store collections of items. The notebooks cover basic list operations, manipulation techniques, and real-world projects to apply the concepts:
-o	Introduction to Python Lists: Explores list creation, indexing, modifying elements, and common list operations.
-o	Project 1: Basic List Operations: Practical tasks on creating and modifying lists, accessing elements by index, and iterating through lists.
-o	Project 2: Advanced List Manipulation: Focuses on replacing list elements using values from other parts of the list, and printing elements through iteration.
-o	Project 3: Sorting and Filtering Lists: Covers sorting list elements and filtering based on conditions, such as finding values greater than a specific number.
-o	Project 4: List Comprehensions: Demonstrates the use of list comprehensions for concise list creation and manipulation, including filtering and modifying elements.
-o	Project 5: Lists with User Input: Builds lists from user input and performs operations like summing elements or finding specific values.
-o	Project 6: Nested Lists: Explores working with nested lists, accessing and manipulating elements in multidimensional structures.
-o	Project 7: Working with Large Lists: Focuses on handling large lists, performing tasks such as finding the largest value or identifying unique elements.
+   + [Python-Lists](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/02%20-%20Python-Lists): This section dives into Python lists, one of the fundamental data structures used to store collections of items. The notebooks cover basic list operations, manipulation techniques, and real-world projects to apply the concepts:
+     
+      + [Introduction to Python Lists](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/01%20-%20Lists.ipynb): Explores list creation, indexing, modifying elements, and common list operations.
+        
+      + [Project 1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/02%20-%20Project_1_Lists.ipynb): Basic List Operations: Practical tasks on creating and modifying lists, accessing elements by index, and iterating through lists.
+        
+      + [Project 2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/03%20-%20Project_2_Lists.ipynb): Advanced List Manipulation: Focuses on replacing list elements using values from other parts of the list, and printing elements through iteration.
+        
+      + [Project 3](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/04%20-%20Project_3_Lists.ipynb): Sorting and Filtering Lists: Covers sorting list elements and filtering based on conditions, such as finding values greater than a specific number.
+        
+      + [Project 4](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/05%20-%20Project_4_Lists.ipynb): List Comprehensions: Demonstrates the use of list comprehensions for concise list creation and manipulation, including filtering and modifying elements.
+        
+      + [Project 5](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/06%20-%20Project_5_Lists.ipynb): Lists with User Input: Builds lists from user input and performs operations like summing elements or finding specific values.
+        
+      + [Project 6](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/07%20-%20Project_6_Lists.ipynb): Nested Lists: Explores working with nested lists, accessing and manipulating elements in multidimensional structures.
+        
+      + [Project 7](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/08%20-%20Project_7_Lists.ipynb): Working with Large Lists: Focuses on handling large lists, performing tasks such as finding the largest value or identifying unique elements.
+        
 •	Python-Dictionaries: This section provides a comprehensive overview of Python dictionaries and their use in storing key-value pairs. It includes practical projects and exercises to demonstrate dictionary operations, such as adding, updating, and removing elements, as well as more advanced topics like nested dictionaries and dictionary comprehensions:
 o	Introduction to Python Dictionaries: Explores how to create, access, and modify dictionary elements, as well as iterating over keys and values.
 o	Project 1: Basic Dictionary Operations: Practical exercises on creating and modifying key-value pairs, and accessing elements in a dictionary.

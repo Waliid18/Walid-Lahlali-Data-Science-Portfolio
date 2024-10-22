@@ -147,51 +147,51 @@ ________________________________________
    
 This branch showcases the projects and assignments I completed during my data science certificate at Concordia University. It contains 9 subdirectories, each corresponding to a specific course or project:
 
-   + Project-Submission: This section contains the final submission for a mini-project, which was part of the admission process to the Data Science program at Concordia University. The project focuses on analyzing football (soccer) data using the Pandas library to answer key statistical questions related to football goals, tournaments, and national performance in FIFA World Cup events. The notebook guides the user through the process of analyzing football match data using Python's Pandas library.
+   + [Project-Submission](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/00%20-%20Project-Submission): This section contains the final submission for a mini-project, which was part of the admission process to the Data Science program at Concordia University. The project focuses on analyzing football (soccer) data using the Pandas library to answer key statistical questions related to football goals, tournaments, and national performance in FIFA World Cup events. The notebook guides the user through the process of analyzing football match data using Python's Pandas library.
      
-   + Intro-to-Python-and-Math-Fundamentals: This section introduces the essential operations and concepts in Python programming and mathematical foundations. It includes a series of notebooks covering topics such as basic Python syntax, NumPy, statistics, and exploratory data analysis. Here’s what’s covered:
+   + [Intro-to-Python-and-Math-Fundamentals](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/01%20-%20Intro-to-Python-and-Math-Fundamentals): This section introduces the essential operations and concepts in Python programming and mathematical foundations. It includes a series of notebooks covering topics such as basic Python syntax, NumPy, statistics, and exploratory data analysis. Here’s what’s covered:
      
-      + Intro to Python: Covers Python basics, data types, string operations, lists, tuples, and function definitions.
+      + [Intro to Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/01%20-%20Intro-to-Python-and-Math-Fundamentals/Notebooks/01%20-%20Intro%20to%20Python.ipynb): Covers Python basics, data types, string operations, lists, tuples, and function definitions.
         
-      + Intermediate Python: Explores conditional logic, loops, dictionaries, advanced functions, and error handling.
+      + [Intermediate Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/01%20-%20Intro-to-Python-and-Math-Fundamentals/Notebooks/02%20-%20Intermediate%20Python.ipynb): Explores conditional logic, loops, dictionaries, advanced functions, and error handling.
         
-      + NumPy: Introduces array creation, indexing, slicing, reshaping, broadcasting, and statistical operations using NumPy.
+      + [NumPy](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/01%20-%20Intro-to-Python-and-Math-Fundamentals/Notebooks/03%20-%20Numpy.ipynb): Introduces array creation, indexing, slicing, reshaping, broadcasting, and statistical operations using NumPy.
         
-      + EDA Project: Focuses on exploratory data analysis (EDA) using a COVID-19 dataset, examining total cases, deaths, and trends across Canadian provinces.
+      + [EDA Project](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/01%20-%20Intro-to-Python-and-Math-Fundamentals/Notebooks/04%20-%20EDA%20Project.ipynb): Focuses on exploratory data analysis (EDA) using a COVID-19 dataset, examining total cases, deaths, and trends across Canadian provinces.
         
-      + Statistics: Teaches probability, distributions, and hypothesis testing with real-world applications.
+      + [Statistics](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/01%20-%20Intro-to-Python-and-Math-Fundamentals/Notebooks/05%20-%20Statistics.ipynb): Teaches probability, distributions, and hypothesis testing with real-world applications.
         
-      + Web Scraping: Demonstrates web scraping techniques using requests and BeautifulSoup to extract data from websites.
+      + [Web Scraping](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/01%20-%20Intro-to-Python-and-Math-Fundamentals/Notebooks/06%20-%20Web%20Scraping.ipynb): Demonstrates web scraping techniques using requests and BeautifulSoup to extract data from websites.
         
-   + Data-Visualization-and-Exploration: This section focuses on data visualization and exploration using libraries like Matplotlib and Seaborn. It includes the following notebooks:
+   + [Data-Visualization-and-Exploration](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/02%20-%20Data-Visualization-and-Exploration): This section focuses on data visualization and exploration using libraries like Matplotlib and Seaborn. It includes the following notebooks:
      
-      + Matplotlib: Introduces fundamental plotting techniques, covering line plots, bar charts, histograms, and scatter plots, along with customization options for axes, labels, and grids.
+      + [Matplotlib](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/02%20-%20Data-Visualization-and-Exploration/Notebooks/01%20-%20Matplotlib.ipynb): Introduces fundamental plotting techniques, covering line plots, bar charts, histograms, and scatter plots, along with customization options for axes, labels, and grids.
         
-      + seaborn Project: Analyzes and visualizes data from the modern Olympic Games using Seaborn and Matplotlib. Covers topics such as athlete participation, gender distribution, medal counts, and the popularity of various sports.
+      + [seaborn Project](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/02%20-%20Data-Visualization-and-Exploration/Notebooks/02%20-%20seaborn%20Project.ipynb): Analyzes and visualizes data from the modern Olympic Games using Seaborn and Matplotlib. Covers topics such as athlete participation, gender distribution, medal counts, and the popularity of various sports.
         
-   + Algorithms-and-Data-Structures: This section covers fundamental algorithms and data structures, exploring time complexity, object-oriented programming, and practical implementations of sorting and graph traversal. It includes the following notebooks:
+   + [Algorithms-and-Data-Structures](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/03%20-%20Algorithms-and-Data-Structures): This section covers fundamental algorithms and data structures, exploring time complexity, object-oriented programming, and practical implementations of sorting and graph traversal. It includes the following notebooks:
      
-      + Big-O Notation: Introduces time complexity and the concept of Big-O, analyzing the performance of basic algorithms.
+      + [wkshop_1_min_Big-O Notation](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/03%20-%20Algorithms-and-Data-Structures/Notebooks/01%20-%20wkshop_1_min.ipynb): Introduces time complexity and the concept of Big-O, analyzing the performance of basic algorithms.
         
-      + Python Classes (Rational Numbers): Implements a Python class to represent rational numbers, with methods for arithmetic operations such as addition, subtraction, multiplication, and division.
+      + [wkshop_2_min_Python Classes (Rational Numbers)](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/03%20-%20Algorithms-and-Data-Structures/Notebooks/02%20-%20wkshop_2_min.ipynb): Implements a Python class to represent rational numbers, with methods for arithmetic operations such as addition, subtraction, multiplication, and division.
         
-      + Linked Lists: Covers the implementation of singly linked lists, exploring the concept of nodes, linked data structures, and traversal.
+      + [wkshop_2_complete_Linked Lists](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/03%20-%20Algorithms-and-Data-Structures/Notebooks/03%20-%20wkshop_2_complete.ipynb): Covers the implementation of singly linked lists, exploring the concept of nodes, linked data structures, and traversal.
         
-      + Graphs: Introduces graph theory using NetworkX, with exercises to create and visualize simple graphs, including nodes and edges.
+      + [wkshop_3_min_Graphs](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/03%20-%20Algorithms-and-Data-Structures/Notebooks/04%20-%20wkshop_3_min.ipynb): Introduces graph theory using NetworkX, with exercises to create and visualize simple graphs, including nodes and edges.
         
-      + Random Walks on Graphs: Implements a random walk algorithm on graphs using NetworkX, exploring probabilistic traversal techniques.
+      + [wkshop_3_complete_Random Walks on Graphs](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/03%20-%20Algorithms-and-Data-Structures/Notebooks/05%20-%20wkshop_3_complete.ipynb): Implements a random walk algorithm on graphs using NetworkX, exploring probabilistic traversal techniques.
         
-      + Recursion and Hybrid Sorting: Combines merge sort and selection sort to create a hybrid sorting algorithm, demonstrating the use of recursion and timing analysis for optimization.
+      + [wkshop_4_min_Recursion and Hybrid Sorting](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/03%20-%20Algorithms-and-Data-Structures/Notebooks/06%20-%20wkshop_4_min.ipynb): Combines merge sort and selection sort to create a hybrid sorting algorithm, demonstrating the use of recursion and timing analysis for optimization.
         
-   + SQL-and-PySpark: Introduction to SQL for database management and PySpark for big data processing.
+   + [SQL-and-PySpark](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/04%20-%20SQL-and-PySpark): Introduction to SQL for database management and PySpark for big data processing.
      
-   + Supervised-Learning: Projects exploring supervised machine learning techniques such as regression and classification.
+   + [Supervised-Learning](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/05%20-%20Supervised-Learning): Projects exploring supervised machine learning techniques such as regression and classification.
      
-   + Unsupervised-Learning: Projects applying unsupervised learning algorithms such as clustering and dimensionality reduction.
+   + [Unsupervised-Learning](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/06%20-%20Unsupervised-Learning): Projects applying unsupervised learning algorithms such as clustering and dimensionality reduction.
      
-   + Deep-Learning: Introduction to deep learning techniques and neural networks.
+   + [Deep-Learning](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/07%20-%20Deep-Learning): Introduction to deep learning techniques and neural networks.
      
-   + Final-Project: The capstone project, integrating all the skills learned during the certificate.
+   + [Final-Project](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/08%20-%20Final-Project): The capstone project, integrating all the skills learned during the certificate.
 Each folder contains detailed assignments and projects that showcase my ability to apply theoretical concepts to practical data science problems.
 
 ________________________________________

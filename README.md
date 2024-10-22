@@ -2,7 +2,7 @@
 
 Welcome to my Data Science Portfolio! This repository is a showcase of the work I’ve completed throughout my data science journey. Organized like a tree, this portfolio contains four main directories (branches), each filled with projects, assignments, and resources that demonstrate my skills in data science, machine learning, and analytics.
 
-The four branches of this portfolio are:
+The **four branches** of this **portfolio** are:
 
 **1.	[Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**
 
@@ -55,18 +55,30 @@ This branch focuses on the essential building blocks of data science and Python 
         
       + [Project 7](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/08%20-%20Project_7_Lists.ipynb): Working with Large Lists: Focuses on handling large lists, performing tasks such as finding the largest value or identifying unique elements.
         
-•	Python-Dictionaries: This section provides a comprehensive overview of Python dictionaries and their use in storing key-value pairs. It includes practical projects and exercises to demonstrate dictionary operations, such as adding, updating, and removing elements, as well as more advanced topics like nested dictionaries and dictionary comprehensions:
-o	Introduction to Python Dictionaries: Explores how to create, access, and modify dictionary elements, as well as iterating over keys and values.
-o	Project 1: Basic Dictionary Operations: Practical exercises on creating and modifying key-value pairs, and accessing elements in a dictionary.
-o	Project 2: Iterating and Nested Dictionaries: Introduces nested dictionaries and techniques for accessing and manipulating deeply nested elements.
-o	Project 3: Real-World Dictionary Example: Demonstrates how dictionaries can be applied in organizing and retrieving real-world data, such as in sports datasets.
-o	Project 4: Advanced Dictionary Manipulations: Covers advanced operations such as merging dictionaries, handling key errors, and working with default values using methods like get() and setdefault().
-o	Project 5: Dictionary Comprehensions and Optimizations: Demonstrates the use of dictionary comprehensions for efficient creation and manipulation, and introduces optimizations for handling large datasets.
-•	Python-Sets: Operations on Python sets, including union, intersection, and difference:
-o	Introduction to Python Sets: Learn how to create and manage sets, which automatically remove duplicates, and perform basic operations like union, intersection, and difference.
-o	Project 1: Set Operations: Practical tasks focusing on finding the union, intersection, and difference between sets, as well as removing duplicates from lists using sets.
-o	Project 2: Finding Common Elements in Sets: This project helps in identifying common elements between two sets and updating sets with unique elements from other sets.
-o	Project 3: Set Optimizations: Explores how sets can be used to optimize membership testing and data processing in large datasets, leveraging advanced methods like symmetric_difference_update and intersection_update.
+   + [Python-Dictionaries](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/03%20-%20Python-Dictionaries): This section provides a comprehensive overview of Python dictionaries and their use in storing key-value pairs. It includes practical projects and exercises to demonstrate dictionary operations, such as adding, updating, and removing elements, as well as more advanced topics like nested dictionaries and dictionary comprehensions:
+     
+      + [Introduction to Python Dictionaries](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/01%20-%20Dictionaries.ipynb): Explores how to create, access, and modify dictionary elements, as well as iterating over keys and values.
+        
+      + [Project 1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/02%20-%20Project_1_Dictionaries.ipynb): Basic Dictionary Operations: Practical exercises on creating and modifying key-value pairs, and accessing elements in a dictionary.
+        
+      + [Project 2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/03%20-%20Project_2_Dictionaries.ipynb): Iterating and Nested Dictionaries: Introduces nested dictionaries and techniques for accessing and manipulating deeply nested elements.
+        
+      + [Project 3](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/04%20-%20Project_3_Dictionaries.ipynb): Real-World Dictionary Example: Demonstrates how dictionaries can be applied in organizing and retrieving real-world data, such as in sports datasets.
+        
+      + [Project 4](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/05%20-%20Project_4_Dictionaries.ipynb): Advanced Dictionary Manipulations: Covers advanced operations such as merging dictionaries, handling key errors, and working with default values using methods like get() and setdefault().
+        
+      + [Project 5](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/06%20-%20Project_5_Dictionaries.ipynb): Dictionary Comprehensions and Optimizations: Demonstrates the use of dictionary comprehensions for efficient creation and manipulation, and introduces optimizations for handling large datasets.
+        
+   + [Python-Sets](): Operations on Python sets, including union, intersection, and difference:
+     
+      + Introduction to Python Sets: Learn how to create and manage sets, which automatically remove duplicates, and perform basic operations like union, intersection, and difference.
+        
+      + Project 1: Set Operations: Practical tasks focusing on finding the union, intersection, and difference between sets, as well as removing duplicates from lists using sets.
+        
+      + Project 2: Finding Common Elements in Sets: This project helps in identifying common elements between two sets and updating sets with unique elements from other sets.
+        
+      + Project 3: Set Optimizations: Explores how sets can be used to optimize membership testing and data processing in large datasets, leveraging advanced methods like symmetric_difference_update and intersection_update.
+        
 •	Python-Loops: Introduction to loops and iteration in Python:
 o	Introduction to Python Loops: Covers for loops and while loops, explaining how to iterate through lists and ranges, and how to control loops using break and continue.
 o	Project 1: Looping Through Lists: Tasks involving iterating through lists, filtering, and modifying elements inside loops.

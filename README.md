@@ -20,7 +20,7 @@ Repository Structure
    
 This branch focuses on the essential building blocks of data science and Python programming. It contains 11 subdirectories:
 
-•	[Python-Basics-and-Operations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations): This section introduces the fundamental operations and concepts in Python programming. It includes a series of notebooks that cover topics such as basic data types, arithmetic operations, and string manipulation. Here’s what’s covered:
+   + [Python-Basics-and-Operations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations): This section introduces the fundamental operations and concepts in Python programming. It includes a series of notebooks that cover topics such as basic data types, arithmetic operations, and string manipulation. Here’s what’s covered:
 
 o	[First Steps in Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations/1%20-%20First%20steps.ipynb): An introduction to working with variables, data types, and basic operations.
 

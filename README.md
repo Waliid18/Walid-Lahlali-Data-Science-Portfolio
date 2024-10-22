@@ -95,7 +95,7 @@ This branch focuses on the essential building blocks of data science and Python 
       
       + [Project 6_Fibonacci Sequence Using Loops](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/05%20-%20Python-Loops/07%20-%20Project_6_Loops.ipynb): Demonstrates how to generate the Fibonacci sequence using loops and recursive logic.
       
-   + [Python-Functions](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/06%20-%20Python-Functions): Creating and using functions to organize code efficiently:
+   + [Python-Functions](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/06%20-%20Python-Functions): Creating and using functions to organize code efficiently. Here’s what’s covered::
 
       + [Introduction to Python Functions](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/06%20-%20Python-Functions/01%20-%20Basic_Functions.ipynb): Covers basic arithmetic and mathematical functions such as addition, subtraction, multiplication, division, square, and square root. It also includes functions to calculate the absolute value, rounding a number, and determining the maximum and minimum of three numbers. These functions are designed for interactive use, taking user input and returning results, which are useful for foundational programming tasks.
 
@@ -109,28 +109,42 @@ This branch focuses on the essential building blocks of data science and Python 
 
       + [Project 5_U.S. Presidential Eligibility Checkers](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/06%20-%20Python-Functions/05%20-%20Project_5_Functions.ipynb): This notebook focuses on determining whether a candidate is eligible to run for U.S. presidency based on age. It presents different methods for solving the problem: one using a simple boolean condition, another with if-else logic, and a third method checking both age and natural-born citizenship status. Each function asks for user input to assess a candidate's eligibility.
 
-   + Pandas-DataFrames: Working with Pandas DataFrames for data manipulation and analysis:
-      + Introduction to Pandas DataFrames: Learn how to create, access, and modify DataFrames, and perform essential data operations like sorting, filtering, and aggregating data.
-      + Project 1: DataFrame Basics: Practical tasks on selecting specific rows and columns, filtering data based on conditions, and summarizing data using aggregation functions.
-      + Project 2: Cleaning and Preparing Data: Techniques to clean and prepare data by handling missing values, duplicating data, and reformatting columns.
-      + Project 3: Advanced DataFrame Manipulation: Learn how to merge DataFrames, perform joins, and reshape data with pivot tables.
-      + Project 4: Time Series Data with Pandas: Manipulate time-indexed data, resample it for different time intervals, and perform time-based filtering and aggregation.
-      + Project 5: Grouping and Aggregation: Use groupby() to compute group-level statistics such as averages, sums, and counts for different groups in the dataset.
-      + Project 6: Data Visualization with Pandas: Create line plots, bar charts, and scatter plots to visualize trends, distributions, and relationships in data.
-      + Project 7: Real-World Data Analysis with Pandas: Combine all the skills learned to load, clean, analyze, and visualize a real-world dataset.
-   + Python-Web-Scraping: Techniques for extracting data from websites using Python libraries:
-      + Introduction to Web Scraping: Learn how to send HTTP requests using the requests library and extract data from HTML using BeautifulSoup.
-      + Project 1: Scraping Tables from HTML: Extract and clean data from HTML tables, and convert the data into Pandas DataFrames for analysis.
-      + Advanced Techniques: Scrape multiple tables, handle nested HTML structures, and filter data based on specific attributes like class or ID.
-   + SQL: Basics of database querying and management using SQL.
-   + Python-Data-Visualization: Creating visual representations of data using Python libraries like Matplotlib and Seaborn:
-      + Introduction to Data Visualization: Learn the basics of data visualization using Matplotlib and Seaborn. Explore creating line plots, bar charts, histograms, and scatter plots.
-      + Project 1: Visualizing Trends: Create line plots to visualize trends over time, such as stock market prices or sales data.
-      + Advanced Customization: Learn how to customize charts, add titles, labels, and legends to enhance the clarity and presentation of your visualizations.
-   + Machine-Learning: Introduction to fundamental machine learning concepts and algorithms.
+   + [Pandas-DataFrames](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/07%20-%20Pandas-DataFrames): Working with Pandas DataFrames for data manipulation and analysis. Here’s what’s covered:
+     
+      + [Introduction to Pandas DataFrames](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/07%20-%20Pandas-DataFrames/01%20-%20Dataframe.ipynb): Learn how to create, access, and modify DataFrames, and perform essential data operations like sorting, filtering, and aggregating data.
+        
+      + [Project 1_DataFrame Manipulation](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/07%20-%20Pandas-DataFrames/02%20-%20Project_1_Dataframe.ipynb): This notebook introduces basic DataFrame operations in Python using Pandas. It covers tasks like creating a DataFrame from a dictionary, displaying rows and columns, filtering data, handling missing values, and modifying or updating entries. The project also includes calculating statistical summaries such as the sum of attempts and the mean score, sorting values, and adding or removing columns.
+        
+      + [Project 2_Student Data Analysis](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/07%20-%20Pandas-DataFrames/03%20-%20Project_2_Dataframe.ipynb): This notebook involves manipulating a DataFrame of student data, focusing on tasks like retrieving specific rows and columns, filtering based on conditions, and calculating statistical summaries (e.g., mean score, total attempts). The notebook showcases different ways to handle data with Pandas, helping to understand filtering, updating, and working with structured data for analysis.
+        
+      + [Project 3_World Alcohol Consumption](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/07%20-%20Pandas-DataFrames/04%20-%20Project_3_Dataframe.ipynb): The notebook focuses on analyzing a global beverage consumption dataset, where each row represents a record with the year, country, type of beverage, and average consumption. The analysis includes retrieving information about specific countries, summarizing the average consumption per beverage type, and exploring the distribution of alcohol consumption globally. This project introduces fundamental techniques for working with real-world datasets in the context of global statistics.
+        
+      + [Project 4_DataFrame Operations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/07%20-%20Pandas-DataFrames/05%20-%20Project_4_Dataframe.ipynb): This notebook involves working with a DataFrame by performing various data manipulation tasks, likely similar to those seen in previous projects such as filtering, retrieving, and updating data.
+        
+      + [Project 5_DataFrame Operations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/07%20-%20Pandas-DataFrames/06%20-%20Project_5_Dataframe.ipynb): This project focuses on applying more advanced DataFrame manipulation techniques, building upon previous projects' skills in handling missing data, filtering, and data aggregation. The goal is to refine data analysis techniques, preparing the dataset for deeper statistical exploration.
+        
+      + [Project 6_Golden State Warriors Data Analysis](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/07%20-%20Pandas-DataFrames/07%20-%20Project_6_DataFrame.ipynb): This project analyzes data related to the Golden State Warriors basketball team, specifically examining matchups against the Toronto Raptors. It includes filtering data for home and away games, calculating statistical summaries like the average PLUS_MINUS and PTS, and visualizing the results over time using Matplotlib.
+        
+      + [Project 7_Golden State Warriors vs. Toronto Raptors](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/07%20-%20Pandas-DataFrames/08%20-%20Project_7_DataFrame.ipynb): Similar to Project 6, this notebook also focuses on the performance of the Golden State Warriors in games against the Toronto Raptors. It analyzes home and away games separately, calculating and comparing averages for various metrics. The project includes detailed visualizations of key performance metrics, providing a comprehensive look at how the team performed in different settings.
+        
+   + [Python-Web-Scraping](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/08%20-%20Python-Web-Scraping): Techniques for extracting data from websites using Python libraries. Here’s what’s covered:
+     
+      + [Introduction to Web Scraping](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/08%20-%20Python-Web-Scraping/01%20-%20Web%20Scraping.ipynb): This notebook covers the fundamentals of web scraping using Python libraries such as BeautifulSoup and Requests. It demonstrates how to extract data from HTML structures, including working with elements like tags, attributes, and navigating through a webpage’s structure. The project includes examples like scraping a web page for player salaries, parsing tables with flight and payload data, and retrieving images and links from websites. Additionally, it explores using Pandas to read HTML tables directly from URLs, making it a versatile guide for extracting data from the web for analysis. ​
+        
+   + [SQL](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/09%20-%20SQL): Basics of database querying and management using SQL.
+     
+   + [Python-Data-Visualization](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/10%20-%20Python-Data-Visualization): Creating visual representations of data using Python libraries like Matplotlib and Seaborn:
+     
+      + [Project 1_Immigration to Canada](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/10%20-%20Python-Data-Visualization/01%20-%20Project_1_Data%20Visualization.ipynb): This Data Visualization project explores immigration trends to Canada between 1980 and 2013 using various visualization techniques in Matplotlib. The analysis includes line plots to display trends from countries like Morocco, the UK, and India, as well as area plots for the top five countries with the highest immigration. Additionally, bar and horizontal bar plots are used to visualize immigration data from regions such as Africa and Asia. Through these visualizations, the project provides insights into long-term immigration trends from different countries and continents to Canada.
+
+   + [Machine-Learning](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/11%20-%20Machine-Learning): Introduction to fundamental machine learning concepts and algorithms.
+     
 Each folder contains beginner-level notebooks that cover fundamental steps and key concepts, providing a strong foundation in data science and programming.
+
 ________________________________________
-2. Concordia-Projects
+
+**2. [Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)
+   
 This branch showcases the projects and assignments I completed during my data science certificate at Concordia University. It contains 9 subdirectories, each corresponding to a specific course or project:
 •	Project-Submission: This section contains the final submission for a mini-project, which was part of the admission process to the Data Science program at Concordia University. The project focuses on analyzing football (soccer) data using the Pandas library to answer key statistical questions related to football goals, tournaments, and national performance in FIFA World Cup events. The notebook guides the user through the process of analyzing football match data using Python's Pandas library.
 •	Intro-to-Python-and-Math-Fundamentals: This section introduces the essential operations and concepts in Python programming and mathematical foundations. It includes a series of notebooks covering topics such as basic Python syntax, NumPy, statistics, and exploratory data analysis. Here’s what’s covered:

@@ -53,7 +53,7 @@ This branch focuses on the essential building blocks of data science and Python 
         
       + [Project 6_ Nested Lists](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/07%20-%20Project_6_Lists.ipynb): Explores working with nested lists, accessing and manipulating elements in multidimensional structures.
         
-      + [Project 7_Working with Large Lists:](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/08%20-%20Project_7_Lists.ipynb): Focuses on handling large lists, performing tasks such as finding the largest value or identifying unique elements.
+      + [Project 7_Working with Large Lists](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/08%20-%20Project_7_Lists.ipynb): Focuses on handling large lists, performing tasks such as finding the largest value or identifying unique elements.
         
    + [Python-Dictionaries](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/03%20-%20Python-Dictionaries): This section provides a comprehensive overview of Python dictionaries and their use in storing key-value pairs. It includes practical projects and exercises to demonstrate dictionary operations, such as adding, updating, and removing elements, as well as more advanced topics like nested dictionaries and dictionary comprehensions:
      

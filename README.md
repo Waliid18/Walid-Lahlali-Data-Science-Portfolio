@@ -69,24 +69,32 @@ This branch focuses on the essential building blocks of data science and Python 
         
       + [Project 5_Dictionary Comprehensions and Optimizations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/06%20-%20Project_5_Dictionaries.ipynb): Demonstrates the use of dictionary comprehensions for efficient creation and manipulation, and introduces optimizations for handling large datasets.
         
-   + [Python-Sets](): Operations on Python sets, including union, intersection, and difference:
+   + [Python-Sets](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/04%20-%20Python-Sets): Operations on Python sets, including union, intersection, and difference:
      
-      + Introduction to Python Sets: Learn how to create and manage sets, which automatically remove duplicates, and perform basic operations like union, intersection, and difference.
+      + [Introduction to Python Sets](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/04%20-%20Python-Sets/01%20-%20Sets.ipynb): Learn how to create and manage sets, which automatically remove duplicates, and perform basic operations like union, intersection, and difference.
         
-      + Project 1: Set Operations: Practical tasks focusing on finding the union, intersection, and difference between sets, as well as removing duplicates from lists using sets.
+      + [Project 1_Set Operations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/04%20-%20Python-Sets/02%20-%20Project_1_Sets.ipynb): Practical tasks focusing on finding the union, intersection, and difference between sets, as well as removing duplicates from lists using sets.
         
-      + Project 2: Finding Common Elements in Sets: This project helps in identifying common elements between two sets and updating sets with unique elements from other sets.
+      + [Project 2_Finding Common Elements in Sets](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/04%20-%20Python-Sets/03%20-%20Project_2_Sets.ipynb): This project helps in identifying common elements between two sets and updating sets with unique elements from other sets.
         
-      + Project 3: Set Optimizations: Explores how sets can be used to optimize membership testing and data processing in large datasets, leveraging advanced methods like symmetric_difference_update and intersection_update.
+      + [Project 3_Set Optimizations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/04%20-%20Python-Sets/04%20-%20Project_3_Sets.ipynb): Explores how sets can be used to optimize membership testing and data processing in large datasets, leveraging advanced methods like symmetric_difference_update and intersection_update.
         
-•	Python-Loops: Introduction to loops and iteration in Python:
-o	Introduction to Python Loops: Covers for loops and while loops, explaining how to iterate through lists and ranges, and how to control loops using break and continue.
-o	Project 1: Looping Through Lists: Tasks involving iterating through lists, filtering, and modifying elements inside loops.
-o	Project 2: Working with Ranges in Loops: Focuses on using the range() function for generating sequences and iterating through data.
-o	Project 3: Currency Conversion Using Loops: Applies loops to solve real-world problems like converting currencies by iterating through values.
-o	Project 4: Using While Loops: Demonstrates how while loops can be used to repeat actions based on conditions, especially when the number of iterations is unknown.
-o	Project 5: Nested Loops: Covers nested loops and how they can be used to process multi-dimensional data.
-o	Project 6: Fibonacci Sequence Using Loops: Demonstrates how to generate the Fibonacci sequence using loops and recursive logic.
+   + [Python-Loops](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/05%20-%20Python-Loops): Introduction to loops and iteration in Python:
+
+      + [Introduction to Python Loops](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/05%20-%20Python-Loops/01%20-%20Loops.ipynb): Covers for loops and while loops, explaining how to iterate through lists and ranges, and how to control loops using break and continue.
+      
+      + [Project 1_Looping Through Lists](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/05%20-%20Python-Loops/02%20-%20Project_1_Loops.ipynb): Tasks involving iterating through lists, filtering, and modifying elements inside loops.
+      
+      + [Project 2_Working with Ranges in Loops](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/05%20-%20Python-Loops/03%20-%20Project_2_Loops.ipynb): Focuses on using the range() function for generating sequences and iterating through data.
+      
+      + [Project 3_Currency Conversion Using Loops](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/05%20-%20Python-Loops/04%20-%20Project_3_Loops.ipynb): Applies loops to solve real-world problems like converting currencies by iterating through values.
+      
+      + [Project 4_Using While Loops](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/05%20-%20Python-Loops/05%20-%20Project_4_Loops.ipynb): Demonstrates how while loops can be used to repeat actions based on conditions, especially when the number of iterations is unknown.
+      
+      + [Project 5_Nested Loops](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/05%20-%20Python-Loops/06%20-%20Project_5_Loops.ipynb): Covers nested loops and how they can be used to process multi-dimensional data.
+      
+      + [Project 6_Fibonacci Sequence Using Loops](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/05%20-%20Python-Loops/07%20-%20Project_6_Loops.ipynb): Demonstrates how to generate the Fibonacci sequence using loops and recursive logic.
+      
 •	Python-Functions: Creating and using functions to organize code efficiently:
 o	Introduction to Python Functions: Covers how to define and call functions, including parameters, return values, and default arguments.
 o	Project 1: Basic Arithmetic Functions: Create functions for basic operations like addition, subtraction, multiplication, and division, with error handling for division.

@@ -1,13 +1,21 @@
 # Walid Lahlali Data Science Portfolio
+
 Welcome to my Data Science Portfolio! This repository is a showcase of the work I’ve completed throughout my data science journey. Organized like a tree, this portfolio contains four main directories (branches), each filled with projects, assignments, and resources that demonstrate my skills in data science, machine learning, and analytics.
+
 The four branches of this portfolio are:
+
 1.	Bases-Fundamental
 2.	Concordia-Projects
 3.	Coursera-Projects
 4.	Data-Science-Projects
+   
 Each branch is divided into subdirectories, and each subdirectory contains notebooks (leaves) representing individual projects or assignments. Below is a detailed overview of each branch.
+
 ________________________________________
+
+
 Repository Structure
+
 1. Bases-Fundamental
 This branch focuses on the essential building blocks of data science and Python programming. It contains 11 subdirectories:
 •	Python-Basics-and-Operations: This section introduces the fundamental operations and concepts in Python programming. It includes a series of notebooks that cover topics such as basic data types, arithmetic operations, and string manipulation. Here’s what’s covered:

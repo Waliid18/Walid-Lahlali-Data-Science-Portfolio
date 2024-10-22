@@ -6,11 +6,11 @@ The **four branches** of this **portfolio** are:
 
 **[1.	Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**
 
-**2.	[Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)**
+**[2.	Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)**
 
-**3.	[Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**
+**[3.	Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**
 
-**4.	[Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)**
+**[4.	Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)**
    
 Each branch is divided into subdirectories, and each subdirectory contains notebooks (leaves) representing individual projects or assignments. Below is a detailed overview of each branch.
 
@@ -19,7 +19,7 @@ ________________________________________
 
 ## Repository Structure
 
-**1. [Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**
+**[1. Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**
    
 This branch focuses on the essential building blocks of data science and Python programming. It contains 11 subdirectories:
 
@@ -143,7 +143,7 @@ Each folder contains beginner-level notebooks that cover fundamental steps and k
 
 ________________________________________
 
-**2. [Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)**
+**[2. Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)**
    
 This branch showcases the projects and assignments I completed during my data science certificate at Concordia University. It contains 9 subdirectories, each corresponding to a specific course or project:
 •	Project-Submission: This section contains the final submission for a mini-project, which was part of the admission process to the Data Science program at Concordia University. The project focuses on analyzing football (soccer) data using the Pandas library to answer key statistical questions related to football goals, tournaments, and national performance in FIFA World Cup events. The notebook guides the user through the process of analyzing football match data using Python's Pandas library.
@@ -175,7 +175,7 @@ Each folder contains detailed assignments and projects that showcase my ability 
 
 ________________________________________
 
-**3. Coursera-Projects**
+**[3. Coursera-Projects]()**
 
 This branch highlights the work I’ve done in obtaining multiple data science certifications from Coursera. It contains 6 subdirectories:
 Introduction-to-Data-Science-Specialization
@@ -222,8 +222,11 @@ Focused on creating data visualizations and dashboards using Power BI:
 •	Data Transformation and Cleaning
 •	Advanced DAX Functions
 Each folder contains assignments, practical projects, and case studies from the respective certifications, offering a detailed look at my learning process and practical applications.
+
 ________________________________________
-4. Data-Science-Projects
+
+**[4. Data-Science-Projects]()**
+
 This branch showcases independent data science projects I’ve worked on, organized into six key categories:
 •	Data-Visualization-Projects: Projects focused on creating compelling data visualizations to uncover insights.
 •	Exploratory-Data-Analysis-EDA-Projects: Detailed EDA projects that analyze datasets and uncover trends.
@@ -232,11 +235,15 @@ This branch showcases independent data science projects I’ve worked on, organi
 •	Deep-Learning-Projects: Projects exploring deep learning techniques, including neural networks and CNNs.
 •	Time-Series-Analysis-Projects: Time series analysis and forecasting projects using techniques like ARIMA and LSTM.
 Each folder contains detailed projects showcasing my ability to apply machine learning, deep learning, and data analysis techniques to real-world data science challenges.
+
 ________________________________________
+
 How to Navigate
 •	Branches and Leaves: Each folder (branch) contains subdirectories (branches) and project notebooks (leaves) that represent individual topics, projects, or assignments.
 •	Notebooks: Every notebook includes thorough explanations, comments, and code that can be easily followed and reproduced.
+
 ________________________________________
+
 Why This Portfolio?
 This portfolio is a reflection of my journey as a data scientist. It demonstrates my expertise across a range of topics, including Python, SQL, machine learning, data visualization, and more. Whether you’re a recruiter looking for a well-rounded candidate or a fellow data scientist looking for inspiration, this portfolio is designed to offer a clear and organized view of my skills and achievements.
 Feel free to explore the repository, clone the projects, and reach out if you’d like to discuss further!

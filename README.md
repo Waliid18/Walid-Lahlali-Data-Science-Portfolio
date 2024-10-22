@@ -16,15 +16,24 @@ ________________________________________
 
 Repository Structure
 
-1. Bases-Fundamental
+1. [Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)
+   
 This branch focuses on the essential building blocks of data science and Python programming. It contains 11 subdirectories:
-•	Python-Basics-and-Operations: This section introduces the fundamental operations and concepts in Python programming. It includes a series of notebooks that cover topics such as basic data types, arithmetic operations, and string manipulation. Here’s what’s covered:
-o	First Steps in Python: An introduction to working with variables, data types, and basic operations.
-o	Types of Objects: Exploring different Python objects like lists, dictionaries, and strings, and learning about their mutability.
-o	The Main Arithmetic Operations: Performing basic arithmetic operations and understanding how they work with different data types.
-o	Mathematical Operations with or without Parentheses: Understanding how parentheses affect the order of operations in mathematical expressions.
-o	Strings in Python: Learning how to manipulate strings, including indexing and slicing.
-o	String Operations: More advanced string manipulation techniques, such as concatenation, splitting, and finding substrings.
+
+•	[Python-Basics-and-Operations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations): This section introduces the fundamental operations and concepts in Python programming. It includes a series of notebooks that cover topics such as basic data types, arithmetic operations, and string manipulation. Here’s what’s covered:
+
+o	[First Steps in Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations/1%20-%20First%20steps.ipynb): An introduction to working with variables, data types, and basic operations.
+
+o	[Types of Objects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations/2%20-%20Types_of_objects.ipynb): Exploring different Python objects like lists, dictionaries, and strings, and learning about their mutability.
+
+o	[The Main Arithmetic Operations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations/3%20-%20The_main_arithmetic_operations.ipynb): Performing basic arithmetic operations and understanding how they work with different data types.
+
+o	[Mathematical Operations with or without Parentheses](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations/4%20-%20Mathematical_operations_with_or_without_parentheses.ipynb): Understanding how parentheses affect the order of operations in mathematical expressions.
+
+o	[Strings in Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations/5%20-%20Strings.ipynb): Learning how to manipulate strings, including indexing and slicing.
+
+o	[String Operations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations/6%20-%20String%20operations.ipynb): More advanced string manipulation techniques, such as concatenation, splitting, and finding substrings.
+
 •	Python-Lists: This section dives into Python lists, one of the fundamental data structures used to store collections of items. The notebooks cover basic list operations, manipulation techniques, and real-world projects to apply the concepts:
 o	Introduction to Python Lists: Explores list creation, indexing, modifying elements, and common list operations.
 o	Project 1: Basic List Operations: Practical tasks on creating and modifying lists, accessing elements by index, and iterating through lists.

@@ -4,10 +4,10 @@ Welcome to my Data Science Portfolio! This repository is a showcase of the work 
 
 The four branches of this portfolio are:
 
-1.	Bases-Fundamental
-2.	Concordia-Projects
-3.	Coursera-Projects
-4.	Data-Science-Projects
+1.	[Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)
+2.	[Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)
+3.	[Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)
+4.	[Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)
    
 Each branch is divided into subdirectories, and each subdirectory contains notebooks (leaves) representing individual projects or assignments. Below is a detailed overview of each branch.
 

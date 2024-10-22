@@ -199,49 +199,68 @@ ________________________________________
 **[3. Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**
 
 This branch highlights the work I’ve done in obtaining multiple data science certifications from Coursera. It contains 6 subdirectories:
-Introduction-to-Data-Science-Specialization
+
+   + Introduction-to-Data-Science-Specialization
+     
 This specialization introduced me to the fundamental concepts of data science, including:
-•	Tools-for-Data-Science: Overview of data science tools such as Python, R, and SQL.
-•	Data-Science-Methodology: Structured approaches to solving data science problems.
-•	SQL: Basic SQL queries and database operations.
-IBM-Data-Science-Fundamentals-Python-SQL-Specialization
+
+      + Tools-for-Data-Science: Overview of data science tools such as Python, R, and SQL.
+      + Data-Science-Methodology: Structured approaches to solving data science problems.
+      + SQL: Basic SQL queries and database operations.
+      
+   + IBM-Data-Science-Fundamentals-Python-SQL-Specialization
+
 This certificate focuses on Python and SQL skills, featuring:
-•	Tools-for-Data-Science: Exploration of key tools for data science.
-•	Python-for-Data-Science-AI-and-Development: In-depth Python programming for data science and AI.
-•	Python-Project-for-Data-Science: Hands-on project applying Python to solve real-world data problems.
-•	Statistics-for-Data-Science-with-Python: Key statistical concepts for data analysis.
-•	SQL: Advanced SQL techniques for database management.
-IBM-Data-Science-Professional-Certificate
+
+      + Tools-for-Data-Science: Exploration of key tools for data science.
+      + Python-for-Data-Science-AI-and-Development: In-depth Python programming for data science and AI.
+      + Python-Project-for-Data-Science: Hands-on project applying Python to solve real-world data problems.
+      + Statistics-for-Data-Science-with-Python: Key statistical concepts for data analysis.
+      + SQL: Advanced SQL techniques for database management.
+      
+   + IBM-Data-Science-Professional-Certificate
+
 A comprehensive program covering the full spectrum of data science skills:
-•	Tools-for-Data-Science
-•	Data-Science-Methodology
-•	Python-for-Data-Science-AI-and-Development
-•	SQL
-•	Data-Analysis-with-Python
-•	Data-Visualization-with-Python
-•	Machine-Learning-with-Python
-•	Data-Science-Capstone
-IBM-Data-Analyst-Professional-Certificate
+
+      + Tools-for-Data-Science
+      + Data-Science-Methodology
+      + Python-for-Data-Science-AI-and-Development
+      + SQL
+      + Data-Analysis-with-Python
+      + Data-Visualization-with-Python
+      + Machine-Learning-with-Python
+      + Data-Science-Capstone
+      
+   + IBM-Data-Analyst-Professional-Certificate
+     
 Focuses on data analysis skills using tools such as Excel, Python, and SQL:
-•	Excel-Basics-for-Data-Analysis
-•	Data-Visualization-and-Dashboards-with-Excel-and-Cognos
-•	Python-for-Data-Science-AI-and-Development
-•	Databases-and-SQL-for-Data-Science-with-Python
-•	Data-Analysis-with-Python
-•	Data-Analyst-Capstone-Project
-Google-Advanced-Data-Analytics-Professional-Certificate
+
+      + Excel-Basics-for-Data-Analysis
+      + Data-Visualization-and-Dashboards-with-Excel-and-Cognos
+      + Python-for-Data-Science-AI-and-Development
+      + Databases-and-SQL-for-Data-Science-with-Python
+      + Data-Analysis-with-Python
+      + Data-Analyst-Capstone-Project
+      
+   + Google-Advanced-Data-Analytics-Professional-Certificate
+
 Advanced data analytics and machine learning techniques:
-•	Get-Started-with-Python
-•	Go-Beyond-the-Numbers-Translate-Data-into-Insights
-•	The-Power-of-Statistics
-•	Regression-Analysis-Simplify-Complex-Data-Relationships
-•	The-Nuts-and-Bolts-of-Machine-Learning
-Microsoft-Power-BI-Data-Analyst-Professional-Certificate
+
+      + Get-Started-with-Python
+      + Go-Beyond-the-Numbers-Translate-Data-into-Insights
+      + The-Power-of-Statistics
+      + Regression-Analysis-Simplify-Complex-Data-Relationships
+      + The-Nuts-and-Bolts-of-Machine-Learning
+      
+   + Microsoft-Power-BI-Data-Analyst-Professional-Certificate
+
 Focused on creating data visualizations and dashboards using Power BI:
-•	Data-Visualization
-•	Power-BI-Dashboard-Creation
-•	Data Transformation and Cleaning
-•	Advanced DAX Functions
+
+      + Data-Visualization
+      + Power-BI-Dashboard-Creation
+      + Data Transformation and Cleaning
+      + Advanced DAX Functions
+      
 Each folder contains assignments, practical projects, and case studies from the respective certifications, offering a detailed look at my learning process and practical applications.
 
 ________________________________________
@@ -249,23 +268,27 @@ ________________________________________
 **[4. Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)**
 
 This branch showcases independent data science projects I’ve worked on, organized into six key categories:
-•	Data-Visualization-Projects: Projects focused on creating compelling data visualizations to uncover insights.
-•	Exploratory-Data-Analysis-EDA-Projects: Detailed EDA projects that analyze datasets and uncover trends.
-•	Machine-Learning-Projects: Machine learning projects ranging from regression and classification to clustering.
-•	Natural-Language-Processing-NLP-Projects: Projects focused on NLP techniques such as text classification and sentiment analysis.
-•	Deep-Learning-Projects: Projects exploring deep learning techniques, including neural networks and CNNs.
-•	Time-Series-Analysis-Projects: Time series analysis and forecasting projects using techniques like ARIMA and LSTM.
+
+   + Data-Visualization-Projects: Projects focused on creating compelling data visualizations to uncover insights.
+   + Exploratory-Data-Analysis-EDA-Projects: Detailed EDA projects that analyze datasets and uncover trends.
+   + Machine-Learning-Projects: Machine learning projects ranging from regression and classification to clustering.
+   + Natural-Language-Processing-NLP-Projects: Projects focused on NLP techniques such as text classification and sentiment analysis.
+   + Deep-Learning-Projects: Projects exploring deep learning techniques, including neural networks and CNNs.
+   + Time-Series-Analysis-Projects: Time series analysis and forecasting projects using techniques like ARIMA and LSTM.
+     
 Each folder contains detailed projects showcasing my ability to apply machine learning, deep learning, and data analysis techniques to real-world data science challenges.
 
 ________________________________________
 
-How to Navigate
-•	Branches and Leaves: Each folder (branch) contains subdirectories (branches) and project notebooks (leaves) that represent individual topics, projects, or assignments.
-•	Notebooks: Every notebook includes thorough explanations, comments, and code that can be easily followed and reproduced.
+## How to Navigate
+
+   + Branches and Leaves: Each folder (branch) contains subdirectories (branches) and project notebooks (leaves) that represent individual topics, projects, or assignments.
+   + Notebooks: Every notebook includes thorough explanations, comments, and code that can be easily followed and reproduced.
 
 ________________________________________
 
-Why This Portfolio?
+## Why This Portfolio?
+
 This portfolio is a reflection of my journey as a data scientist. It demonstrates my expertise across a range of topics, including Python, SQL, machine learning, data visualization, and more. Whether you’re a recruiter looking for a well-rounded candidate or a fellow data scientist looking for inspiration, this portfolio is designed to offer a clear and organized view of my skills and achievements.
 Feel free to explore the repository, clone the projects, and reach out if you’d like to discuss further!
 

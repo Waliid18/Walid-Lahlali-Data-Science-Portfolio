@@ -41,33 +41,33 @@ This branch focuses on the essential building blocks of data science and Python 
      
       + [Introduction to Python Lists](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/01%20-%20Lists.ipynb): Explores list creation, indexing, modifying elements, and common list operations.
         
-      + [Project 1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/02%20-%20Project_1_Lists.ipynb): Basic List Operations: Practical tasks on creating and modifying lists, accessing elements by index, and iterating through lists.
+      + [Project 1_Basic List Operations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/02%20-%20Project_1_Lists.ipynb): Practical tasks on creating and modifying lists, accessing elements by index, and iterating through lists.
         
-      + [Project 2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/03%20-%20Project_2_Lists.ipynb): Advanced List Manipulation: Focuses on replacing list elements using values from other parts of the list, and printing elements through iteration.
+      + [Project 2_Advanced List Manipulation](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/03%20-%20Project_2_Lists.ipynb): Focuses on replacing list elements using values from other parts of the list, and printing elements through iteration.
         
-      + [Project 3](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/04%20-%20Project_3_Lists.ipynb): Sorting and Filtering Lists: Covers sorting list elements and filtering based on conditions, such as finding values greater than a specific number.
+      + [Project 3_Sorting and Filtering Lists](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/04%20-%20Project_3_Lists.ipynb): Covers sorting list elements and filtering based on conditions, such as finding values greater than a specific number.
         
-      + [Project 4](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/05%20-%20Project_4_Lists.ipynb): List Comprehensions: Demonstrates the use of list comprehensions for concise list creation and manipulation, including filtering and modifying elements.
+      + [Project 4_List Comprehensions](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/05%20-%20Project_4_Lists.ipynb): Demonstrates the use of list comprehensions for concise list creation and manipulation, including filtering and modifying elements.
         
-      + [Project 5](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/06%20-%20Project_5_Lists.ipynb): Lists with User Input: Builds lists from user input and performs operations like summing elements or finding specific values.
+      + [Project 5_Lists with User Input](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/06%20-%20Project_5_Lists.ipynb): Builds lists from user input and performs operations like summing elements or finding specific values.
         
-      + [Project 6](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/07%20-%20Project_6_Lists.ipynb): Nested Lists: Explores working with nested lists, accessing and manipulating elements in multidimensional structures.
+      + [Project 6_ Nested Lists](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/07%20-%20Project_6_Lists.ipynb): Explores working with nested lists, accessing and manipulating elements in multidimensional structures.
         
-      + [Project 7](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/08%20-%20Project_7_Lists.ipynb): Working with Large Lists: Focuses on handling large lists, performing tasks such as finding the largest value or identifying unique elements.
+      + [Project 7_Working with Large Lists:](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/08%20-%20Project_7_Lists.ipynb): Focuses on handling large lists, performing tasks such as finding the largest value or identifying unique elements.
         
    + [Python-Dictionaries](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/03%20-%20Python-Dictionaries): This section provides a comprehensive overview of Python dictionaries and their use in storing key-value pairs. It includes practical projects and exercises to demonstrate dictionary operations, such as adding, updating, and removing elements, as well as more advanced topics like nested dictionaries and dictionary comprehensions:
      
       + [Introduction to Python Dictionaries](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/01%20-%20Dictionaries.ipynb): Explores how to create, access, and modify dictionary elements, as well as iterating over keys and values.
         
-      + [Project 1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/02%20-%20Project_1_Dictionaries.ipynb): Basic Dictionary Operations: Practical exercises on creating and modifying key-value pairs, and accessing elements in a dictionary.
+      + [Project 1_Basic Dictionary Operations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/02%20-%20Project_1_Dictionaries.ipynb): Practical exercises on creating and modifying key-value pairs, and accessing elements in a dictionary.
         
-      + [Project 2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/03%20-%20Project_2_Dictionaries.ipynb): Iterating and Nested Dictionaries: Introduces nested dictionaries and techniques for accessing and manipulating deeply nested elements.
+      + [Project 2_Iterating and Nested Dictionaries](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/03%20-%20Project_2_Dictionaries.ipynb): Introduces nested dictionaries and techniques for accessing and manipulating deeply nested elements.
         
-      + [Project 3](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/04%20-%20Project_3_Dictionaries.ipynb): Real-World Dictionary Example: Demonstrates how dictionaries can be applied in organizing and retrieving real-world data, such as in sports datasets.
+      + [Project 3_Real-World Dictionary Example](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/04%20-%20Project_3_Dictionaries.ipynb): Demonstrates how dictionaries can be applied in organizing and retrieving real-world data, such as in sports datasets.
         
-      + [Project 4](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/05%20-%20Project_4_Dictionaries.ipynb): Advanced Dictionary Manipulations: Covers advanced operations such as merging dictionaries, handling key errors, and working with default values using methods like get() and setdefault().
+      + [Project 4_Advanced Dictionary Manipulations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/05%20-%20Project_4_Dictionaries.ipynb): Covers advanced operations such as merging dictionaries, handling key errors, and working with default values using methods like get() and setdefault().
         
-      + [Project 5](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/06%20-%20Project_5_Dictionaries.ipynb): Dictionary Comprehensions and Optimizations: Demonstrates the use of dictionary comprehensions for efficient creation and manipulation, and introduces optimizations for handling large datasets.
+      + [Project 5_Dictionary Comprehensions and Optimizations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/06%20-%20Project_5_Dictionaries.ipynb): Demonstrates the use of dictionary comprehensions for efficient creation and manipulation, and introduces optimizations for handling large datasets.
         
    + [Python-Sets](): Operations on Python sets, including union, intersection, and difference:
      

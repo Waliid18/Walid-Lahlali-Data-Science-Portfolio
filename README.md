@@ -1,6 +1,6 @@
 # Walid Lahlali Data Science Portfolio
 
-Welcome to my Data Science Portfolio! This repository is a showcase of the work I’ve completed throughout my data science journey. Organized like a tree, this portfolio contains four main directories (branches), each filled with projects, assignments, and resources that demonstrate my skills in data science, machine learning, and analytics.
+Welcome to my **Data Science Portfolio**! This repository is a showcase of the work I’ve completed throughout my data science journey. Organized like a **tree**, this portfolio contains **four** main **directories (branches)**, each filled with projects, assignments, and resources that demonstrate my skills in **data science**, **machine learning**, and **analytics**.
 
 The **four branches** of this **portfolio** are:
 
@@ -95,32 +95,39 @@ This branch focuses on the essential building blocks of data science and Python 
       
       + [Project 6_Fibonacci Sequence Using Loops](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/05%20-%20Python-Loops/07%20-%20Project_6_Loops.ipynb): Demonstrates how to generate the Fibonacci sequence using loops and recursive logic.
       
-•	Python-Functions: Creating and using functions to organize code efficiently:
-o	Introduction to Python Functions: Covers how to define and call functions, including parameters, return values, and default arguments.
-o	Project 1: Basic Arithmetic Functions: Create functions for basic operations like addition, subtraction, multiplication, and division, with error handling for division.
-o	Project 2: Conditional Logic in Functions: Functions that use conditional logic to check user eligibility (e.g., age-based voting or presidential eligibility).
-o	Project 3: Functions with User Input: Interactive functions that take user input, process it, and return results.
-o	Project 4: Functions for Repeated Calculations: Using functions to perform repeated calculations like compound interest or percentage changes.
-o	Project 5: Advanced Function Techniques: Covers recursion, lambda functions, and higher-order functions to solve problems like generating the Fibonacci sequence.
-•	Pandas-DataFrames: Working with Pandas DataFrames for data manipulation and analysis:
-o	Introduction to Pandas DataFrames: Learn how to create, access, and modify DataFrames, and perform essential data operations like sorting, filtering, and aggregating data.
-o	Project 1: DataFrame Basics: Practical tasks on selecting specific rows and columns, filtering data based on conditions, and summarizing data using aggregation functions.
-o	Project 2: Cleaning and Preparing Data: Techniques to clean and prepare data by handling missing values, duplicating data, and reformatting columns.
-o	Project 3: Advanced DataFrame Manipulation: Learn how to merge DataFrames, perform joins, and reshape data with pivot tables.
-o	Project 4: Time Series Data with Pandas: Manipulate time-indexed data, resample it for different time intervals, and perform time-based filtering and aggregation.
-o	Project 5: Grouping and Aggregation: Use groupby() to compute group-level statistics such as averages, sums, and counts for different groups in the dataset.
-o	Project 6: Data Visualization with Pandas: Create line plots, bar charts, and scatter plots to visualize trends, distributions, and relationships in data.
-o	Project 7: Real-World Data Analysis with Pandas: Combine all the skills learned to load, clean, analyze, and visualize a real-world dataset.
-•	Python-Web-Scraping: Techniques for extracting data from websites using Python libraries:
-o	Introduction to Web Scraping: Learn how to send HTTP requests using the requests library and extract data from HTML using BeautifulSoup.
-o	Project 1: Scraping Tables from HTML: Extract and clean data from HTML tables, and convert the data into Pandas DataFrames for analysis.
-o	Advanced Techniques: Scrape multiple tables, handle nested HTML structures, and filter data based on specific attributes like class or ID.
-•	SQL: Basics of database querying and management using SQL.
-•	Python-Data-Visualization: Creating visual representations of data using Python libraries like Matplotlib and Seaborn:
-o	Introduction to Data Visualization: Learn the basics of data visualization using Matplotlib and Seaborn. Explore creating line plots, bar charts, histograms, and scatter plots.
-o	Project 1: Visualizing Trends: Create line plots to visualize trends over time, such as stock market prices or sales data.
-o	Advanced Customization: Learn how to customize charts, add titles, labels, and legends to enhance the clarity and presentation of your visualizations.
-•	Machine-Learning: Introduction to fundamental machine learning concepts and algorithms.
+   + [Python-Functions](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/06%20-%20Python-Functions): Creating and using functions to organize code efficiently:
+
+      + [Introduction to Python Functions](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/06%20-%20Python-Functions/01%20-%20Basic_Functions.ipynb): Covers basic arithmetic and mathematical functions such as addition, subtraction, multiplication, division, square, and square root. It also includes functions to calculate the absolute value, rounding a number, and determining the maximum and minimum of three numbers. These functions are designed for interactive use, taking user input and returning results, which are useful for foundational programming tasks.
+
+      + [Project 1_Basic Arithmetic Functions](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/06%20-%20Python-Functions/01%20-%20Basic_Functions.ipynb): Create functions for basic operations like addition, subtraction, multiplication, and division, with error handling for division.
+
+      + [Project 2_Conditional Logic in Functions](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/06%20-%20Python-Functions/02%20-%20Project_2_Functions.ipynb): This notebook focuses on algebraic identities, providing functions to compute several remarkable identities. Each function takes input values for the variables and computes the result using the corresponding identity, with the results printed in a structured format. The notebook emphasizes the practical application of algebraic expressions, helping users develop a deeper understanding of mathematical functions and their use in problem-solving.
+
+      + [Project 3_Functions with User Input](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/06%20-%20Python-Functions/03%20-%20Project_3_Functions.ipynb): In this notebook, the focus is on developing functions to find the maximum and minimum of three numbers. The maximum and minimum functions compare the input values using conditional logic and return the largest or smallest number accordingly. The notebook encourages user interaction by prompting for inputs, providing a hands-on approach to understanding comparison logic and decision-making in Python.
+
+      + [Project 4_Functions for Repeated Calculations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/06%20-%20Python-Functions/04%20-%20Project_4_Functions.ipynb): This notebook contains a function to calculate the total height a person would traverse weekly based on the number of steps and the height of each step. It performs calculations by multiplying the number of steps, step height, and constants, then converting the result into meters. The function includes error handling to ensure only positive inputs are accepted.
+
+      + [Project 5_Advanced Function Techniques](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/06%20-%20Python-Functions/05%20-%20Project_5_Functions.ipynb): This notebook focuses on determining whether a candidate is eligible to run for U.S. presidency based on age. It presents different methods for solving the problem: one using a simple boolean condition, another with if-else logic, and a third method checking both age and natural-born citizenship status. Each function asks for user input to assess a candidate's eligibility.
+
+   + Pandas-DataFrames: Working with Pandas DataFrames for data manipulation and analysis:
+      + Introduction to Pandas DataFrames: Learn how to create, access, and modify DataFrames, and perform essential data operations like sorting, filtering, and aggregating data.
+      + Project 1: DataFrame Basics: Practical tasks on selecting specific rows and columns, filtering data based on conditions, and summarizing data using aggregation functions.
+      + Project 2: Cleaning and Preparing Data: Techniques to clean and prepare data by handling missing values, duplicating data, and reformatting columns.
+      + Project 3: Advanced DataFrame Manipulation: Learn how to merge DataFrames, perform joins, and reshape data with pivot tables.
+      + Project 4: Time Series Data with Pandas: Manipulate time-indexed data, resample it for different time intervals, and perform time-based filtering and aggregation.
+      + Project 5: Grouping and Aggregation: Use groupby() to compute group-level statistics such as averages, sums, and counts for different groups in the dataset.
+      + Project 6: Data Visualization with Pandas: Create line plots, bar charts, and scatter plots to visualize trends, distributions, and relationships in data.
+      + Project 7: Real-World Data Analysis with Pandas: Combine all the skills learned to load, clean, analyze, and visualize a real-world dataset.
+   + Python-Web-Scraping: Techniques for extracting data from websites using Python libraries:
+      + Introduction to Web Scraping: Learn how to send HTTP requests using the requests library and extract data from HTML using BeautifulSoup.
+      + Project 1: Scraping Tables from HTML: Extract and clean data from HTML tables, and convert the data into Pandas DataFrames for analysis.
+      + Advanced Techniques: Scrape multiple tables, handle nested HTML structures, and filter data based on specific attributes like class or ID.
+   + SQL: Basics of database querying and management using SQL.
+   + Python-Data-Visualization: Creating visual representations of data using Python libraries like Matplotlib and Seaborn:
+      + Introduction to Data Visualization: Learn the basics of data visualization using Matplotlib and Seaborn. Explore creating line plots, bar charts, histograms, and scatter plots.
+      + Project 1: Visualizing Trends: Create line plots to visualize trends over time, such as stock market prices or sales data.
+      + Advanced Customization: Learn how to customize charts, add titles, labels, and legends to enhance the clarity and presentation of your visualizations.
+   + Machine-Learning: Introduction to fundamental machine learning concepts and algorithms.
 Each folder contains beginner-level notebooks that cover fundamental steps and key concepts, providing a strong foundation in data science and programming.
 ________________________________________
 2. Concordia-Projects

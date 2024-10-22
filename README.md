@@ -146,36 +146,57 @@ ________________________________________
 **[2. Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)**
    
 This branch showcases the projects and assignments I completed during my data science certificate at Concordia University. It contains 9 subdirectories, each corresponding to a specific course or project:
-•	Project-Submission: This section contains the final submission for a mini-project, which was part of the admission process to the Data Science program at Concordia University. The project focuses on analyzing football (soccer) data using the Pandas library to answer key statistical questions related to football goals, tournaments, and national performance in FIFA World Cup events. The notebook guides the user through the process of analyzing football match data using Python's Pandas library.
-•	Intro-to-Python-and-Math-Fundamentals: This section introduces the essential operations and concepts in Python programming and mathematical foundations. It includes a series of notebooks covering topics such as basic Python syntax, NumPy, statistics, and exploratory data analysis. Here’s what’s covered:
-o	Intro to Python: Covers Python basics, data types, string operations, lists, tuples, and function definitions.
-o	Intermediate Python: Explores conditional logic, loops, dictionaries, advanced functions, and error handling.
-o	NumPy: Introduces array creation, indexing, slicing, reshaping, broadcasting, and statistical operations using NumPy.
-o	EDA Project: Focuses on exploratory data analysis (EDA) using a COVID-19 dataset, examining total cases, deaths, and trends across Canadian provinces.
-o	Statistics: Teaches probability, distributions, and hypothesis testing with real-world applications.
-o	Web Scraping: Demonstrates web scraping techniques using requests and BeautifulSoup to extract data from websites. 
-•	Data-Visualization-and-Exploration: This section focuses on data visualization and exploration using libraries like Matplotlib and Seaborn. It includes the following notebooks:
-o	Matplotlib: Introduces fundamental plotting techniques, covering line plots, bar charts, histograms, and scatter plots, along with customization options for axes, labels, and grids.
-o	seaborn Project: Analyzes and visualizes data from the modern Olympic Games using Seaborn and Matplotlib. Covers topics such as athlete participation, gender distribution, medal counts, and the popularity of various sports.
-•	Algorithms-and-Data-Structures: This section covers fundamental algorithms and data structures, exploring time complexity, object-oriented programming, and practical implementations of sorting and graph traversal. It includes the following notebooks:
-o	Big-O Notation: Introduces time complexity and the concept of Big-O, analyzing the performance of basic algorithms.
-o	• Python Classes (Rational Numbers): Implements a Python class to represent rational numbers, with methods for arithmetic operations such as addition, subtraction, multiplication, and division.
-o	• Linked Lists: Covers the implementation of singly linked lists, exploring the concept of nodes, linked data structures, and traversal.
-o	• Graphs: Introduces graph theory using NetworkX, with exercises to create and visualize simple graphs, including nodes and edges.
-o	• Random Walks on Graphs: Implements a random walk algorithm on graphs using NetworkX, exploring probabilistic traversal techniques.
-o	• Recursion and Hybrid Sorting: Combines merge sort and selection sort to create a hybrid sorting algorithm, demonstrating the use of recursion and timing analysis for optimization.
 
-
-•	SQL-and-PySpark: Introduction to SQL for database management and PySpark for big data processing.
-•	Supervised-Learning: Projects exploring supervised machine learning techniques such as regression and classification.
-•	Unsupervised-Learning: Projects applying unsupervised learning algorithms such as clustering and dimensionality reduction.
-•	Deep-Learning: Introduction to deep learning techniques and neural networks.
-•	Final-Project: The capstone project, integrating all the skills learned during the certificate.
+   + Project-Submission: This section contains the final submission for a mini-project, which was part of the admission process to the Data Science program at Concordia University. The project focuses on analyzing football (soccer) data using the Pandas library to answer key statistical questions related to football goals, tournaments, and national performance in FIFA World Cup events. The notebook guides the user through the process of analyzing football match data using Python's Pandas library.
+     
+   + Intro-to-Python-and-Math-Fundamentals: This section introduces the essential operations and concepts in Python programming and mathematical foundations. It includes a series of notebooks covering topics such as basic Python syntax, NumPy, statistics, and exploratory data analysis. Here’s what’s covered:
+     
+      + Intro to Python: Covers Python basics, data types, string operations, lists, tuples, and function definitions.
+        
+      + Intermediate Python: Explores conditional logic, loops, dictionaries, advanced functions, and error handling.
+        
+      + NumPy: Introduces array creation, indexing, slicing, reshaping, broadcasting, and statistical operations using NumPy.
+        
+      + EDA Project: Focuses on exploratory data analysis (EDA) using a COVID-19 dataset, examining total cases, deaths, and trends across Canadian provinces.
+        
+      + Statistics: Teaches probability, distributions, and hypothesis testing with real-world applications.
+        
+      + Web Scraping: Demonstrates web scraping techniques using requests and BeautifulSoup to extract data from websites.
+        
+   + Data-Visualization-and-Exploration: This section focuses on data visualization and exploration using libraries like Matplotlib and Seaborn. It includes the following notebooks:
+     
+      + Matplotlib: Introduces fundamental plotting techniques, covering line plots, bar charts, histograms, and scatter plots, along with customization options for axes, labels, and grids.
+        
+      + seaborn Project: Analyzes and visualizes data from the modern Olympic Games using Seaborn and Matplotlib. Covers topics such as athlete participation, gender distribution, medal counts, and the popularity of various sports.
+        
+   + Algorithms-and-Data-Structures: This section covers fundamental algorithms and data structures, exploring time complexity, object-oriented programming, and practical implementations of sorting and graph traversal. It includes the following notebooks:
+     
+      + Big-O Notation: Introduces time complexity and the concept of Big-O, analyzing the performance of basic algorithms.
+        
+      + Python Classes (Rational Numbers): Implements a Python class to represent rational numbers, with methods for arithmetic operations such as addition, subtraction, multiplication, and division.
+        
+      + Linked Lists: Covers the implementation of singly linked lists, exploring the concept of nodes, linked data structures, and traversal.
+        
+      + Graphs: Introduces graph theory using NetworkX, with exercises to create and visualize simple graphs, including nodes and edges.
+        
+      + Random Walks on Graphs: Implements a random walk algorithm on graphs using NetworkX, exploring probabilistic traversal techniques.
+        
+      + Recursion and Hybrid Sorting: Combines merge sort and selection sort to create a hybrid sorting algorithm, demonstrating the use of recursion and timing analysis for optimization.
+        
+   + SQL-and-PySpark: Introduction to SQL for database management and PySpark for big data processing.
+     
+   + Supervised-Learning: Projects exploring supervised machine learning techniques such as regression and classification.
+     
+   + Unsupervised-Learning: Projects applying unsupervised learning algorithms such as clustering and dimensionality reduction.
+     
+   + Deep-Learning: Introduction to deep learning techniques and neural networks.
+     
+   + Final-Project: The capstone project, integrating all the skills learned during the certificate.
 Each folder contains detailed assignments and projects that showcase my ability to apply theoretical concepts to practical data science problems.
 
 ________________________________________
 
-**[3. Coursera-Projects]()**
+**[3. Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**
 
 This branch highlights the work I’ve done in obtaining multiple data science certifications from Coursera. It contains 6 subdirectories:
 Introduction-to-Data-Science-Specialization
@@ -225,7 +246,7 @@ Each folder contains assignments, practical projects, and case studies from the 
 
 ________________________________________
 
-**[4. Data-Science-Projects]()**
+**[4. Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)**
 
 This branch showcases independent data science projects I’ve worked on, organized into six key categories:
 •	Data-Visualization-Projects: Projects focused on creating compelling data visualizations to uncover insights.

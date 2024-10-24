@@ -264,7 +264,7 @@ ________________________________________
 
 This branch highlights the work I’ve done in obtaining multiple data science certifications from Coursera. It contains **6** subdirectories:
 
-   + [Introduction-to-Data-Science-Specialization](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization): This specialization introduced me to the fundamental concepts of data science, including:
+   + [Introduction-to-Data-Science-Specialization](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization): This specialization certificate introduced me to the fundamental concepts of data science, including:
 
       + [Tools-for-Data-Science](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization/01%20-%20Tools-for-Data-Science): This course provides an essential foundation for working with key tools and environments commonly used in data science. Focusing primarily on Jupyter Notebook, the course introduces learners to its interface and core functionalities, including writing and executing code, creating Markdown cells, and handling file operations with Python. Through practical, hands-on exercises, participants gain a solid understanding of how to use Jupyter Notebook for data organization, analysis, and visualization. This course serves as a critical stepping stone for mastering more advanced data science tools and techniques. Here’s what’s covered:
         

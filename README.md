@@ -12,7 +12,7 @@ The **four branches** of this **portfolio** are:
 
 **[4.	Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)**
    
-Each branch is divided into subdirectories, and each subdirectory contains notebooks (leaves) representing individual projects or assignments. Below is a detailed overview of each branch.
+Each branch is divided into subdirectories, and each subdirectory contains **notebooks (leaves)** representing individual projects or assignments. Below is a detailed overview of each branch.
 
 ________________________________________
 
@@ -262,68 +262,86 @@ ________________________________________
 
 **[3. Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**
 
-This branch highlights the work I’ve done in obtaining multiple data science certifications from Coursera. It contains 6 subdirectories:
+This branch highlights the work I’ve done in obtaining multiple data science certifications from Coursera. It contains **6** subdirectories:
 
-   + Introduction-to-Data-Science-Specialization
-     
-This specialization introduced me to the fundamental concepts of data science, including:
+   + [Introduction-to-Data-Science-Specialization](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization): This specialization introduced me to the fundamental concepts of data science, including:
 
-      + Tools-for-Data-Science: Overview of data science tools such as Python, R, and SQL.
-      + Data-Science-Methodology: Structured approaches to solving data science problems.
-      + SQL: Basic SQL queries and database operations.
+      + [Tools-for-Data-Science](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization/01%20-%20Tools-for-Data-Science): This course provides an essential foundation for working with key tools and environments commonly used in data science. Focusing primarily on Jupyter Notebook, the course introduces learners to its interface and core functionalities, including writing and executing code, creating Markdown cells, and handling file operations with Python. Through practical, hands-on exercises, participants gain a solid understanding of how to use Jupyter Notebook for data organization, analysis, and visualization. This course serves as a critical stepping stone for mastering more advanced data science tools and techniques. Here’s what’s covered:
+        
+         + [Project 1_Getting Started with Jupyter Notebook](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization/01%20-%20Tools-for-Data-Science/Project_1_Getting_Started_with_JupyterNotebook.ipynb): This notebook introduces the basics of using Jupyter Notebook, including creating and executing code and text cells. It covers essential features like inserting images and using Markdown commands to format content.
+           
+         + [Project 2_Using Markdown](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization/01%20-%20Tools-for-Data-Science/Project_2_Using_markdowns.ipynb): This notebook focuses on using Markdown within Jupyter cells. It teaches how to create headings, bold and italic text, lists, links, and images in notebooks. It also includes practical exercises to manipulate Markdown cells.
+           
+         + [Project 3_Working with Files](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization/01%20-%20Tools-for-Data-Science/Project_3_Working_with_files.ipynb): This notebook explains how to work with files in a Jupyter environment. It covers reading, writing, and manipulating files using Python, particularly with standard libraries like os and pandas. Practical examples are provided for reading and writing CSV files.
+           
+      + [Data-Science-Methodology](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization/02%20-%20Data-Science-Methodology): This section introduces the key stages of the Data Science Methodology, providing a structured approach to tackling data science projects. It includes a series of notebooks covering topics such as understanding and preparing data, building machine learning models, and evaluating their performance. Here’s what’s covered:
+         
+         + [Project_1_From Understanding to Preparation](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization/02%20-%20Data-Science-Methodology/Project_1_From%20Understanding%20to%20Preparation.ipynb): This notebook focuses on understanding the data and preparing it for analysis. It includes steps for exploring and cleaning the dataset, such as handling missing values, formatting data, and performing basic exploratory analysis. The goal is to ensure that the data is in the right format and ready for modeling.
+           
+         + [Project_2_From Modeling to Evaluation](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization/02%20-%20Data-Science-Methodology/Project_2_From%20Modeling%20to%20Evaluation.ipynb): This notebook covers the modeling and evaluation phases of the data science methodology. It walks through the process of building machine learning models, training them on the prepared data, and evaluating their performance using metrics like accuracy and confusion matrices. 
+           
+      + [SQL](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization/03%20-%20SQL): This section introduces the essential operations and concepts in SQL for working with databases and performing data analysis. It includes a series of notebooks covering topics such as inserting and updating data in SQLite, using SQL Magic commands in Jupyter, advanced data analysis with SQL queries, and hands-on practice with real-world datasets. Here’s what’s covered:
+        
+         + [Project_1_Insert_Update_SQLite](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization/03%20-%20SQL/Project_1_Insert_Update_SQLite.ipynb): This notebook covers basic SQL operations such as inserting and updating records in a SQLite database. Learners are guided through the process of writing queries to add new data to tables and modify existing data. 
+           
+         + [Project_2_SQLmagic_SQlite](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization/03%20-%20SQL/Project_2_SQLmagic_SQlite.ipynb): This notebook introduces the use of SQL Magic commands in Jupyter Notebook to interact with SQLite databases. It demonstrates how to run SQL queries directly within the notebook environment using magic commands, providing a convenient way to explore and analyze data.
+           
+         + [Project_3_Analyzing_SQLite](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization/03%20-%20SQL/Project_3_Analyzing_SQLite.ipynb): This notebook focuses on more advanced SQL queries for data analysis. It includes exercises on using aggregate functions, filtering data, and joining tables to extract meaningful insights from datasets.
+           
+         + [Project_4_RealDataPractice-v5_sqlite_Learner](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization/03%20-%20SQL/Project_4_RealDataPractice-v5_sqlite_Learner.ipynb): This notebook provides hands-on practice with a real-world dataset using SQLite. Learners are tasked with writing complex SQL queries, using subqueries, and performing data analysis to answer specific business questions. It also covers visualization techniques using Python alongside SQL to better understand the data.
       
-   + IBM-Data-Science-Fundamentals-Python-SQL-Specialization
+   + [IBM-Data-Science-Fundamentals-Python-SQL-Specialization]()
 
 This certificate focuses on Python and SQL skills, featuring:
 
-      + Tools-for-Data-Science: Exploration of key tools for data science.
-      + Python-for-Data-Science-AI-and-Development: In-depth Python programming for data science and AI.
-      + Python-Project-for-Data-Science: Hands-on project applying Python to solve real-world data problems.
-      + Statistics-for-Data-Science-with-Python: Key statistical concepts for data analysis.
-      + SQL: Advanced SQL techniques for database management.
+      + [Tools-for-Data-Science](): Exploration of key tools for data science.
+      + [Python-for-Data-Science-AI-and-Development](): In-depth Python programming for data science and AI.
+      + [Python-Project-for-Data-Science](): Hands-on project applying Python to solve real-world data problems.
+      + [Statistics-for-Data-Science-with-Python](): Key statistical concepts for data analysis.
+      + [SQL](): Advanced SQL techniques for database management.
       
-   + IBM-Data-Science-Professional-Certificate
+   + [IBM-Data-Science-Professional-Certificate]()
 
 A comprehensive program covering the full spectrum of data science skills:
 
-      + Tools-for-Data-Science
-      + Data-Science-Methodology
-      + Python-for-Data-Science-AI-and-Development
-      + SQL
-      + Data-Analysis-with-Python
-      + Data-Visualization-with-Python
-      + Machine-Learning-with-Python
-      + Data-Science-Capstone
+      + [Tools-for-Data-Science]()
+      + [Data-Science-Methodology]()
+      + [Python-for-Data-Science-AI-and-Development]()
+      + [SQL]()
+      + [Data-Analysis-with-Python]()
+      + [Data-Visualization-with-Python]()
+      + [Machine-Learning-with-Python]()
+      + [Data-Science-Capstone]()
       
-   + IBM-Data-Analyst-Professional-Certificate
+   + [IBM-Data-Analyst-Professional-Certificate]()
      
 Focuses on data analysis skills using tools such as Excel, Python, and SQL:
 
-      + Excel-Basics-for-Data-Analysis
-      + Data-Visualization-and-Dashboards-with-Excel-and-Cognos
-      + Python-for-Data-Science-AI-and-Development
-      + Databases-and-SQL-for-Data-Science-with-Python
-      + Data-Analysis-with-Python
-      + Data-Analyst-Capstone-Project
+      + [Excel-Basics-for-Data-Analysis]()
+      + [Data-Visualization-and-Dashboards-with-Excel-and-Cognos]()
+      + [Python-for-Data-Science-AI-and-Development]()
+      + [Databases-and-SQL-for-Data-Science-with-Python]()
+      + [Data-Analysis-with-Python]()
+      + [Data-Analyst-Capstone-Project]()
       
-   + Google-Advanced-Data-Analytics-Professional-Certificate
+   + [Google-Advanced-Data-Analytics-Professional-Certificate]()
 
 Advanced data analytics and machine learning techniques:
 
-      + Get-Started-with-Python
-      + Go-Beyond-the-Numbers-Translate-Data-into-Insights
-      + The-Power-of-Statistics
-      + Regression-Analysis-Simplify-Complex-Data-Relationships
-      + The-Nuts-and-Bolts-of-Machine-Learning
+      + [Get-Started-with-Python]()
+      + [Go-Beyond-the-Numbers-Translate-Data-into-Insights]()
+      + [The-Power-of-Statistics]()
+      + [Regression-Analysis-Simplify-Complex-Data-Relationships]()
+      + [The-Nuts-and-Bolts-of-Machine-Learning]()
       
-   + Microsoft-Power-BI-Data-Analyst-Professional-Certificate
+   + [Microsoft-Power-BI-Data-Analyst-Professional-Certificate]()
 
 Focused on creating data visualizations and dashboards using Power BI:
 
-      + Data-Visualization
-      + Power-BI-Dashboard-Creation
-      + Data Transformation and Cleaning
-      + Advanced DAX Functions
+      + [Data-Visualization]()
+      + [Power-BI-Dashboard-Creation]()
+      + [Data Transformation and Cleaning]()
+      + [Advanced DAX Functions]()(
       
 Each folder contains assignments, practical projects, and case studies from the respective certifications, offering a detailed look at my learning process and practical applications.
 

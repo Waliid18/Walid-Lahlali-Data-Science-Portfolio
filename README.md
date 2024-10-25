@@ -522,7 +522,7 @@ This branch highlights the work I’ve done in obtaining multiple data science c
        
          + [README](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/03%20-%20IBM-Data-Science-Professional-Certificate/08%20-%20Data-Science-Capstone/README.md): This README provides a detailed overview of the Data Science Capstone project, outlining the key topics, methodologies, and data science techniques used throughout the project. It includes descriptions of the data collection, processing, and analysis steps, along with insights from predictive modeling and machine learning applications.
       
-   + [IBM-Data-Analyst-Professional-Certificate](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/04%20-%20IBM-Data-Analyst-Professional-Certificate): Focuses on data analysis skills using tools such as Excel, Python, and SQL:
+   + [IBM-Data-Analyst-Professional-Certificate](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/04%20-%20IBM-Data-Analyst-Professional-Certificate): This certification provided a comprehensive foundation in data analysis, covering essential skills in Excel, Python, SQL, and data visualization techniques. Through a series of hands-on projects, I gained practical experience in manipulating data, performing exploratory data analysis, creating visualizations, and building dashboards. Key topics include:
 
       + [Excel-Basics-for-Data-Analysis](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/04%20-%20IBM-Data-Analyst-Professional-Certificate/01%20-%20Excel-Basics-for-Data-Analysis):
       
@@ -667,15 +667,267 @@ This branch highlights the work I’ve done in obtaining multiple data science c
       
    + [Google-Advanced-Data-Analytics-Professional-Certificate](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate): Advanced data analytics and machine learning techniques:
 
-      + [Get-Started-with-Python]():
+      + [Get-Started-with-Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python):
+    
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
       
-      + [Go-Beyond-the-Numbers-Translate-Data-into-Insights]():
+      + [Go-Beyond-the-Numbers-Translate-Data-into-Insights](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights):
+
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
       
-      + [The-Power-of-Statistics]():
+      + [The-Power-of-Statistics](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics):
+    
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
       
-      + [Regression-Analysis-Simplify-Complex-Data-Relationships]():
-      
-      + [The-Nuts-and-Bolts-of-Machine-Learning]():
+      + [Regression-Analysis-Simplify-Complex-Data-Relationships](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships):
+
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+
+      + [The-Nuts-and-Bolts-of-Machine-Learning](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/05%20-%20The-Nuts-and-Bolts-of-Machine-Learning):
+    
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
+       
+         + []():
       
 Each folder contains assignments, practical projects, and case studies from the respective certifications, offering a detailed look at my learning process and practical applications.
 

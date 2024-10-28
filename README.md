@@ -7,8 +7,8 @@ ________________________________________
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. How to Navigate
-3. Portfolio Structure
+2. [How to Navigate](#how-to-navigate)
+3. [Portfolio Structure](#portfolio-structure)
    
    + Bases-Fundamental
   
@@ -18,14 +18,22 @@ ________________________________________
   
    + Data-Science-Projects
   
-4. Why This Portfolio?
-5. Key Skills
-6. Tools Overview
-7. Contact
+4. [Why This Portfolio?](#why-this-portfolio?)
+5. [Key Skills](#key-skills)
+6. [Tools Overview](#tools-overview)
+7. [Contact](#contact)
 
 ________________________________________
 
 ## Introduction
+
+________________________________________
+
+## How to Navigate
+
+________________________________________
+
+## Portfolio Structure
 
 ________________________________________
 
@@ -45,7 +53,7 @@ Each branch is divided into **subdirectories**, and each subdirectory contains *
 ________________________________________
 
 
-## Repository Structure
+## Portfolio Structure
 
 **[1. Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**
    
@@ -940,7 +948,9 @@ ________________________________________
 
 This portfolio is a reflection of my **journey** as a **data scientist**. Each project demonstrates my **expertise** across a range of topics, from **`data wrangling`** and **`statistical analysis`** to **`machine learning`**, **`deep learning`** and advanced **`data visualization`**. It’s designed to offer a structured, comprehensive view of my technical **skills** and analytical approach, combining both foundational principles and advanced techniques.
 
-#### Key Skills
+________________________________________
+
+## Key Skills
 
 + **Data Wrangling and Cleaning**: Advanced manipulation using `Pandas`, ensuring datasets are organized, clean, and ready for analysis or model development.
   
@@ -951,8 +961,10 @@ This portfolio is a reflection of my **journey** as a **data scientist**. Each p
 + **Deep Learning and NLP**: Proficiency in neural networks (`CNNs` for image analysis and `NLP` for text processing), enabling nuanced and effective solutions for complex data.
   
 + **Data Visualization and Storytelling**: Leveraging `Matplotlib`, `Seaborn`, and `Tableau` to create clear, insightful visualizations that transform complex data into accessible, meaningful narratives.
+
+________________________________________
   
-#### Tools and Technologies
+## Tools and Technologies
 
 Below are some key tools I leverage across projects to achieve high-quality, efficient results:
 
@@ -965,5 +977,9 @@ Below are some key tools I leverage across projects to achieve high-quality, eff
 + **Collaboration and Deployment**: `Git`, `GitHub`, `Streamlit`
   
 Whether you’re a recruiter looking for a well-rounded candidate or a fellow data scientist seeking inspiration, this portfolio is crafted to provide a clear and organized view of my skills and achievements. Feel free to explore the repository, clone the projects, and reach out if you’d like to discuss further!
+
+________________________________________
+
+## Contact
 
 

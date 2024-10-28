@@ -13,7 +13,9 @@ ________________________________________
 **3. [Portfolio Structure](#portfolio-structure)**
    
    + [Bases-Fundamental](#bases-fundamental)
-      + 
+
+      +
+
          +
    + [Concordia-Projects](#concordia-projects)
   

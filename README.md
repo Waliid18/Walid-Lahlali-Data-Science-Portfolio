@@ -32,6 +32,7 @@ ________________________________________
 
 ## Introduction
 
+This portfolio reflects my growth and expertise in data science, highlighting projects across `Python`, `SQL`, `machine learning` and more. It serves both as a comprehensive record of my journey and as a resource for those interested in data science and advanced analytics.
 ________________________________________
 
 ## How to Navigate

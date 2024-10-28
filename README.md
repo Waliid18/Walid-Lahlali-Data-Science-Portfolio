@@ -14,9 +14,9 @@ ________________________________________
    
    + [Bases-Fundamental](#bases-fundamental)
 
-      +
-
-         +
+     +
+        +
+   
    + [Concordia-Projects](#concordia-projects)
   
    + [Coursera-Projects](#coursera-projects)

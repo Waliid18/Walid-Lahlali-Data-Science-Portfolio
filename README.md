@@ -914,15 +914,15 @@ This portfolio is a reflection of my **journey** as a **data scientist**. Each p
 
 **Key Skills**
 
-+ **`Data Wrangling`** and **`Cleaning`**: Advanced manipulation using `Pandas`, ensuring datasets are organized, clean, and ready for analysis or model development.
++ **Data Wrangling and Cleaning**: Advanced manipulation using `Pandas`, ensuring datasets are organized, clean, and ready for analysis or model development.
   
-+ **`Statistical Analysis`** and **`Hypothesis Testing`**: Rigorous statistical methodologies to uncover insights, validate findings, and support data-driven decision-making.
++ **Statistical Analysis and Hypothesis Testing**: Rigorous statistical methodologies to uncover insights, validate findings, and support data-driven decision-making.
   
-+ **`Machine Learning`** and **`Predictive Modeling`**: Proven experience in building and optimizing models, from `regression` and `classification` to `clustering`, using `scikit-learn` and `deep learning` frameworks.
++ **Machine Learning and Predictive Modeling**: Proven experience in building and optimizing models, from `regression` and `classification` to `clustering`, using `scikit-learn` and `deep learning` frameworks.
   
-+ **`Deep Learning`** and **`NLP`**: Proficiency in neural networks (`CNNs` for image analysis and `NLP` for text processing), enabling nuanced and effective solutions for complex data.
++ **Deep Learning and NLP**: Proficiency in neural networks (`CNNs` for image analysis and `NLP` for text processing), enabling nuanced and effective solutions for complex data.
   
-+ **`Data Visualization`** and **`Storytelling`**: Leveraging `Matplotlib`, `Seaborn`, and `Tableau` to create clear, insightful visualizations that transform complex data into accessible, meaningful narratives.
++ **Data Visualization and Storytelling**: Leveraging `Matplotlib`, `Seaborn`, and `Tableau` to create clear, insightful visualizations that transform complex data into accessible, meaningful narratives.
   
 **Tools and Technologies**
 

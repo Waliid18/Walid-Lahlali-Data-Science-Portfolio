@@ -12,7 +12,7 @@ The **four branches** of this **portfolio** are:
 
 **[4.	Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)**
    
-Each branch is divided into subdirectories, and each subdirectory contains **notebooks (leaves)** representing individual projects or assignments. Below is a detailed overview of each branch.
+Each branch is divided into **subdirectories**, and each subdirectory contains **notebooks (leaves)** representing individual projects or assignments. Below is a detailed overview of each branch.
 
 ________________________________________
 
@@ -21,7 +21,7 @@ ________________________________________
 
 **[1. Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**
    
-This branch focuses on the essential building blocks of data science and Python programming. It contains 11 subdirectories:
+This branch focuses on the essential building blocks of data science and Python programming. It contains **11 subdirectories**:
 
    + [Python-Basics-and-Operations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations): This section introduces the fundamental operations and concepts in Python programming. It includes a series of notebooks that cover topics such as basic data types, arithmetic operations, and string manipulation. Here’s what’s covered:
 
@@ -145,7 +145,7 @@ ________________________________________
 
 **[2. Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)**
    
-This branch showcases the projects and assignments I completed during my data science certificate at Concordia University. It contains 9 subdirectories, each corresponding to a specific course or project:
+This branch showcases the projects and assignments I completed during my data science certificate at Concordia University. It contains **9 subdirectories**, each corresponding to a specific course or project:
 
    + [Project-Submission](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/00%20-%20Project-Submission): This section contains the final submission for a mini-project, which was part of the admission process to the Data Science program at Concordia University. The project focuses on analyzing football (soccer) data using the Pandas library to answer key statistical questions related to football goals, tournaments, and national performance in FIFA World Cup events. The notebook guides the user through the process of analyzing football match data using Python's Pandas library.
      
@@ -262,7 +262,7 @@ ________________________________________
 
 **[3. Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**
 
-This branch highlights the work I’ve done in obtaining multiple data science certifications from Coursera. It contains **6** subdirectories:
+This branch highlights the work I’ve done in obtaining multiple data science certifications from Coursera. It contains **6 subdirectories**:
 
    + [Introduction-to-Data-Science-Specialization](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization): This specialization certificate introduced me to the fundamental concepts of data science, including:
 

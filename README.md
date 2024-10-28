@@ -882,7 +882,7 @@ This branch highlights the extensive work completed while obtaining multiple **d
        
          + [Project_13_Perform logistic regression_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_13_Perform%20logistic%20regression_Part1.ipynb): This project applies binomial logistic regression for an airline, analyzing customer satisfaction based on in-flight experience. It includes exploratory data analysis (EDA), model creation, and evaluation using a confusion matrix.
        
-         + [Project_14_Perform logistic regression_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_14_Perform%20logistic%20regression_Part2.ipynb):
+         + [Project_14_Perform logistic regression_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_14_Perform%20logistic%20regression_Part2.ipynb): 
        
          + [Project_15_Automatidata_part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_15_Automatidata_part1.ipynb):
        

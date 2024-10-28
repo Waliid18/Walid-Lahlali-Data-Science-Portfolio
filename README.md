@@ -924,7 +924,7 @@ This portfolio is a reflection of my **journey** as a **data scientist**. Each p
   
 + **Data Visualization and Storytelling**: Leveraging `Matplotlib`, `Seaborn`, and `Tableau` to create clear, insightful visualizations that transform complex data into accessible, meaningful narratives.
   
-#### Tools and Technologies**
+#### Tools and Technologies
 
 Below are some key tools I leverage across projects to achieve high-quality, efficient results:
 

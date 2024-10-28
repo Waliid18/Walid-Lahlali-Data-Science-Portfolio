@@ -14,7 +14,17 @@ ________________________________________
    
    + [Bases-Fundamental](#bases-fundamental)
 
-     +
+     + Python-Basics-and-Operations
+     + Python-Lists
+     + Python-Dictionaries
+     + Python-Sets
+     + Python-Loops
+     + Python-Functions
+     + Pandas-DataFrames
+     + Python-Web-Scraping
+     + SQL
+     + Python-Data-Visualization
+     + Machine-Learning
    
    + [Concordia-Projects](#concordia-projects)
   

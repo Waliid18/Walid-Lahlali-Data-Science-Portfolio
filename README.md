@@ -20,7 +20,7 @@ ________________________________________
   
 4. [Why This Portfolio?](#why-this-portfolio?)
 5. [Key Skills](#key-skills)
-6. [Tools Overview](#tools-overview)
+6. [Tools and Technologies](#tools-and-technologies)
 7. [Contact](#contact)
 
 ________________________________________

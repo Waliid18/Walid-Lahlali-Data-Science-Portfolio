@@ -10,7 +10,7 @@ ________________________________________
 2. [How to Navigate?](#how-to-navigate)
 3. [Portfolio Structure](#portfolio-structure)
    
-   + Bases-Fundamental
+   + [Bases-Fundamental](#bases-fundamental)
   
    + Concordia-Projects
   
@@ -39,6 +39,8 @@ ________________________________________
 
 This portfolio reflects my growth and expertise in data science, highlighting projects across Python, SQL, machine learning, and more. It serves both as a comprehensive record of my journey and as a resource for those interested in data science and advanced analytics.
 The **four branches** of this **portfolio** are:
+
+<a name="bases-fundamental"></a>
 
 **[1.	Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**: This branch houses foundational projects and assignments covering the core principles of Python, statistics, and data manipulation. It provides a strong grounding in essential data science tools and techniques, ideal for building upon in more advanced projects.
 

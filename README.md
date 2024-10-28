@@ -910,23 +910,32 @@ ________________________________________
 
 ## Why This Portfolio?
 
-This portfolio is a reflection of my **journey** as a **data scientist**. Each project demonstrates my **expertise** across a range of topics, from data wrangling and statistical analysis to machine learning, deep learning, and advanced data visualization. It’s designed to offer a structured, comprehensive view of my technical **skills** and analytical approach, combining both foundational principles and advanced techniques.
+This portfolio is a reflection of my **journey** as a **data scientist**. Each project demonstrates my **expertise** across a range of topics, from **`data wrangling`** and **`statistical analysis`** to **`machine learning`**, **`deep learning`** and advanced **`data visualization`**. It’s designed to offer a structured, comprehensive view of my technical **skills** and analytical approach, combining both foundational principles and advanced techniques.
 
 **Key Skills**
 
-+ Data Wrangling and Cleaning: Advanced manipulation using Pandas, ensuring datasets are organized, clean, and ready for analysis or model development.
++ **`Data Wrangling`** and **`Cleaning`**: Advanced manipulation using `Pandas`, ensuring datasets are organized, clean, and ready for analysis or model development.
   
-Statistical Analysis and Hypothesis Testing: Rigorous statistical methodologies to uncover insights, validate findings, and support data-driven decision-making.
-Machine Learning and Predictive Modeling: Proven experience in building and optimizing models, from regression and classification to clustering, using scikit-learn and deep learning frameworks.
-Deep Learning and NLP: Proficiency in neural networks (CNNs for image analysis and NLP for text processing), enabling nuanced and effective solutions for complex data.
-Data Visualization and Storytelling: Leveraging Matplotlib, Seaborn, and Tableau to create clear, insightful visualizations that transform complex data into accessible, meaningful narratives.
-Tools and Technologies
++ **`Statistical Analysis`** and **`Hypothesis Testing`**: Rigorous statistical methodologies to uncover insights, validate findings, and support data-driven decision-making.
+  
++ **`Machine Learning`** and **`Predictive Modeling`**: Proven experience in building and optimizing models, from `regression` and `classification` to `clustering`, using `scikit-learn` and `deep learning` frameworks.
+  
++ **`Deep Learning`** and **`NLP`**: Proficiency in neural networks (`CNNs` for image analysis and `NLP` for text processing), enabling nuanced and effective solutions for complex data.
+  
++ **`Data Visualization`** and **`Storytelling`**: Leveraging `Matplotlib`, `Seaborn`, and `Tableau` to create clear, insightful visualizations that transform complex data into accessible, meaningful narratives.
+  
+**Tools and Technologies**
+
 Below are some key tools I leverage across projects to achieve high-quality, efficient results:
 
-Languages and Libraries: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), SQL
-Development Environments: Jupyter Notebook, Visual Studio Code
-Data Visualization and Reporting: Tableau, Matplotlib, Seaborn
-Collaboration and Deployment: Git, GitHub, Streamlit
++ **Languages and Libraries**: `Python` (`Pandas`, `NumPy`, `Scikit-learn`, `TensorFlow`, `PyTorch`), `SQL`
+  
++ **Development Environments**: `Jupyter Notebook`, `Visual Studio Code`
+  
++ **Data Visualization and Reporting**: `Matplotlib`, `Seaborn`, `Tableau`
+  
++ **Collaboration and Deployment**: `Git`, `GitHub`, `Streamlit`
+  
 Whether you’re a recruiter looking for a well-rounded candidate or a fellow data scientist seeking inspiration, this portfolio is crafted to provide a clear and organized view of my skills and achievements. Feel free to explore the repository, clone the projects, and reach out if you’d like to discuss further!
 
 

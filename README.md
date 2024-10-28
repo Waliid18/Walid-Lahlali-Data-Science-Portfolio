@@ -6,10 +6,9 @@ ________________________________________
 
 ## Table of Contents
 
-1. [Introduction](introduction)
-   
-3. How to Navigate
-4. Portfolio Structure
+1. Introduction
+2. How to Navigate
+3. Portfolio Structure
    
 + Bases-Fundamental
   
@@ -20,12 +19,9 @@ ________________________________________
 + Data-Science-Projects
   
 4. Why This Portfolio?
-   
-6. Key Skills
-   
-8. Tools Overview
-   
-10. Contact
+5. Key Skills
+6. Tools Overview
+7. Contact
 
 ________________________________________
 

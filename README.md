@@ -4,13 +4,13 @@ Welcome to my **Data Science Portfolio**! This repository is a showcase of the w
 
 The **four branches** of this **portfolio** are:
 
-**[1.	Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**
+**[1.	Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**: This branch houses foundational projects and assignments covering the core principles of Python, statistics, and data manipulation. It provides a strong grounding in essential data science tools and techniques, ideal for building upon in more advanced projects.
 
-**[2.	Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)**
+**[2.	Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)**: This branch includes all my projects and assignments completed during my Data Science Certificate at Concordia University. It contains diverse applications, including data analysis, visualization, machine learning, and project-based work, reflecting both academic rigor and practical applications of data science.
 
-**[3.	Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**
+**[3.	Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**: Here, you’ll find work completed across multiple data science certifications on Coursera, including in-depth projects on Python, SQL, statistics, machine learning, and deep learning. This branch emphasizes hands-on projects that develop technical expertise and problem-solving skills in data analytics and machine learning.
 
-**[4.	Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)**
+**[4.	Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)**: This branch showcases independent data science projects I’ve undertaken, spanning various domains and technical topics. Divided into categories like Data Visualization, EDA, Machine Learning, NLP, Deep Learning, and Time Series Analysis, these projects highlight my proficiency in using advanced data science techniques to tackle real-world challenges.
    
 Each branch is divided into **subdirectories**, and each subdirectory contains **notebooks (leaves)** representing individual projects or assignments. Below is a detailed overview of each branch.
 
@@ -21,7 +21,7 @@ ________________________________________
 
 **[1. Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**
    
-This branch focuses on the essential building blocks of data science and Python programming. It contains **11 subdirectories**:
+This branch focuses on the essential building blocks of data science and Python programming, providing a solid foundation for advanced topics and projects. It contains **11 subdirectories**:
 
    + [Python-Basics-and-Operations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations): This section introduces the fundamental operations and concepts in Python programming. It includes a series of notebooks that cover topics such as basic data types, arithmetic operations, and string manipulation. Here’s what’s covered:
 
@@ -262,7 +262,7 @@ ________________________________________
 
 **[3. Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**
 
-This branch highlights the work I’ve done in obtaining multiple data science certifications from Coursera. It contains **6 subdirectories**:
+This branch highlights the extensive work completed while obtaining multiple **data science certifications on Coursera**. It contains **6 subdirectories**, each representing a specific certification or specialization, including:
 
    + [Introduction-to-Data-Science-Specialization](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization): This specialization certificate introduced me to the fundamental concepts of data science, including:
 
@@ -888,14 +888,14 @@ ________________________________________
 
 **[4. Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)**
 
-This branch showcases independent data science projects I’ve worked on, organized into six key categories:
+This branch showcases independent data science projects I’ve worked on, organized into **six** key categories:
 
-   + Data-Visualization-Projects: Projects focused on creating compelling data visualizations to uncover insights.
-   + Exploratory-Data-Analysis-EDA-Projects: Detailed EDA projects that analyze datasets and uncover trends.
-   + Machine-Learning-Projects: Machine learning projects ranging from regression and classification to clustering.
-   + Natural-Language-Processing-NLP-Projects: Projects focused on NLP techniques such as text classification and sentiment analysis.
-   + Deep-Learning-Projects: Projects exploring deep learning techniques, including neural networks and CNNs.
-   + Time-Series-Analysis-Projects: Time series analysis and forecasting projects using techniques like ARIMA and LSTM.
+   + [Data-Visualization-Projects](): Projects focused on creating compelling data visualizations to uncover insights.
+   + [Exploratory-Data-Analysis-EDA-Projects](): Detailed EDA projects that analyze datasets and uncover trends.
+   + [Machine-Learning-Projects](): Machine learning projects ranging from regression and classification to clustering.
+   + [Natural-Language-Processing-NLP-Projects](): Projects focused on NLP techniques such as text classification and sentiment analysis.
+   + [Deep-Learning-Projects](): Projects exploring deep learning techniques, including neural networks and CNNs.
+   + [Time-Series-Analysis-Projects](): Time series analysis and forecasting projects using techniques like ARIMA and LSTM.
      
 Each folder contains detailed projects showcasing my ability to apply machine learning, deep learning, and data analysis techniques to real-world data science challenges.
 

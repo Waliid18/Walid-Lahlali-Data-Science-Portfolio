@@ -912,7 +912,7 @@ ________________________________________
 
 This portfolio is a reflection of my **journey** as a **data scientist**. Each project demonstrates my **expertise** across a range of topics, from **`data wrangling`** and **`statistical analysis`** to **`machine learning`**, **`deep learning`** and advanced **`data visualization`**. It’s designed to offer a structured, comprehensive view of my technical **skills** and analytical approach, combining both foundational principles and advanced techniques.
 
-**Key Skills**
+#### Key Skills
 
 + **Data Wrangling and Cleaning**: Advanced manipulation using `Pandas`, ensuring datasets are organized, clean, and ready for analysis or model development.
   
@@ -924,7 +924,7 @@ This portfolio is a reflection of my **journey** as a **data scientist**. Each p
   
 + **Data Visualization and Storytelling**: Leveraging `Matplotlib`, `Seaborn`, and `Tableau` to create clear, insightful visualizations that transform complex data into accessible, meaningful narratives.
   
-**Tools and Technologies**
+#### Tools and Technologies**
 
 Below are some key tools I leverage across projects to achieve high-quality, efficient results:
 

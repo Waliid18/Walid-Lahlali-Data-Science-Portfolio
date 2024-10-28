@@ -6,9 +6,9 @@ ________________________________________
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [How to Navigate?](#how-to-navigate)
-3. [Portfolio Structure](#portfolio-structure)
+**1. [Introduction](#introduction)**
+**2. [How to Navigate?](#how-to-navigate)**
+**3. [Portfolio Structure](#portfolio-structure)**
    
    + [Bases-Fundamental](#bases-fundamental)
   
@@ -18,10 +18,10 @@ ________________________________________
   
    + [Data-Science-Projects](#data-science-projects)
   
-4. [Why This Portfolio?](#why-this-portfolio)
-5. [Key Skills](#key-skills)
-6. [Tools and Technologies](#tools-and-technologies)
-7. [Contact](#contact)
+**4. [Why This Portfolio?](#why-this-portfolio)**
+**5. [Key Skills](#key-skills)**
+**6. [Tools and Technologies](#tools-and-technologies)**
+**7. [Contact](#contact)**
 
 ________________________________________
 

@@ -14,23 +14,46 @@ ________________________________________
    
    + [Bases-Fundamental](#bases-fundamental)
 
-     + Python-Basics-and-Operations
-     + Python-Lists
-     + Python-Dictionaries
-     + Python-Sets
-     + Python-Loops
-     + Python-Functions
-     + Pandas-DataFrames
-     + Python-Web-Scraping
-     + SQL
-     + Python-Data-Visualization
-     + Machine-Learning
+      + Python-Basics-and-Operations
+      + Python-Lists
+      + Python-Dictionaries
+      + Python-Sets
+      + Python-Loops
+      + Python-Functions
+      + Pandas-DataFrames
+      + Python-Web-Scraping
+      + SQL
+      + Python-Data-Visualization
+      + Machine-Learning
    
    + [Concordia-Projects](#concordia-projects)
-  
+       
+      + Project-Submission
+      + Intro-to-Python-and-Math-Fundamentals
+      + Data-Visualization-and-Exploration
+      + Algorithms-and-Data-Structures
+      + SQL-and-PySpark
+      + Supervised-Learning
+      + Unsupervised-Learning
+      + Deep-Learning
+      + Final-Project
+        
    + [Coursera-Projects](#coursera-projects)
-  
+     
+      + Introduction-to-Data-Science-Specialization
+      + IBM-Data-Science-Fundamentals-Python-SQL-Specialization
+      + IBM-Data-Science-Professional-Certificate
+      + IBM-Data-Analyst-Professional-Certificate
+      + Google-Advanced-Data-Analytics-Professional-Certificate
+          
    + [Data-Science-Projects](#data-science-projects)
+
+      + [Data-Visualization-Projects]()
+      + [Exploratory-Data-Analysis-EDA-Projects]()
+      + [Machine-Learning-Projects]()
+      + [Natural-Language-Processing-NLP-Projects]()
+      + [Deep-Learning-Projects]().
+      + [Time-Series-Analysis-Projects]()
   
 **4. [Why This Portfolio?](#why-this-portfolio)**
 

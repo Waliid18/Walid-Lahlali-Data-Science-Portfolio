@@ -669,265 +669,217 @@ This branch highlights the work I’ve done in obtaining multiple data science c
 
       + [Get-Started-with-Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python):
     
-         + []():
+         + [Project_01_Hello, Python!](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_01_Hello%2C%20Python!.ipynb):
        
-         + []():
+         + [Project_02_Use Python syntax_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_02_Use%20Python%20syntax_Part1.ipynb):
        
-         + []():
+         + [Project_03_Use Python syntax_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_03_Use%20Python%20syntax_Part2.ipynb):
        
-         + []():
+         + [Project_04_Functions and conditional statements](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_04_Functions%20and%20conditional%20statements.ipynb):
        
-         + []():
+         + [Project_05_ Functions_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_05_%20Functions_Part1.ipynb):
        
-         + []():
+         + [Project_06_ Functions_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_06_%20Functions_Part2.ipynb):
        
-         + []():
+         + [Project_07_Conditional statements_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_07_Conditional%20statements_Part1.ipynb):
        
-         + []():
+         + [Project_08_Conditional statements_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_08_Conditional%20statements_Part2.ipynb):
        
-         + []():
+         + [Project_09_Loops and strings](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_09_Loops%20and%20strings.ipynb):
        
-         + []():
+         + [Project_10_ While loops_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_10_%20While%20loops_Part1.ipynb):
        
-         + []():
+         + [Project_11_While loops_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_11_While%20loops_Part2.ipynb):
        
-         + []():
+         + [Project_12_ For loops_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_12_%20For%20loops_Part1.ipynb):
        
-         + []():
+         + [Project_13_ For loops_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_13_%20For%20loops_Part2.ipynb):
        
-         + []():
+         + [Project_14_Strings_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_14_Strings_Part1.ipynb):
        
-         + []():
+         + [Project_15_Strings_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_15_Strings_Part2.ipynb):
        
-         + []():
+         + [Project_16_Data structures in Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_16_Data%20structures%20in%20Python.ipynb):
        
-         + []():
+         + [Project_17_ Lists & tuples_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_17_%20Lists%20%26%20tuples_Part1.ipynb):
        
-         + []():
+         + [Project_18_ Lists & tuples_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_18_%20Lists%20%26%20tuples_Part2.ipynb):
        
-         + []():
+         + [Project_19_ Dictionaries & sets_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_19_%20Dictionaries%20%26%20sets_Part1.ipynb):
        
-         + []():
+         + [Project_20_ Dictionaries & sets_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_20_%20Dictionaries%20%26%20sets_Part2.ipynb):
        
-         + []():
+         + [Project_21_ Arrays and vectors with NumPy_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_21_%20Arrays%20and%20vectors%20with%20NumPy_Part1.ipynb):
        
-         + []():
+         + [roject_22_ Arrays and vectors with NumPy_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_22_%20Arrays%20and%20vectors%20with%20NumPy_Part2.ipynb):
        
-         + []():
+         + [Project_23_ Dataframes with pandas_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_23_%20Dataframes%20with%20pandas_Part1.ipynb):
        
-         + []():
+         + [Project_24_ Arrays and vectors with NumPy_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_24_%20Arrays%20and%20vectors%20with%20NumPy_Part2.ipynb):
        
-         + []():
+         + [Project_25_Automatidata project_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_25_Automatidata%20project_Part1.ipynb):
        
-         + []():
+         + [Project_26_ Course 2 Python Notebook_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_26_%20Course%202%20Python%20Notebook_Part2.ipynb):
        
-         + []():
+         + [Project_27_TikTok project_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_27_TikTok%20project_Part1.ipynb):
        
-         + []():
+         + [Project_28_TikTok project_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_28_TikTok%20project_Part2.ipynb):
        
-         + []():
+         + [Project_29_Waze project_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_29_Waze%20project_Part1.ipynb):
        
-         + []():
-       
-         + []():
-       
-         + []():
-       
-         + []():
-       
-         + []():
-       
-         + []():
-       
-         + []():
+         + [Project_30_Waze project_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/01%20-%20Get-Started-with-Python/Project_30_Waze%20project_Part2.ipynb):
       
       + [Go-Beyond-the-Numbers-Translate-Data-into-Insights](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights):
 
-         + []():
+         + [Project_01_EDA using basic data functions with Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_01_EDA%20using%20basic%20data%20functions%20with%20Python.ipynb):
        
-         + []():
+         + [Project_02_Discover what is in your dataset_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_02_Discover%20what%20is%20in%20your%20dataset_Part1.ipynb):
        
-         + []():
+         + [Project_03_Discover what is in your dataset_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_03_Discover%20what%20is%20in%20your%20dataset_Part2.ipynb):
        
-         + []():
+         + [Project_04_Date string manipulations with Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_04_Date%20string%20manipulations%20with%20Python.ipynb):
        
-         + []():
+         + [Project_05_EDA structuring with Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_05_EDA%20structuring%20with%20Python.ipynb):
        
-         + []():
+         + [Project_06_Structure your data_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_06_Structure%20your%20data_Part1.ipynb):
        
-         + []():
+         + [Project_07_Structure your data_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_07_Structure%20your%20data_Part2.ipynb):
        
-         + []():
+         + [Project_08_Dealing with missing data in Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_08_Dealing%20with%20missing%20data%20in%20Python.ipynb):
        
-         + []():
+         + [Project_09_Address missing data_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_09_Address%20missing%20data_Part1.ipynb):
        
-         + []():
+         + [Project_10_Address missing data_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_10_Address%20missing%20data_Part2.ipynb):
        
-         + []():
+         + [Project_11_Validate and clean your data_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_11_Validate%20and%20clean%20your%20data_Part1.ipynb):
        
-         + []():
+         + [Project_12_Validate and clean your data_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_12_Validate%20and%20clean%20your%20data_Part2.ipynb):
        
-         + []():
+         + [Project_13_Automatidata project_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_13_Automatidata%20project_Part1.ipynb):
        
-         + []():
+         + [Project_14_Automatidata project_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_14_Automatidata%20project_Part2.ipynb):
        
-         + []():
+         + [Project_15_TikTok project_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_15_TikTok%20project_Part1.ipynb):
        
-         + []():
+         + [Project_16_TikTok project_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_16_TikTok%20project_Part2.ipynb):
        
-         + []():
+         + [Project_17_Waze project_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_17_Waze%20project_Part1.ipynb):
        
-         + []():
+         + [Project_18_Waze project_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/02%20-%20Go-Beyond-the-Numbers-Translate-Data-into-Insights/Project_18_Waze%20project_Part2.ipynb):
       
       + [The-Power-of-Statistics](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics):
     
-         + []():
+         + [Project_01_Compute descriptive statistics with Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_01_Compute%20descriptive%20statistics%20with%20Python.ipynb):
        
-         + []():
+         + [Project_02_Explore descriptive statistics_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_02_Explore%20descriptive%20statistics_Part1.ipynb):
        
-         + []():
+         + [Project_03_Explore descriptive statistics_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_03_Explore%20descriptive%20statistics_Part2.ipynb):
        
-         + []():
+         + [Project_04_Work with probability distributions in Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_04_Work%20with%20probability%20distributions%20in%20Python.ipynb):
        
-         + []():
+         + [Project_05_Explore probability distributions_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_05_Explore%20probability%20distributions_Part1.ipynb):
        
-         + []():
+         + [Project_06_Explore probability distributions_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_06_Explore%20probability%20distributions_Part2.ipynb):
        
-         + []():
+         + [Project_07_ Sampling with Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_07_%20Sampling%20with%20Python.ipynb):
        
-         + []():
+         + [Project_08_Explore sampling_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_08_Explore%20sampling_Part1.ipynb):
        
-         + []():
+         + [Project_09_Explore sampling_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_09_Explore%20sampling_Part2.ipynb):
        
-         + []():
+         + [Project_10_Confidence intervals in Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_10_Confidence%20intervals%20in%20Python.ipynb):
        
-         + []():
+         + [Project_11_Confidence intervals in Python_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_11_Confidence%20intervals%20in%20Python_Part1.ipynb):
        
-         + []():
+         + [Project_12_Confidence intervals in Python_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_12_Confidence%20intervals%20in%20Python_Part2.ipynb):
        
-         + []():
+         + [Project_13_Use Python to conduct a hypothesis test](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_13_Use%20Python%20to%20conduct%20a%20hypothesis%20test.ipynb):
        
-         + []():
+         + [Project_14_Use Python to conduct a hypothesis test_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_14_Use%20Python%20to%20conduct%20a%20hypothesis%20test_Part1.ipynb):
        
-         + []():
+         + [Project_15_Use Python to conduct a hypothesis test_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_15_Use%20Python%20to%20conduct%20a%20hypothesis%20test_Part2.ipynb):
        
-         + []():
+         + [Project_16_Automatidata_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_16_Automatidata_Part1.ipynb):
        
-         + []():
+         + [Project_17_Automatidata_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_17_Automatidata_Part2.ipynb):
        
-         + []():
+         + [Project_18_TikTok_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_18_TikTok_Part1.ipynb):
        
-         + []():
+         + [Project_19_TikTok_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_19_TikTok_Part2.ipynb):
        
-         + []():
+         + [Project_20_Waze_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_20_Waze_Part1.ipynb):
        
-         + []():
-       
-         + []():
-       
-         + []():
-       
-         + []():
+         + [Project_21_Waze_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/03%20-%20The-Power-of-Statistics/Project_21_Waze_Part2.ipynb):
       
       + [Regression-Analysis-Simplify-Complex-Data-Relationships](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships):
 
-         + []():
+         + [Project_01_Explore linear regression with Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_01_Explore%20linear%20regression%20with%20Python.ipynb):
        
-         + []():
+         + [Project_02_Run simple linear regression_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_02_Run%20simple%20linear%20regression_Part1.ipynb):
        
-         + []():
+         + [Project_03_Run simple linear regression_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_03_Run%20simple%20linear%20regression_Part1.ipynb):
        
-         + []():
+         + [Project_04_Evaluate simple linear regression_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_04_Evaluate%20simple%20linear%20regression_Part1.ipynb):
        
-         + []():
+         + [Project_05_Evaluate simple linear regression_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_05_Evaluate%20simple%20linear%20regression_Part2.ipynb):
        
-         + []():
+         + [Project_06_Interpret multiple regression results with Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_06_Interpret%20multiple%20regression%20results%20with%20Python.ipynb):
        
-         + []():
+         + [Project_07_Perform multiple linear regression_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_07_Perform%20multiple%20linear%20regression_Part1.ipynb):
        
-         + []():
+         + [Project_08_Perform multiple linear regression_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_08_Perform%20multiple%20linear%20regression_Part2.ipynb):
        
-         + []():
+         + [Project_09_ Explore one-way versus two-way ANOVA tests with Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_09_%20Explore%20one-way%20versus%20two-way%20ANOVA%20tests%20with%20Python.ipynb):
        
-         + []():
+         + [Project_10_Hypothesis testing with Python_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_10_Hypothesis%20testing%20with%20Python_Part1.ipynb):
        
-         + []():
+         + [Project_11_Hypothesis testing with Python_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_11_Hypothesis%20testing%20with%20Python_Part2.ipynb):
        
-         + []():
+         + [Project_12_Construct a logistic regression model with Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_12_Construct%20a%20logistic%20regression%20model%20with%20Python.ipynb):
        
-         + []():
+         + [Project_13_Perform logistic regression_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_13_Perform%20logistic%20regression_Part1.ipynb):
        
-         + []():
+         + [Project_14_Perform logistic regression_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_14_Perform%20logistic%20regression_Part2.ipynb):
        
-         + []():
+         + [Project_15_Automatidata_part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_15_Automatidata_part1.ipynb):
        
-         + []():
+         + [Project_16_Automatidata_part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_16_Automatidata_part2.ipynb):
        
-         + []():
+         + [Project_17_TikTok_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_17_TikTok_Part1.ipynb):
        
-         + []():
+         + [Project_18_TikTok_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_18_TikTok_Part2.ipynb):
        
-         + []():
+         + [Project_19_Waze_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_19_Waze_Part1.ipynb):
        
-         + []():
-       
-         + []():
-       
-         + []():
-       
-         + []():
-       
-         + []():
+         + [Project_20_Waze_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/04%20-%20Regression-Analysis-Simplify-Complex-Data-Relationships/Project_20_Waze_Part2.ipynb):
 
       + [The-Nuts-and-Bolts-of-Machine-Learning](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/05%20-%20The-Nuts-and-Bolts-of-Machine-Learning):
     
-         + []():
+         + [Project_01_Build an XGBoost model_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/05%20-%20The-Nuts-and-Bolts-of-Machine-Learning/Project_01_Build%20an%20XGBoost%20model_Part1.ipynb):
        
-         + []():
+         + [Project_02_Build an XGBoost model_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/05%20-%20The-Nuts-and-Bolts-of-Machine-Learning/Project_02_Build%20an%20XGBoost%20model_Part2.ipynb):
        
-         + []():
+         + [Project_03_Automatidata](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/05%20-%20The-Nuts-and-Bolts-of-Machine-Learning/Project_03_Automatidata.ipynb):
        
-         + []():
+         + [Project_04_TikTok_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/05%20-%20The-Nuts-and-Bolts-of-Machine-Learning/Project_04_TikTok_Part1.ipynb):
        
-         + []():
+         + [Project_05_TikTok_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/05%20-%20The-Nuts-and-Bolts-of-Machine-Learning/Project_05_TikTok_Part2.ipynb):
        
-         + []():
+         + [Project_06_Waze_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/05%20-%20The-Nuts-and-Bolts-of-Machine-Learning/Project_06_Waze_Part1.ipynb):
        
-         + []():
+         + [Project_07_Waze_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/05%20-%20The-Nuts-and-Bolts-of-Machine-Learning/Project_07_Waze_Part2.ipynb):
        
-         + []():
+         + [Project_08_Feature engineering with Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/05%20-%20The-Nuts-and-Bolts-of-Machine-Learning/Project_08_Feature%20engineering%20with%20Python.ipynb):
        
-         + []():
+         + [Project_09_Perform feature engineering_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/05%20-%20The-Nuts-and-Bolts-of-Machine-Learning/Project_09_Perform%20feature%20engineering_Part1.ipynb):
        
-         + []():
+         + [Project_10_Perform feature engineering_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/05%20-%20The-Nuts-and-Bolts-of-Machine-Learning/Project_10_Perform%20feature%20engineering_Part2.ipynb):
        
-         + []():
+         + [Project_11_Construct a Naive Bayes model with Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/05%20-%20The-Nuts-and-Bolts-of-Machine-Learning/Project_11_Construct%20a%20Naive%20Bayes%20model%20with%20Python.ipynb):
        
-         + []():
+         + [Project_12_Build a Naive Bayes model_Part1](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/05%20-%20The-Nuts-and-Bolts-of-Machine-Learning/Project_12_Build%20a%20Naive%20Bayes%20model_Part1.ipynb):
        
-         + []():
-       
-         + []():
-       
-         + []():
-       
-         + []():
-       
-         + []():
-       
-         + []():
-       
-         + []():
-       
-         + []():
-       
-         + []():
-       
-         + []():
-       
-         + []():
-       
-         + []():
+         + [Project_13_Build a Naive Bayes model_Part2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate/05%20-%20The-Nuts-and-Bolts-of-Machine-Learning/Project_13_Build%20a%20Naive%20Bayes%20model_Part2.ipynb):
       
 Each folder contains assignments, practical projects, and case studies from the respective certifications, offering a detailed look at my learning process and practical applications.
 

@@ -903,14 +903,14 @@ ________________________________________
 
 ## How to Navigate
 
-   + Branches and Leaves: Each folder (branch) contains subdirectories (branches) and project notebooks (leaves) that represent individual topics, projects, or assignments.
-   + Notebooks: Every notebook includes thorough explanations, comments, and code that can be easily followed and reproduced.
+   + **Branches and Leaves**: Each folder (branch) contains subdirectories (branches) and project notebooks (leaves) that represent individual topics, projects, or assignments.
+   + **Notebooks**: Every notebook includes thorough explanations, comments, and code that can be easily followed and reproduced.
 
 ________________________________________
 
 ## Why This Portfolio?
 
-This portfolio is a reflection of my journey as a data scientist. It demonstrates my expertise across a range of topics, including Python, SQL, machine learning, data visualization, and more. Whether you’re a recruiter looking for a well-rounded candidate or a fellow data scientist looking for inspiration, this portfolio is designed to offer a clear and organized view of my skills and achievements.
+This portfolio is a reflection of my **journey** as a **data scientist**. It demonstrates my **expertise** across a range of topics, including **Python**, **SQL**, **machine learning**, **data visualization**, and more. Whether you’re a recruiter looking for a well-rounded candidate or a fellow data scientist looking for inspiration, this portfolio is designed to offer a clear and organized view of my **skills** and **achievements**.
 Feel free to explore the repository, clone the projects, and reach out if you’d like to discuss further!
 
 

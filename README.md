@@ -6,7 +6,7 @@ ________________________________________
 
 ## Table of Contents
 
-1. Introduction
+1. [Introduction](introduction)
    
 3. How to Navigate
 4. Portfolio Structure

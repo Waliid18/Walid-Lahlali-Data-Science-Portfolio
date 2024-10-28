@@ -2,6 +2,29 @@
 
 Welcome to my **Data Science Portfolio**! This repository is a showcase of the work I’ve completed throughout my data science journey. Organized like a **tree**, this portfolio contains **four** main **directories (branches)**, each filled with projects, assignments, and resources that demonstrate my skills in **data science**, **machine learning**, and **analytics**.
 
+________________________________________
+
+## Table of Contents
+
+1. Introduction
+2. How to Navigate
+3. Portfolio Structure
++ Bases-Fundamental
++ Concordia-Projects
++ Coursera-Projects
++ Data-Science-Projects
+4. Why This Portfolio?
+5. Key Skills
+6. Tools Overview
+7. Contact
+
+________________________________________
+
+Introduction
+
+________________________________________
+
+This portfolio reflects my growth and expertise in data science, highlighting projects across Python, SQL, machine learning, and more. It serves both as a comprehensive record of my journey and as a resource for those interested in data science and advanced analytics.
 The **four branches** of this **portfolio** are:
 
 **[1.	Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**: This branch houses foundational projects and assignments covering the core principles of Python, statistics, and data manipulation. It provides a strong grounding in essential data science tools and techniques, ideal for building upon in more advanced projects.

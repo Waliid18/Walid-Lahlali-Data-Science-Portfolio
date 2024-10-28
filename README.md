@@ -10,14 +10,22 @@ ________________________________________
    
 3. How to Navigate
 4. Portfolio Structure
+   
 + Bases-Fundamental
+  
 + Concordia-Projects
+  
 + Coursera-Projects
+  
 + Data-Science-Projects
+  
 4. Why This Portfolio?
-5. Key Skills
-6. Tools Overview
-7. Contact
+   
+6. Key Skills
+   
+8. Tools Overview
+   
+10. Contact
 
 ________________________________________
 

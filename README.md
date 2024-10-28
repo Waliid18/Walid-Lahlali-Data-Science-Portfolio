@@ -4,7 +4,7 @@ Welcome to my **Data Science Portfolio**! This repository is a showcase of the w
 
 The **four branches** of this **portfolio** are:
 
-[Bases-Fundamental](#bases-fundamental)
+[Python-Basics-and-Operations](Python-Basics-and-Operations)
 
 **[1.	Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**: This branch houses foundational projects and assignments covering the core principles of Python, statistics, and data manipulation. It provides a strong grounding in essential data science tools and techniques, ideal for building upon in more advanced projects.
 

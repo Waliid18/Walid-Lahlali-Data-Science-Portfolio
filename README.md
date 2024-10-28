@@ -186,6 +186,8 @@ Each folder contains beginner-level notebooks that cover fundamental steps and k
 
 ________________________________________
 
+<a name="concordia-projects"></a>
+
 **[2. Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)**
    
 This branch showcases the projects and assignments I completed during my data science certificate at Concordia University. It contains **9 subdirectories**, each corresponding to a specific course or project:
@@ -302,6 +304,7 @@ This branch showcases the projects and assignments I completed during my data sc
            
 ________________________________________
 
+<a name="coursera-projects"></a>
 
 **[3. Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**
 
@@ -928,6 +931,7 @@ Each folder contains assignments, practical projects, and case studies from the 
 
 ________________________________________
 
+<a name="data-science-projects"></a>
 
 **[4. Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)**
 

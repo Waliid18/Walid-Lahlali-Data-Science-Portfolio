@@ -59,7 +59,7 @@ ________________________________________
 
 ## How to Navigate
 
-This **portfolio** is structured like a thriving data science **tree**, where each **folder** represents a **branch** filled with **subdirectories (smaller branches)** and project **notebooks (leaves)**. This intuitive organization showcases my journey, with each branch capturing distinct skill sets and project experiences. The **four** branches of this portfolio are:
+This portfolio is structured like a thriving data science tree, with each folder representing a primary branch filled with subdirectories (smaller branches) and project notebooks (leaves). This intuitive organization captures my journey, with each branch highlighting distinct skill sets and project experiences. The four main branches of this portfolio are:
 
 **[1.	Bases-Fundamental](#bases-fundamental)**: This branch houses foundational projects and assignments covering the core principles of Python, statistics, and data manipulation. It provides a strong grounding in essential data science tools and techniques, ideal for building upon in more advanced projects.
 
@@ -69,7 +69,7 @@ This **portfolio** is structured like a thriving data science **tree**, where ea
 
 **[4.	Data-Science-Projects](#data-science-projects)**: This branch showcases independent data science projects I’ve undertaken, spanning various domains and technical topics. Divided into categories like Data Visualization, EDA, Machine Learning, NLP, Deep Learning, and Time Series Analysis, these projects highlight my proficiency in using advanced data science techniques to tackle real-world challenges.
    
-Each branch is divided into **subdirectories**, and each subdirectory contains **notebooks (leaves)** representing individual projects or assignments. Below is a detailed overview of each branch.
+Each branch is organized into subdirectories, with each subdirectory containing notebooks (leaves) that represent individual projects or assignments. This tree structure provides a comprehensive view of my skills and growth in data science, making it easy to explore each stage of my journey.
 
 ________________________________________
 

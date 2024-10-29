@@ -10,40 +10,40 @@ ________________________________________
 2. [How to Navigate?](#how-to-navigate)
 3. [Portfolio Structure](#portfolio-structure)
    + [Bases-Fundamental](#bases-fundamental)
-      + Python-Basics-and-Operations
-      + Python-Lists
-      + Python-Dictionaries
-      + Python-Sets
-      + Python-Loops
-      + Python-Functions
-      + Pandas-DataFrames
-      + Python-Web-Scraping
-      + SQL
-      + Python-Data-Visualization
-      + Machine-Learning
+      + [Python-Basics-and-Operations](#python-basics-and-operations)
+      + [Python-Lists](#python-lists)
+      + [Python-Dictionaries](#python-dictionaries)
+      + [Python-Sets](#python-sets)
+      + [Python-Loops](#python-loops)
+      + [Python-Functions](#python-functions)
+      + [Pandas-DataFrames](#pandas-dataFrames)
+      + [Python-Web-Scraping](#python-web-scraping)
+      + [SQL](#sql)
+      + [Python-Data-Visualization](#python-data-visualization)
+      + [Machine-Learning](#machine-learning)
    + [Concordia-Projects](#concordia-projects)
-      + Project-Submission
-      + Intro-to-Python-and-Math-Fundamentals
-      + Data-Visualization-and-Exploration
-      + Algorithms-and-Data-Structures
-      + SQL-and-PySpark
-      + Supervised-Learning
-      + Unsupervised-Learning
-      + Deep-Learning
-      + Final-Project
+      + [Project-Submission](#project-submission)
+      + [Intro-to-Python-and-Math-Fundamentals](#intro-to-python-and-math-fundamentals)
+      + [Data-Visualization-and-Exploration](#data-visualization-and-exploration)
+      + [Algorithms-and-Data-Structures](#algorithms-and-data-structures)
+      + [SQL-and-PySpark](#sql-and-pyspark)
+      + [Supervised-Learning](#supervised-learning)
+      + [Unsupervised-Learning](#unsupervised-learning)
+      + [Deep-Learning](#deep-learning)
+      + [Final-Project](#final-project)
    + [Coursera-Projects](#coursera-projects)
-      + Introduction-to-Data-Science-Specialization
-      + IBM-Data-Science-Fundamentals-Python-SQL-Specialization
-      + IBM-Data-Science-Professional-Certificate
-      + IBM-Data-Analyst-Professional-Certificate
-      + Google-Advanced-Data-Analytics-Professional-Certificate    
+      + [IBM-Introduction-to-Data-Science-Specialization](#ibm-introduction-to-data-science-specialization)
+      + [IBM-Data-Science-Fundamentals-Python-SQL-Specialization](#ibm-data-science-fundamentals-python-sql-specialization)
+      + [IBM-Data-Science-Professional-Certificate](#ibm-data-science-professional-certificate)
+      + [IBM-Data-Analyst-Professional-Certificate](#ibm-data-analyst-professional-certificate)
+      + [Google-Advanced-Data-Analytics-Professional-Certificate](#google-advanced-data-analytics-professional-certificate)    
    + [Data-Science-Projects](#data-science-projects)
-      + [Data-Visualization-Projects]()
-      + [Exploratory-Data-Analysis-EDA-Projects]()
-      + [Machine-Learning-Projects]()
-      + [Natural-Language-Processing-NLP-Projects]()
-      + [Deep-Learning-Projects]().
-      + [Time-Series-Analysis-Projects]()
+      + [Data-Visualization-Projects](#data-visualization-projects)
+      + [Exploratory-Data-Analysis-EDA-Projects](#exploratory-data-analysis-eda-projects)
+      + [Machine-Learning-Projects](#machine-learning-projects)
+      + [Natural-Language-Processing-NLP-Projects](#natural-language-processing-nlp-projects)
+      + [Deep-Learning-Projects](#deep-learning-projects).
+      + [Time-Series-Analysis-Projects](#time-series-analysis-projects)
 4. [Why This Portfolio?](#why-this-portfolio)
 5. [Key Skills](#key-skills)
 6. [Tools and Technologies](#tools-and-technologies)
@@ -88,6 +88,8 @@ ________________________________________
    
 This branch focuses on the essential building blocks of data science and Python programming, providing a solid foundation for advanced topics and projects. It contains **11 subdirectories**:
 
+<a name="python-basics-and-operations"></a>
+
    + [Python-Basics-and-Operations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations): This section introduces the fundamental operations and concepts in Python programming. It includes a series of notebooks that cover topics such as basic data types, arithmetic operations, and string manipulation. Here’s what’s covered:
 
       + [First Steps in Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations/1%20-%20First%20steps.ipynb): This notebook covers the very first steps in Python, including basic print statements to display messages like "Hello world" and introducing the user. It demonstrates how to execute simple commands in Python.
@@ -101,6 +103,8 @@ This branch focuses on the essential building blocks of data science and Python 
       + [Strings in Python](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations/5%20-%20Strings.ipynb): This notebook introduces working with strings in Python. It shows how to create strings, access individual characters using indexing, and slice strings. It also includes functions to count the number of characters and print specific portions of the string.
 
       + [String Operations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/01%20-%20Python-Basics-and-Operations/6%20-%20String%20operations.ipynb): This notebook covers basic string manipulations such as concatenation, repetition, converting strings to uppercase or lowercase, replacing substrings, finding substrings, and splitting strings into lists. It provides hands-on examples of these common string operations.
+
+<a name="python-lists"></a>
 
    + [Python-Lists](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/02%20-%20Python-Lists): This section dives into Python lists, one of the fundamental data structures used to store collections of items. The notebooks cover basic list operations, manipulation techniques, and real-world projects to apply the concepts:
      
@@ -119,6 +123,8 @@ This branch focuses on the essential building blocks of data science and Python 
       + [Project 6_User-Defined Lists](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/07%20-%20Project_6_Lists.ipynb): In this notebook, users are prompted to input a list's elements and the length of the list. The project covers how to dynamically create a list based on user input and then print its contents using loops.
         
       + [Project 7_Filtering and Counting Elements in a User-Defined List](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/02%20-%20Python-Lists/08%20-%20Project_7_Lists.ipynb): This project focuses on user input to create a list and then filters elements based on a condition. The user is asked to input the number of elements in the list and then provide each element. After displaying the list, the project filters out elements greater than 3, counts them, and displays the count. This project illustrates list creation, input handling, and basic filtering based on conditions.
+
+<a name="python-dictionaries"></a>
         
    + [Python-Dictionaries](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/03%20-%20Python-Dictionaries): This section provides a comprehensive overview of Python dictionaries and their use in storing key-value pairs. It includes practical projects and exercises to demonstrate dictionary operations, such as adding, updating, and removing elements, as well as more advanced topics like nested dictionaries and dictionary comprehensions:
      
@@ -133,6 +139,8 @@ This branch focuses on the essential building blocks of data science and Python 
       + [Project 4_Phone Directory Management](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/05%20-%20Project_4_Dictionaries.ipynb): This notebook simulates a phone directory where names are keys and phone numbers are values. It includes retrieving a phone number, checking if a person is in the directory, updating a phone number, adding new contacts, and deleting entries.
         
       + [Project 5_Generating Square Numbers](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/03%20-%20Python-Dictionaries/06%20-%20Project_5_Dictionaries.ipynb): This project focuses on creating dictionaries to store square numbers, demonstrating different ways to populate the dictionary. It shows how to define dictionaries directly, manually add key-value pairs, and use a loop to generate squares for a range of numbers.
+
+<a name="python-sets"></a>
         
    + [Python-Sets](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/04%20-%20Python-Sets): Operations on Python sets, including union, intersection, and difference:
      
@@ -143,6 +151,8 @@ This branch focuses on the essential building blocks of data science and Python 
       + [Project 2_Exploring Unions, Intersections, and Differences with Sets](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/04%20-%20Python-Sets/03%20-%20Project_2_Sets.ipynb): This project builds on the basics of sets, showing how to create sets from lists and perform more operations like finding the union and intersection of sets. It also demonstrates how to find unique items between two sets using the difference() method, helping users understand how sets can be used to manage and compare different collections of items.
         
       + [Project 3_Advanced Set Operations: Symmetric Differences and Disjoint Sets](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/04%20-%20Python-Sets/04%20-%20Project_3_Sets.ipynb): n this notebook, more advanced set operations are explored. It demonstrates how to compute the symmetric difference of two sets, check whether sets are disjoint, and update sets with the results of symmetric difference and intersection. This project highlights how sets can be used for more complex comparisons and operations, showing their versatility in managing distinct data collections.
+
+<a name="python-loops"></a>
         
    + [Python-Loops](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/05%20-%20Python-Loops): Introduction to loops and iteration in Python:
 
@@ -159,6 +169,8 @@ This branch focuses on the essential building blocks of data science and Python 
       + [Project 5_Currency Conversion](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/05%20-%20Python-Loops/06%20-%20Project_5_Loops.ipynb): This notebook includes converting euros to dollars using a for loop to iterate over a range of values, calculating conversions for different amounts. It shows how to use loops for practical financial calculations like currency conversion.
       
       + [Project 6_Fibonacci Sequence](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/05%20-%20Python-Loops/07%20-%20Project_6_Loops.ipynb): This project implements a Fibonacci sequence generator using recursion and for loops. It demonstrates how to calculate and display the first 20 numbers in the Fibonacci sequence, providing insight into recursive function use combined with loops.
+
+<a name="python-functions"></a>
       
    + [Python-Functions](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/06%20-%20Python-Functions): Creating and using functions to organize code efficiently. Here’s what’s covered::
 
@@ -173,6 +185,8 @@ This branch focuses on the essential building blocks of data science and Python 
       + [Project 4_Height Traversal Calculation](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/06%20-%20Python-Functions/04%20-%20Project_4_Functions.ipynb): This notebook contains a function to calculate the total height a person would traverse weekly based on the number of steps and the height of each step. It performs calculations by multiplying the number of steps, step height, and constants, then converting the result into meters. The function includes error handling to ensure only positive inputs are accepted.
 
       + [Project 5_U.S. Presidential Eligibility Checkers](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/06%20-%20Python-Functions/05%20-%20Project_5_Functions.ipynb): This notebook focuses on determining whether a candidate is eligible to run for U.S. presidency based on age. It presents different methods for solving the problem: one using a simple boolean condition, another with if-else logic, and a third method checking both age and natural-born citizenship status. Each function asks for user input to assess a candidate's eligibility.
+
+<a name="pandas-dataFrames"></a>
 
    + [Pandas-DataFrames](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/07%20-%20Pandas-DataFrames): Working with Pandas DataFrames for data manipulation and analysis. Here’s what’s covered:
      
@@ -191,16 +205,24 @@ This branch focuses on the essential building blocks of data science and Python 
       + [Project 6_Golden State Warriors Data Analysis](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/07%20-%20Pandas-DataFrames/07%20-%20Project_6_DataFrame.ipynb): This project analyzes data related to the Golden State Warriors basketball team, specifically examining matchups against the Toronto Raptors. It includes filtering data for home and away games, calculating statistical summaries like the average PLUS_MINUS and PTS, and visualizing the results over time using Matplotlib.
         
       + [Project 7_Golden State Warriors vs. Toronto Raptors](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/07%20-%20Pandas-DataFrames/08%20-%20Project_7_DataFrame.ipynb): Similar to Project 6, this notebook also focuses on the performance of the Golden State Warriors in games against the Toronto Raptors. It analyzes home and away games separately, calculating and comparing averages for various metrics. The project includes detailed visualizations of key performance metrics, providing a comprehensive look at how the team performed in different settings.
+
+<a name="python-web-scraping"></a>
         
    + [Python-Web-Scraping](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/08%20-%20Python-Web-Scraping): Techniques for extracting data from websites using Python libraries. Here’s what’s covered:
      
       + [Introduction to Web Scraping](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/08%20-%20Python-Web-Scraping/01%20-%20Web%20Scraping.ipynb): This notebook covers the fundamentals of web scraping using Python libraries such as BeautifulSoup and Requests. It demonstrates how to extract data from HTML structures, including working with elements like tags, attributes, and navigating through a webpage’s structure. The project includes examples like scraping a web page for player salaries, parsing tables with flight and payload data, and retrieving images and links from websites. Additionally, it explores using Pandas to read HTML tables directly from URLs, making it a versatile guide for extracting data from the web for analysis. ​
+
+<a name="sql"></a>
         
    + [SQL](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/09%20-%20SQL): Basics of database querying and management using SQL.
+
+<a name="python-data-visualization"></a>
      
    + [Python-Data-Visualization](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/10%20-%20Python-Data-Visualization): Creating visual representations of data using Python libraries like Matplotlib and Seaborn:
      
       + [Project 1_Immigration to Canada](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Bases-Fundamental/10%20-%20Python-Data-Visualization/01%20-%20Project_1_Data%20Visualization.ipynb): This Data Visualization project explores immigration trends to Canada between 1980 and 2013 using various visualization techniques in Matplotlib. The analysis includes line plots to display trends from countries like Morocco, the UK, and India, as well as area plots for the top five countries with the highest immigration. Additionally, bar and horizontal bar plots are used to visualize immigration data from regions such as Africa and Asia. Through these visualizations, the project provides insights into long-term immigration trends from different countries and continents to Canada.
+
+<a name="machine-learning"></a>
 
    + [Machine-Learning](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental/11%20-%20Machine-Learning): Introduction to fundamental machine learning concepts and algorithms.
      

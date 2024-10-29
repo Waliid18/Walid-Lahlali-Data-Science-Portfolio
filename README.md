@@ -10,7 +10,6 @@ ________________________________________
 2. [How to Navigate?](#how-to-navigate)
 3. [Portfolio Structure](#portfolio-structure)
    + [Bases-Fundamental](#bases-fundamental)
-
       + Python-Basics-and-Operations
       + Python-Lists
       + Python-Dictionaries

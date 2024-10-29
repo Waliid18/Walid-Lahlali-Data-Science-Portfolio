@@ -1035,40 +1035,46 @@ ________________________________________
 
 ## Why This Portfolio?
 
-This portfolio is a reflection of my **journey** as a **data scientist**. Each project demonstrates my **expertise** across a range of topics, from **`data wrangling`** and **`statistical analysis`** to **`machine learning`**, **`deep learning`** and advanced **`data visualization`**. It’s designed to offer a structured, comprehensive view of my technical **skills** and analytical approach, combining both foundational principles and advanced techniques.
+This portfolio is a curated showcase of my journey and growth as a data scientist, capturing the depth and breadth of my expertise across diverse data science disciplines. Each project embodies my commitment to mastering both foundational principles and cutting-edge techniques, from data wrangling and statistical analysis to machine learning, deep learning, and advanced data visualization. Designed to offer a structured, comprehensive view, this portfolio not only highlights my technical skills but also my analytical mindset, problem-solving approach, and dedication to impactful, real-world solutions.
 
 ________________________________________
 
 ## Key Skills
 
-+ **Data Wrangling and Cleaning**: Advanced manipulation using `Pandas`, ensuring datasets are organized, clean, and ready for analysis or model development.
++ **Data Wrangling and Cleaning**: Advanced data manipulation using `Pandas` to ensure datasets are organized, clean, and ready for insightful `analysis` and `model` development.
   
-+ **Statistical Analysis and Hypothesis Testing**: Rigorous statistical methodologies to uncover insights, validate findings, and support data-driven decision-making.
++ **Statistical Analysis and Hypothesis Testing**: Applying rigorous statistical methodologies to uncover insights, validate findings, and support robust, data-driven decision-making.
   
-+ **Machine Learning and Predictive Modeling**: Proven experience in building and optimizing models, from `regression` and `classification` to `clustering`, using `scikit-learn` and `deep learning` frameworks.
++ **Machine Learning and Predictive Modeling**:  Building, optimizing, and deploying models for `regression`, `classification`, and `clustering`, utilizing `scikit-learn` and `deep learning` frameworks to achieve accuracy and efficiency.
   
-+ **Deep Learning and NLP**: Proficiency in neural networks (`CNNs` for image analysis and `NLP` for text processing), enabling nuanced and effective solutions for complex data.
++ **Deep Learning and NLP**: Designing and training neural networks (including `CNNs` for image analysis and `NLP` techniques for text processing), creating solutions for complex data challenges.
   
-+ **Data Visualization and Storytelling**: Leveraging `Matplotlib`, `Seaborn`, and `Tableau` to create clear, insightful visualizations that transform complex data into accessible, meaningful narratives.
++ **Data Visualization and Storytelling**: Transforming complex data into accessible, impactful narratives through `Matplotlib`, `Seaborn`, and `Tableau`, with visualizations that enhance data comprehension.
 
 ________________________________________
   
 ## Tools and Technologies
 
-Below are some key tools I leverage across projects to achieve high-quality, efficient results:
+I utilize a range of powerful tools and technologies to ensure high-quality, efficient results across projects. Below are some of the key tools I leverage:
 
-+ **Languages and Libraries**: `Python` (`Pandas`, `NumPy`, `Scikit-learn`, `TensorFlow`, `PyTorch`), `SQL`
++ **Languages and Libraries**: `Python` (including `Pandas`, `NumPy`, `Scikit-learn`, `TensorFlow`, and `PyTorch`) for `data manipulation` and `machine learning`, and `SQL` for robust database querying and management.
   
-+ **Development Environments**: `Jupyter Notebook`, `Visual Studio Code`
++ **Development Environments**: `Jupyter Notebook` and `Visual Studio Code` for an optimized, flexible coding experience.
   
-+ **Data Visualization and Reporting**: `Matplotlib`, `Seaborn`, `Tableau`
++ **Data Visualization and Reporting**: `Matplotlib`, `Seaborn`, and `Tableau` to create clear, impactful visualizations that communicate insights effectively.
   
-+ **Collaboration and Deployment**: `Git`, `GitHub`, `Streamlit`
++ **Collaboration and Deployment**: `Git` and `GitHub` for version control and collaboration, and `Streamlit` for interactive data application deployment.
   
 Whether you’re a recruiter looking for a well-rounded candidate or a fellow data scientist seeking inspiration, this portfolio is crafted to provide a clear and organized view of my skills and achievements. Feel free to explore the repository, clone the projects, and reach out if you’d like to discuss further!
 
 ________________________________________
 
 ## Contact
+
+I welcome connections, collaborations, and conversations about data science and analytics. If you’re interested in discussing potential projects, opportunities, or simply sharing insights, feel free to reach out. Let’s connect and explore how we can create impactful data-driven solutions together.
+
+**[Email](waliidlahlali@gmail.com):** waliidlahlali@gmail.com
+**[LinkedIn](www.linkedin.com/in/walidlahlali):** [www.linkedin.com/in/walidlahlali]
+**[Portfolio](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio)**: https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio
 
 

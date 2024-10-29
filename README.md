@@ -21,9 +21,7 @@ ________________________________________
       + SQL
       + Python-Data-Visualization
       + Machine-Learning
-   
    + [Concordia-Projects](#concordia-projects)
-       
       + Project-Submission
       + Intro-to-Python-and-Math-Fundamentals
       + Data-Visualization-and-Exploration
@@ -33,31 +31,23 @@ ________________________________________
       + Unsupervised-Learning
       + Deep-Learning
       + Final-Project
-        
    + [Coursera-Projects](#coursera-projects)
-     
       + Introduction-to-Data-Science-Specialization
       + IBM-Data-Science-Fundamentals-Python-SQL-Specialization
       + IBM-Data-Science-Professional-Certificate
       + IBM-Data-Analyst-Professional-Certificate
-      + Google-Advanced-Data-Analytics-Professional-Certificate
-          
+      + Google-Advanced-Data-Analytics-Professional-Certificate    
    + [Data-Science-Projects](#data-science-projects)
-
       + [Data-Visualization-Projects]()
       + [Exploratory-Data-Analysis-EDA-Projects]()
       + [Machine-Learning-Projects]()
       + [Natural-Language-Processing-NLP-Projects]()
       + [Deep-Learning-Projects]().
       + [Time-Series-Analysis-Projects]()
-  
-**4. [Why This Portfolio?](#why-this-portfolio)**
-
-**5. [Key Skills](#key-skills)**
-
-**6. [Tools and Technologies](#tools-and-technologies)**
-
-**7. [Contact](#contact)**
+4. [Why This Portfolio?](#why-this-portfolio)
+5. [Key Skills](#key-skills)
+6. [Tools and Technologies](#tools-and-technologies)
+7. [Contact](#contact)
 
 ________________________________________
 

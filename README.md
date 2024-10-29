@@ -63,7 +63,7 @@ This **portfolio** is structured like a thriving data science **tree**, where ea
 
 [Bases-Fundamental](#bases-fundamental)
 
-**[1.	Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**: This branch houses foundational projects and assignments covering the core principles of Python, statistics, and data manipulation. It provides a strong grounding in essential data science tools and techniques, ideal for building upon in more advanced projects.
+**[1.	Bases-Fundamental](#bases-fundamental)**: This branch houses foundational projects and assignments covering the core principles of Python, statistics, and data manipulation. It provides a strong grounding in essential data science tools and techniques, ideal for building upon in more advanced projects.
 
 **[2.	Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)**: This branch includes all my projects and assignments completed during my Data Science Certificate at Concordia University. It contains diverse applications, including data analysis, visualization, machine learning, and project-based work, reflecting both academic rigor and practical applications of data science.
 

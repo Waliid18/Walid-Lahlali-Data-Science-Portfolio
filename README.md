@@ -8,9 +8,7 @@ ________________________________________
 
 1. [Introduction](#introduction)
 2. [How to Navigate?](#how-to-navigate)
-
-**3. [Portfolio Structure](#portfolio-structure)**
-   
+3. [Portfolio Structure](#portfolio-structure)
    + [Bases-Fundamental](#bases-fundamental)
 
       + Python-Basics-and-Operations

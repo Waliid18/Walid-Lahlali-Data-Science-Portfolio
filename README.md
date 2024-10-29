@@ -1073,10 +1073,10 @@ ________________________________________
 
 I welcome connections, collaborations, and conversations about data science and analytics. If you’re interested in discussing potential projects, opportunities, or simply sharing insights, feel free to reach out. Let’s connect and explore how we can create impactful data-driven solutions together.
 
-**[Email](waliidlahlali@gmail.com):** waliidlahlali@gmail.com
+**Email** waliidlahlali@gmail.com
 
-**[LinkedIn](www.linkedin.com/in/walidlahlali):** www.linkedin.com/in/walidlahlali
+**LinkedIn:** www.linkedin.com/in/walidlahlali
 
-**[Portfolio](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio)**: https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio
+**Portfolio**: [https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio]
 
 

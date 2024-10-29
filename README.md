@@ -76,6 +76,8 @@ ________________________________________
 
 ## Portfolio Structure
 
+This portfolio is organized into distinct branches, each representing a core area of my data science journey. From foundational Python skills to advanced machine learning applications, each branch offers a structured pathway through the diverse projects, topics, and assignments that showcase my expertise and growth.
+
 <a name="bases-fundamental"></a>
 
 **[1. Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**

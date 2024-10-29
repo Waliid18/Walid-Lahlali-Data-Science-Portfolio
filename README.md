@@ -61,15 +61,13 @@ ________________________________________
 
 This **portfolio** is structured like a thriving data science **tree**, where each **folder** represents a **branch** filled with **subdirectories (smaller branches)** and project **notebooks (leaves)**. This intuitive organization showcases my journey, with each branch capturing distinct skill sets and project experiences. The **four** branches of this portfolio are:
 
-[Bases-Fundamental](#bases-fundamental)
-
 **[1.	Bases-Fundamental](#bases-fundamental)**: This branch houses foundational projects and assignments covering the core principles of Python, statistics, and data manipulation. It provides a strong grounding in essential data science tools and techniques, ideal for building upon in more advanced projects.
 
-**[2.	Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)**: This branch includes all my projects and assignments completed during my Data Science Certificate at Concordia University. It contains diverse applications, including data analysis, visualization, machine learning, and project-based work, reflecting both academic rigor and practical applications of data science.
+**[2.	Concordia-Projects](#concordia-projects)**: This branch includes all my projects and assignments completed during my Data Science Certificate at Concordia University. It contains diverse applications, including data analysis, visualization, machine learning, and project-based work, reflecting both academic rigor and practical applications of data science.
 
-**[3.	Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**: Here, you’ll find work completed across multiple data science certifications on Coursera, including in-depth projects on Python, SQL, statistics, machine learning, and deep learning. This branch emphasizes hands-on projects that develop technical expertise and problem-solving skills in data analytics and machine learning.
+**[3.	Coursera-Projects](#coursera-projects)**: Here, you’ll find work completed across multiple data science certifications on Coursera, including in-depth projects on Python, SQL, statistics, machine learning, and deep learning. This branch emphasizes hands-on projects that develop technical expertise and problem-solving skills in data analytics and machine learning.
 
-**[4.	Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)**: This branch showcases independent data science projects I’ve undertaken, spanning various domains and technical topics. Divided into categories like Data Visualization, EDA, Machine Learning, NLP, Deep Learning, and Time Series Analysis, these projects highlight my proficiency in using advanced data science techniques to tackle real-world challenges.
+**[4.	Data-Science-Projects](#data-science-projects)**: This branch showcases independent data science projects I’ve undertaken, spanning various domains and technical topics. Divided into categories like Data Visualization, EDA, Machine Learning, NLP, Deep Learning, and Time Series Analysis, these projects highlight my proficiency in using advanced data science techniques to tackle real-world challenges.
    
 Each branch is divided into **subdirectories**, and each subdirectory contains **notebooks (leaves)** representing individual projects or assignments. Below is a detailed overview of each branch.
 

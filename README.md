@@ -6,9 +6,8 @@ ________________________________________
 
 ## Table of Contents
 
-**1. [Introduction](#introduction)**
-
-**2. [How to Navigate?](#how-to-navigate)**
+1. [Introduction](#introduction)
+2. [How to Navigate?](#how-to-navigate)
 
 **3. [Portfolio Structure](#portfolio-structure)**
    

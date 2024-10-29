@@ -236,7 +236,11 @@ ________________________________________
    
 This branch showcases the projects and assignments I completed during my data science certificate at Concordia University. It contains **9 subdirectories**, each corresponding to a specific course or project:
 
+<a name="project-submission"></a>
+
    + [Project-Submission](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/00%20-%20Project-Submission): This section contains the final submission for a mini-project, which was part of the admission process to the Data Science program at Concordia University. The project focuses on analyzing football (soccer) data using the Pandas library to answer key statistical questions related to football goals, tournaments, and national performance in FIFA World Cup events. The notebook guides the user through the process of analyzing football match data using Python's Pandas library.
+
+<a name="intro-to-python-and-math-fundamentals"></a>
      
    + [Intro-to-Python-and-Math-Fundamentals](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/01%20-%20Intro-to-Python-and-Math-Fundamentals): This section introduces the essential operations and concepts in Python programming and mathematical foundations. It includes a series of notebooks covering topics such as basic Python syntax, NumPy, statistics, and exploratory data analysis. Here’s what’s covered:
      
@@ -251,12 +255,16 @@ This branch showcases the projects and assignments I completed during my data sc
       + [Statistics](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/01%20-%20Intro-to-Python-and-Math-Fundamentals/Notebooks/05%20-%20Statistics.ipynb): Teaches probability, distributions, and hypothesis testing with real-world applications.
         
       + [Web Scraping](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/01%20-%20Intro-to-Python-and-Math-Fundamentals/Notebooks/06%20-%20Web%20Scraping.ipynb): Demonstrates web scraping techniques using requests and BeautifulSoup to extract data from websites.
+
+<a name="data-visualization-and-exploration"></a>
         
    + [Data-Visualization-and-Exploration](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/02%20-%20Data-Visualization-and-Exploration): This section focuses on data visualization and exploration using libraries like Matplotlib and Seaborn. It includes the following notebooks:
      
       + [Matplotlib](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/02%20-%20Data-Visualization-and-Exploration/Notebooks/01%20-%20Matplotlib.ipynb): This notebook demonstrates the use of Matplotlib for creating visualizations, focusing on replicating specific plots. It includes code for plotting and provides guidelines for organizing the code within the same cell to ensure proper output.
         
       + [seaborn Project](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/02%20-%20Data-Visualization-and-Exploration/Notebooks/02%20-%20seaborn%20Project.ipynb): This project analyzes data from the modern Olympic Games (1896–2016), using Pandas, Seaborn, and Matplotlib for visualization. It explores athlete participation, gender distribution, top medalists, and event trends, highlighting the evolution of the Olympics over time.
+
+<a name="algorithms-and-data-structures"></a>
         
    + [Algorithms-and-Data-Structures](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/03%20-%20Algorithms-and-Data-Structures): This section covers fundamental algorithms and data structures, exploring time complexity, object-oriented programming, and practical implementations of sorting and graph traversal. It includes the following notebooks:
      
@@ -271,10 +279,14 @@ This branch showcases the projects and assignments I completed during my data sc
       + [wkshop_3_complete_Random Walks on Graphs](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/03%20-%20Algorithms-and-Data-Structures/Notebooks/05%20-%20wkshop_3_complete.ipynb): This notebook focuses on algorithms for random walks and graph analysis using NetworkX. It begins by implementing a random walk algorithm where the walk starts from a specified node and proceeds for a given number of steps. The notebook then modifies this algorithm to handle weighted graphs, where the probabilities of moving to the next node are based on edge weights. Additionally, there is an exercise to compute the degrees and diameter of a graph without using built-in NetworkX functions, providing a deeper understanding of graph structures and their properties.
         
       + [wkshop_4_min_Recursion and Hybrid Sorting](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/03%20-%20Algorithms-and-Data-Structures/Notebooks/06%20-%20wkshop_4_min.ipynb): This notebook focuses on sorting algorithms and recursion. It begins by implementing a hybrid merge_sort algorithm, which uses selection_sort for sub-arrays smaller than a specified min_size. The exercise compares the performance of this modified merge sort with pure selection sort to analyze their efficiency across different array sizes. Additionally, the notebook introduces an exercise on counting inversions in an array (unsorted pairs), with a hint to modify merge sort to achieve optimal time complexity. This provides hands-on experience in improving algorithm efficiency through hybrid approaches and recursion.
+
+<a name="sql-and-pyspark"></a>
         
    + [SQL-and-PySpark](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/04%20-%20SQL-and-PySpark): This section introduces SQL for database management and PySpark for big data processing, covering fundamental concepts, querying techniques, and distributed data handling. Here’s what’s covered:
 
       + [wkshop_Data Manipulation and SQLite Queries](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/04%20-%20SQL-and-PySpark/Notebook/wkshop.ipynb): This notebook focuses on data manipulation and querying a SQLite database using Pandas. It starts by importing necessary libraries like Pandas, NumPy, Matplotlib, Seaborn, and SQLite. The exercises involve working with the mtcars dataset stored in an SQLite database, where tasks include selecting unique values from a column, creating new columns based on vehicle age, categorizing vehicles into different age groups, and filtering the data based on specific criteria like cylinder count and horsepower.
+
+<a name="supervised-learning"></a>
      
    + [Supervised-Learning](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/05%20-%20Supervised-Learning): This section explores supervised machine learning techniques such as regression and classification, covering model development, evaluation metrics, and practical implementations. It includes the following notebooks:
 
@@ -293,12 +305,16 @@ This branch showcases the projects and assignments I completed during my data sc
       + [KNN](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/05%20-%20Supervised-Learning/Notebooks/07%20-%20KNN.ipynb): This notebook focuses on the K-Nearest Neighbors (KNN) algorithm. The data is loaded from the sonar dataset, and the notebook walks through the steps of applying the KNN algorithm to classify data points. The goal is to train, test, and evaluate the KNN model, comparing its performance with other algorithms.
         
       + [SVMs](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/05%20-%20Supervised-Learning/Notebooks/08%20-%20SVMs.ipynb): This notebook covers Support Vector Machines (SVMs) and is centered around fraud detection in wine. The dataset contains chemical features of wine samples, and the task is to build a model to detect fraudulent wines. The notebook walks through loading the data, preparing it for analysis, and applying SVMs to classify wines as either "Legit" or "Fraud" based on the given features.
+
+<a name="unsupervised-learning"></a>
      
    + [Unsupervised-Learning](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/06%20-%20Unsupervised-Learning): This section applies unsupervised learning algorithms such as clustering and dimensionality reduction, focusing on data exploration, pattern discovery, and feature extraction. It includes the following notebooks:
 
       + [KMeans](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/06%20-%20Unsupervised-Learning/Notebooks/01%20-%20KMeans.ipynb): This notebook focuses on K-Means clustering, using a dataset from the CIA World Factbook. The goal is to analyze similarities between countries and regions by experimenting with different numbers of clusters. The notebook includes steps for data loading, scaling, and applying the K-Means algorithm to group countries based on various features.
         
       + [DBSCAN](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/06%20-%20Unsupervised-Learning/Notebooks/02%20-%20DBSCAN.ipynb): This notebook explores the DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorithm using a dataset on wholesale customer annual spending. The goal is to cluster customers based on their spending patterns on various products such as fresh food, milk, groceries, and frozen items. The notebook walks through data loading, scaling, and applying the DBSCAN algorithm to identify meaningful clusters.
+
+<a name="deep-learning"></a>
      
    + [Deep-Learning](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/07%20-%20Deep-Learning): This section introduces deep learning techniques and neural networks, covering model architectures, training methods, and applications in various domains. It includes the following notebooks:
 
@@ -309,6 +325,8 @@ This branch showcases the projects and assignments I completed during my data sc
       + [Bird Classification Project](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/07%20-%20Deep-Learning/Notebooks/03%20-%20Project.ipynb): This notebook focuses on a Bird Classification Project, using the Bird Species dataset from Kaggle. The dataset contains images of 525 bird species, with a goal of building a Convolutional Neural Network (CNN) model that achieves at least 85% accuracy. The notebook outlines the project requirements, including selecting 15 bird species for classification, ensuring consistent species in training, testing, and validation sets, and evaluating the model's performance using the validation set. Tips include using Google Colab for complex models and applying data augmentation to improve performance.
         
       + [NLP](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/07%20-%20Deep-Learning/Notebooks/04%20-%20NLP.ipynb): This notebook focuses on Natural Language Processing (NLP), specifically scraping app reviews from the Apple Store using a GET API. The task is to predict the 5-star rating for apps based on the review content. The notebook guides through scraping the data, storing it in a DataFrame, and applying various machine learning techniques (such as TF-IDF, logistic regression, and others) to build a predictive model.
+
+<a name="final-project"></a>
      
    + [Final-Project](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/08%20-%20Final-Project): This section presents the capstone project, integrating all the skills learned during the certificate. It contains folders with detailed files and requirements that showcase my ability to apply theoretical concepts to practical data science problems. This section is divided as follows:
 
@@ -352,9 +370,11 @@ ________________________________________
 
 **[3. Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**
 
-This branch highlights the extensive work completed while obtaining multiple **data science certifications on Coursera**. It contains **6 subdirectories**, each representing a specific certification or specialization, including:
+This branch highlights the extensive work completed while obtaining multiple **data science certifications on Coursera**. It contains **5 subdirectories**, each representing a specific certification or specialization, including:
 
-   + [Introduction-to-Data-Science-Specialization](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization): This specialization certificate introduced me to the fundamental concepts of data science, including:
+<a name="ibm-introduction-to-data-science-specialization"></a>
+
+   + [IBM-Introduction-to-Data-Science-Specialization](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization): This specialization certificate introduced me to the fundamental concepts of data science, including:
 
       + [Tools-for-Data-Science](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization/01%20-%20Tools-for-Data-Science): This course provides an essential foundation for working with key tools and environments commonly used in data science. Focusing primarily on Jupyter Notebook, the course introduces learners to its interface and core functionalities, including writing and executing code, creating Markdown cells, and handling file operations with Python. Through practical, hands-on exercises, participants gain a solid understanding of how to use Jupyter Notebook for data organization, analysis, and visualization. This course serves as a critical stepping stone for mastering more advanced data science tools and techniques. Here’s what’s covered:
         
@@ -379,6 +399,8 @@ This branch highlights the extensive work completed while obtaining multiple **d
          + [Project_3_Analyzing_SQLite](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization/03%20-%20SQL/Project_3_Analyzing_SQLite.ipynb): This notebook focuses on more advanced SQL queries for data analysis. It includes exercises on using aggregate functions, filtering data, and joining tables to extract meaningful insights from datasets.
            
          + [Project_4_RealDataPractice-v5_sqlite_Learner](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/01%20-%20Introduction-to-Data-Science-Specialization/03%20-%20SQL/Project_4_RealDataPractice-v5_sqlite_Learner.ipynb): This notebook provides hands-on practice with a real-world dataset using SQLite. Learners are tasked with writing complex SQL queries, using subqueries, and performing data analysis to answer specific business questions. It also covers visualization techniques using Python alongside SQL to better understand the data.
+
+<a name="ibm-data-science-fundamentals-python-sql-specialization"></a>
       
    + [IBM-Data-Science-Fundamentals-Python-SQL-Specialization](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/02%20-%20IBM-Data-Science-Fundamentals-Python-SQL-Specialization) : This certificate provides a strong foundation in key data science tools and techniques, equipping learners with practical skills in data extraction, analysis, and visualization. It also builds proficiency in Python programming, statistical analysis, and database management, including:
 
@@ -460,6 +482,8 @@ This branch highlights the extensive work completed while obtaining multiple **d
          + [Project_3_Analyzing_SQLite](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/02%20-%20IBM-Data-Science-Fundamentals-Python-SQL-Specialization/05%20-%20SQL/Project_3_Analyzing_SQLite.ipynb): This notebook focuses on more advanced SQL queries for data analysis. It includes exercises on using aggregate functions, filtering data, and joining tables to extract meaningful insights from datasets.
            
          + [Project_4_RealDataPractice-v5_sqlite_Learner](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/02%20-%20IBM-Data-Science-Fundamentals-Python-SQL-Specialization/05%20-%20SQL/Project_4_RealDataPractice-v5_sqlite_Learner.ipynb): This notebook provides hands-on practice with a real-world dataset using SQLite. Learners are tasked with writing complex SQL queries, using subqueries, and performing data analysis to answer specific business questions. It also covers visualization techniques using Python alongside SQL to better understand the data.
+
+<a name="ibm-data-science-professional-certificate"></a>
       
    + [IBM-Data-Science-Professional-Certificate](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/03%20-%20IBM-Data-Science-Professional-Certificate): This certificate provides comprehensive training in data science, equipping learners with practical skills across a range of essential tools and techniques. It emphasizes Python programming, SQL, and machine learning, all through hands-on projects. The program fosters proficiency in data analysis, data visualization, and model development, including:
      
@@ -611,6 +635,8 @@ This branch highlights the extensive work completed while obtaining multiple **d
          + [Space Y - Presentation](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/03%20-%20IBM-Data-Science-Professional-Certificate/08%20-%20Data-Science-Capstone/Space%20Y%20-%20Presentation.pdf): This presentation explores the evolution of space exploration and the rise of commercial space travel. It highlights the achievements of companies like SpaceX, Virgin Galactic, and Rocket Lab, with a special focus on SpaceX's innovations in reducing the cost of launches through reusability. The presentation introduces Space Y, a new contender in the space industry, and discusses how predictive analytics, data wrangling, and machine learning can help forecast launch costs and first-stage reusability. Through detailed data analysis, Space Y aims to rival SpaceX's dominance in the space industry, leveraging data-driven decision-making to optimize performance and costs in space missions.
        
          + [README](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/03%20-%20IBM-Data-Science-Professional-Certificate/08%20-%20Data-Science-Capstone/README.md): This README provides a detailed overview of the Data Science Capstone project, outlining the key topics, methodologies, and data science techniques used throughout the project. It includes descriptions of the data collection, processing, and analysis steps, along with insights from predictive modeling and machine learning applications.
+
+<a name="ibm-data-analyst-professional-certificate"></a>
       
    + [IBM-Data-Analyst-Professional-Certificate](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/04%20-%20IBM-Data-Analyst-Professional-Certificate): This certification provided a comprehensive foundation in data analysis, covering essential skills in Excel, Python, SQL, and data visualization techniques. Through a series of hands-on projects, I gained practical experience in manipulating data, performing exploratory data analysis, creating visualizations, and building dashboards. Key topics include:
 
@@ -754,6 +780,8 @@ This branch highlights the extensive work completed while obtaining multiple **d
          + [Technology Trends And Analysis Presentation](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/04%20-%20IBM-Data-Analyst-Professional-Certificate/08%20-%20Data-Analyst-Capstone-Project/Technology%20Trends%20And%20Analysis%20Presentation.pdf): This presentation provides an in-depth analysis of current technology trends and their impact across various industries. It explores key technological advancements, emerging trends, and their potential applications. The presentation focuses on how businesses and individuals can leverage these innovations for growth and competitive advantage in an increasingly digital world.
        
          + [README](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Coursera-Projects/04%20-%20IBM-Data-Analyst-Professional-Certificate/08%20-%20Data-Analyst-Capstone-Project/README.md): This README outlines the structure and key components of the Data Analyst Capstone Project, detailing the steps taken in data collection, wrangling, analysis, and visualization. The project applies data-driven techniques to real-world scenarios, providing insights into job market trends, web scraping, and API data analysis.
+
+<a name="google-advanced-data-analytics-professional-certificate"></a>
       
    + [Google-Advanced-Data-Analytics-Professional-Certificate](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects/05%20-%20Google-Advanced-Data-Analytics-Professional-Certificate): Advanced data analytics and machine learning techniques:
 
@@ -981,12 +1009,29 @@ ________________________________________
 
 This branch showcases independent data science projects I’ve worked on, organized into **six** key categories:
 
-   + [Data-Visualization-Projects](): Projects focused on creating compelling data visualizations to uncover insights.
-   + [Exploratory-Data-Analysis-EDA-Projects](): Detailed EDA projects that analyze datasets and uncover trends.
-   + [Machine-Learning-Projects](): Machine learning projects ranging from regression and classification to clustering.
-   + [Natural-Language-Processing-NLP-Projects](): Projects focused on NLP techniques such as text classification and sentiment analysis.
-   + [Deep-Learning-Projects](): Projects exploring deep learning techniques, including neural networks and CNNs.
-   + [Time-Series-Analysis-Projects](): Time series analysis and forecasting projects using techniques like ARIMA and LSTM.
+<a name="data-visualization-projects"></a>
+
+   + [Data-Visualization-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects): Projects focused on creating compelling data visualizations to uncover insights.
+
+<a name="exploratory-data-analysis-eda-projects"></a>
+
+   + [Exploratory-Data-Analysis-EDA-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects): Detailed EDA projects that analyze datasets and uncover trends.
+
+<a name="machine-learning-projects"></a>
+
+   + [Machine-Learning-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects): Machine learning projects ranging from regression and classification to clustering.
+
+<a name="natural-language-processing-nlp-projects"></a>
+
+   + [Natural-Language-Processing-NLP-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/04%20-%20Natural-Language-Processing-NLP-Projects): Projects focused on NLP techniques such as text classification and sentiment analysis.
+
+<a name="deep-learning-projects"></a>
+
+   + [Deep-Learning-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/05%20-%20Deep-Learning-Projects): Projects exploring deep learning techniques, including neural networks and CNNs.
+
+<a name="time-series-analysis-projects"></a>
+
+   + [Time-Series-Analysis-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/06%20-%20Time-Series-Analysis-Projects): Time series analysis and forecasting projects using techniques like ARIMA and LSTM.
      
 Each folder contains detailed projects showcasing my ability to apply machine learning, deep learning, and data analysis techniques to real-world data science challenges.
 

@@ -1,7 +1,5 @@
 # Walid Lahlali Data Science Portfolio
 
-Welcome to my **Data Science Portfolio**! This repository is a showcase of the work I’ve completed throughout my data science journey. Organized like a **tree**, this portfolio contains **four** main **directories (branches)**, each filled with projects, assignments, and resources that demonstrate my skills in **data science**, **machine learning**, and **analytics**.
-
 Welcome to a journey through the world of **data science and analytics**, where each project in this portfolio represents a blend of technical skill and insightful analysis. This collection showcases the depth and breadth of my data science training, from foundational skills to advanced applications. Every project is crafted with precision and innovation, underscoring my commitment to transforming raw data into meaningful, actionable insights that drive real-world impact. Explore to see how analytical creativity meets rigorous methodology, highlighting my dedication to mastering and evolving in the field of data science.
 
 ________________________________________

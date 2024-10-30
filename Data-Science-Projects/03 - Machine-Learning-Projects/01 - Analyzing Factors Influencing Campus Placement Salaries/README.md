@@ -8,11 +8,11 @@ The transition from academia to a professional career often hinges on campus pla
 
 The project is meticulously organized for seamless exploration:
 
-**[Notebooks]():** Contains Jupyter notebooks documenting each step of the analysis, from data exploration to model evaluation.
+**[Notebooks](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/01%20-%20Notebooks):** Contains Jupyter notebook ([Analyzing Factors Influencing Campus Placement Salaries](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/01%20-%20Notebooks/Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries.ipynb)) documenting each step of the analysis, from data exploration to model evaluation.
 
-**[Data]()**: Houses the primary dataset used throughout the project.
+**[Data](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/02%20-%20Data):** Houses the primary [dataset](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/02%20-%20Data/Placement_Data_Full_Class_1.csv) used throughout the project.
 
-**[Models]()**: Contains the final deployment-ready file of the best-performing model (Random Forest Regressor), ready for real-world predictions.
+**[Models](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/03%20-%20Models):** Contains the final deployment-ready file of the [best-performing model (Random Forest Regressor)](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/03%20-%20Models/random_forest_model.pkl), ready for real-world predictions.
 
 ## 📊 Dataset Description
 

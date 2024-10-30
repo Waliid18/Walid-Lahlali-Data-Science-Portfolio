@@ -8,9 +8,12 @@ This project examines financial efficiency and performance metrics of football t
 
 This project is organized into five main folders: Proposal, Notebooks, Data, Dashboard, and Presentation. The structure is as follows:
 
-Proposal
+#### Proposal
+
 Final Capstone Project Proposal: This document outlines the project objectives, methodology, and key deliverables. The goal is an in-depth EDA of financial and performance metrics across 15 European leagues, analyzing the relationship between financial investment and team performance using financial data (e.g., revenue, spending) and performance indicators (e.g., goals, wins).
-Notebooks
+
+#### Notebooks
+
 Each notebook documents a stage in the analytical process:
 
 Notebook_1_Data_Collection: Data was collected through web scraping from Transfermarkt, targeting metrics such as revenue, spending, and performance for the top teams across leagues.
@@ -25,18 +28,24 @@ Notebook_5_Exploratory_Data_Analysis: This notebook conducts a thorough EDA. Key
 
 Revenue & Spending Analysis: Identification of high-revenue leagues like Italy, England, and Spain, each averaging over €30 million.
 Performance Metrics Analysis: Examined how spending affects goals, wins, and losses, with visualizations showing varying degrees of correlation across leagues.
-Data
+
+#### Data
+
 Contains both raw and processed datasets used throughout the project:
 
 first_data.csv: Raw data scraped from Transfermarkt, containing financial and performance metrics for teams in European leagues.
 clean_data.csv: The cleaned and processed dataset, featuring transformations like log-scaling of revenue and spending, enabling a more refined analysis.
-Dashboard
+
+#### Dashboard
+
 An interactive Streamlit dashboard provides an intuitive exploration of the data:
 
 app.py: The code for generating the dashboard, which visualizes financial and performance metrics, allowing users to filter data by league and team.
 requirements.txt: Dependencies for running the project, including essential libraries like numpy, pandas, streamlit, and matplotlib.
 clean_data2.csv: Used within the dashboard, this file presents cleaned data to support real-time analysis.
-Presentation
+
+#### Presentation
+
 Final Project Presentation: A PDF summarizing project objectives, methodology, and key insights, showcasing the relationship between financial efficiency and team performance across leagues.
 
 ## 📊 Key Insights & Findings

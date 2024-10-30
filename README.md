@@ -228,7 +228,7 @@ ________________________________________
 
 <a name="concordia-projects"></a>
 
-**[2. Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)**
+🎓 **[2. Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)**
    
 This branch showcases the projects and assignments I completed during my data science certificate at Concordia University. It contains **9 subdirectories**, each corresponding to a specific course or project:
 
@@ -364,7 +364,7 @@ ________________________________________
 
 <a name="coursera-projects"></a>
 
-**[3. Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**
+📜 **[3. Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**
 
 This branch highlights the extensive work completed while obtaining multiple **data science certifications on Coursera**. It contains **5 subdirectories**, each representing a specific certification or specialization, including:
 
@@ -1001,7 +1001,7 @@ ________________________________________
 
 <a name="data-science-projects"></a>
 
-**[4. Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)**
+**🔬 [4. Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)**
 
 This branch showcases independent data science projects I’ve worked on, organized into **six** key categories:
 

@@ -80,7 +80,7 @@ This portfolio is organized into distinct **branches**, each representing a core
 
 <a name="bases-fundamental"></a>
 
-📚 **[1. Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**
+### 📚 [1. Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)
    
 This **branch** focuses on the essential building blocks of `data science` and `Python` programming, providing a solid foundation for advanced topics and projects. It contains **11 subdirectories**:
 
@@ -224,11 +224,9 @@ This **branch** focuses on the essential building blocks of `data science` and `
      
 Each folder contains beginner-level notebooks that cover fundamental steps and key concepts, providing a strong foundation in `data science` and `programming`.
 
-________________________________________
-
 <a name="concordia-projects"></a>
 
-🎓 **[2. Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)**
+### 🎓 [2. Concordia-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects)
    
 This branch showcases the projects and assignments I completed during my data science certificate at Concordia University. It contains **9 subdirectories**, each corresponding to a specific course or project:
 
@@ -359,12 +357,10 @@ This branch showcases the projects and assignments I completed during my data sc
       + [Presentation](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Concordia-Projects/08%20-%20Final-Project/Presentation): This section introduces the final project presentation, summarizing the objectives, methodology, and key findings from the analysis of football teams' financial and performance metrics across European leagues. It includes the following presentation file: 
          
          + [Final Project Presentation](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Concordia-Projects/08%20-%20Final-Project/Presentation/Final%20Project%20Presentation.pdf): This file contains the presentation for your final project titled "Financial Efficiency and Performance Metrics Analysis of European Football Leagues". The presentation covers the project's objectives, methodology, and key findings, highlighting the relationship between financial spending and team performance across various European football leagues. It includes data features such as revenue, spending, net balance, wins, and goals, as well as insights into how financial efficiency impacts team success. The presentation also emphasizes the importance of strategic financial management for long-term stability and success in football.
-           
-________________________________________
 
 <a name="coursera-projects"></a>
 
-🥇 **[3. Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**
+### 🥇 [3. Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)
 
 This branch highlights the extensive work completed while obtaining multiple **data science certifications on Coursera**. It contains **5 subdirectories**, each representing a specific certification or specialization, including:
 
@@ -997,11 +993,9 @@ This branch highlights the extensive work completed while obtaining multiple **d
       
 Each folder contains assignments, practical projects, and case studies from the respective certifications, offering a detailed look at my learning process and practical applications.
 
-________________________________________
-
 <a name="data-science-projects"></a>
 
-**🔬 [4. Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)**
+### 🔬 [4. Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)
 
 This branch showcases independent data science projects I’ve worked on, organized into **six** key categories:
 

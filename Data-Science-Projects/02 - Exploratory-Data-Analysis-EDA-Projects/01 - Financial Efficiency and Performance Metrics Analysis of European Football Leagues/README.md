@@ -50,24 +50,24 @@ This folder contains the interactive dashboard for analyzing financial and perfo
            
 + **[clean_data2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/04%20-%20Dashboard/clean_data2.csv):** This file represents the final cleaned dataset after completing the data cleaning, preprocessing, and validation stages. It is used in the dashboard to present the analysis of financial and performance metrics for European football teams, showcasing the results through interactive visualizations.  
 
-### Presentation
+### [Presentation](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/05%20-%20Presentation)
 
 This folder contains the final project presentation, summarizing the objectives, methodology, and key findings from the analysis of financial and performance metrics of football teams across European leagues. It includes the following presentation file:
 
-         + [Final Project Presentation](): This file contains the presentation for your final project titled "Financial Efficiency and Performance Metrics Analysis of European Football Leagues". The presentation covers the project's objectives, methodology, and key findings, highlighting the relationship between financial spending and team performance across various European football leagues. It includes data features such as revenue, spending, net balance, wins, and goals, as well as insights into how financial efficiency impacts team success. The presentation also emphasizes the importance of strategic financial management for long-term stability and success in football.
++ **[Project Presentation](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/05%20-%20Presentation/Project%20Presentation.pdf):** This file contains the presentation for your final project titled "Financial Efficiency and Performance Metrics Analysis of European Football Leagues". The presentation covers the project's objectives, methodology, and key findings, highlighting the relationship between financial spending and team performance across various European football leagues. It includes data features such as revenue, spending, net balance, wins, and goals, as well as insights into how financial efficiency impacts team success. The presentation also emphasizes the importance of strategic financial management for long-term stability and success in football.
 
 ## 📊 Key Insights & Findings
 
-Revenue and Spending Insights: High-revenue leagues like Italy, England, and Spain dominate in revenue generation, supported by broadcasting deals and sponsorships. England’s Premier League exhibits the highest spending but also reports the most significant deficits, highlighting potential financial risks.
++ **Revenue and Spending Insights:** High-revenue leagues like Italy, England, and Spain dominate in revenue generation, supported by broadcasting deals and sponsorships. England’s Premier League exhibits the highest spending but also reports the most significant deficits, highlighting potential financial risks.
 
-Financial Sustainability: Leagues like Portugal and Netherlands demonstrate sustainable financial strategies, managing moderate budgets effectively while maintaining competitive performance.
++ **Financial Sustainability:** Leagues like Portugal and Netherlands demonstrate sustainable financial strategies, managing moderate budgets effectively while maintaining competitive performance.
 
-Spending and Performance Correlation: Spending correlates positively with team performance metrics, particularly in top leagues. However, efficiency varies significantly across leagues, with some achieving competitive success through strategic spending rather than high expenditures.
++ **Spending and Performance Correlation:** Spending correlates positively with team performance metrics, particularly in top leagues. However, efficiency varies significantly across leagues, with some achieving competitive success through strategic spending rather than high expenditures.
 
-Long-term Trends: Over time, financial powerhouses continue to dominate, but smaller leagues are increasingly focusing on sustainable growth and player development, balancing financial investments with long-term stability.
++ **Long-term Trends:** Over time, financial powerhouses continue to dominate, but smaller leagues are increasingly focusing on sustainable growth and player development, balancing financial investments with long-term stability.
 
 ## 🔑 Conclusion
 
-This project reveals how data science provides valuable insights into financial dynamics and performance metrics within European football. The analysis underscores the need for disciplined financial strategies to secure long-term stability and enhance team competitiveness across leagues.
+This project reveals how data science provides valuable insights into **financial dynamics** and **performance metrics** within European football. The analysis underscores the need for **disciplined financial strategies** to secure long-term stability and enhance team competitiveness across leagues.
 
 Whether you’re a student, an analyst, or a stakeholder in the sports industry, this project demonstrates the potential of data-driven insights to shape strategies, drive financial efficiency, and foster success in European football leagues.

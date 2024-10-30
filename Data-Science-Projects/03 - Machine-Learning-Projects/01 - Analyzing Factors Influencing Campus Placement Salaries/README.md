@@ -8,20 +8,24 @@ The transition from academia to a professional career often hinges on campus pla
 
 The project is meticulously organized for seamless exploration:
 
-**[Notebooks](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/01%20-%20Notebooks):** Contains Jupyter notebook ([Analyzing Factors Influencing Campus Placement Salaries](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/01%20-%20Notebooks/Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries.ipynb)) documenting each step of the analysis, from data exploration to model evaluation.
++ **[Notebooks](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/01%20-%20Notebooks):** Contains Jupyter notebook "[Analyzing Factors Influencing Campus Placement Salaries](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/01%20-%20Notebooks/Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries.ipynb)" documenting each step of the analysis, from data exploration to model evaluation.
 
-**[Data](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/02%20-%20Data):** Houses the primary [dataset](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/02%20-%20Data/Placement_Data_Full_Class_1.csv) used throughout the project.
++ **[Data](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/02%20-%20Data):** Houses the primary [dataset](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/02%20-%20Data/Placement_Data_Full_Class_1.csv) used throughout the project.
 
-**[Models](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/03%20-%20Models):** Contains the final deployment-ready file of the [best-performing model (Random Forest Regressor)](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/03%20-%20Models/random_forest_model.pkl), ready for real-world predictions.
++ **[Models](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/03%20-%20Models):** Contains the final deployment-ready file of the [best-performing model (Random Forest Regressor)](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/03%20-%20Models/random_forest_model.pkl), ready for real-world predictions.
 
 ## 📊 Dataset Description
 
-The dataset is a comprehensive snapshot of students’ academic performance, work experience, and other critical characteristics. It includes 215 observations with features that capture the candidate’s educational and demographic profile:
+The dataset is a comprehensive snapshot of students’ academic performance, work experience, and other critical characteristics. It includes **215** observations with features that capture the candidate’s educational and demographic profile:
 
-Academic Scores: Represented by ssc_p (Secondary), hsc_p (Higher Secondary), degree_p (Degree), and mba_p (MBA) percentages.
-Demographics: Features such as gender, ssc_b (Secondary board), hsc_b (Higher Secondary board), hsc_s (Higher Secondary specialization), and degree_t (Degree type).
-Experience & Specialization: Work experience (workex), MBA specialization (specialisation).
-Outcome Variables: status (Placement Status) and salary (offered salary for placed candidates).
++ **Academic Scores:** Represented by `ssc_p` (Secondary), `hsc_p` (Higher Secondary), `degree_p` (Degree), and `mba_p` (MBA) percentages.
+  
++ **Demographics:** Features such as `gender`, `ssc_b` (Secondary board), `hsc_b` (Higher Secondary board), `hsc_s` (Higher Secondary specialization), and `degree_t` (Degree type).
+  
++ **Experience & Specialization:** Work experience (`workex`), MBA specialization (`specialisation`).
+  
++ **Outcome Variables:** `status` (Placement Status) and `salary` (offered salary for placed candidates).
+  
 The dataset provides a nuanced view of candidates’ profiles, highlighting key characteristics that influence placement success and salary outcomes.
 
 ## 🔍 Exploratory Data Analysis (EDA)

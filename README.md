@@ -51,13 +51,13 @@ ________________________________________
 
 ________________________________________
 
-## Introduction
+## 🌟 Introduction
 
 Welcome to my `Data Science` **Portfolio**! This curated collection of projects illustrates my expertise and growth in data science. From `data wrangling` and `visualizatio`n to advanced `machine learning`, each project is a testament to my commitment to turning raw data into valuable insights. This portfolio not only highlights my technical proficiency but also reflects my drive for continuous learning and excellence. Dive in to explore a journey marked by precision, creativity, and a commitment to impactful results.
 
 ________________________________________
 
-## How to Navigate
+## 🧭 How to Navigate
 
 This portfolio is structured like a thriving `data science` **tree**, with each folder representing a primary **branch** filled with subdirectories (smaller branches) and project notebooks (**leaves**). This intuitive organization captures my journey, with each branch highlighting distinct skill sets and project experiences. The **four** main **branches** of this portfolio are:
 
@@ -74,13 +74,13 @@ Each **branch** is organized into **subdirectories**, with each subdirectory con
 ________________________________________
 
 
-## Portfolio Structure
+## 📁 Portfolio Structure
 
 This portfolio is organized into distinct **branches**, each representing a core area of my `data science` journey. From foundational `Python` skills to advanced `machine learning` applications, each branch offers a structured pathway through the diverse projects, topics, and assignments that showcase my expertise and growth.
 
 <a name="bases-fundamental"></a>
 
-**[1. Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**
+📚 **[1. Bases-Fundamental](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Bases-Fundamental)**
    
 This **branch** focuses on the essential building blocks of `data science` and `Python` programming, providing a solid foundation for advanced topics and projects. It contains **11 subdirectories**:
 

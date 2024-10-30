@@ -8,13 +8,17 @@ ________________________________________
 
 ## 📂 Repository Structure
 
-This project is organized into five main folders: **Proposal**, **Notebooks**, **Data**, **Dashboard**, and **Presentation**. The structure is as follows:
+This project is organized into five main folders: **[Proposal](#proposal)**, **[Notebooks](#notebooks)**, **[Data](#data)**, **[Dashboard](#dashboard)**, and **Presentation**. The structure is as follows:
+
+<a name="proposal"></a>
 
 ### [Proposal](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/01%20-%20Proposal)
 
 This folder contains the project proposal, outlining the **objectives**, **methodology**, and **deliverables** for analyzing financial and performance metrics of football teams across European leagues. It includes the approved project proposal file:
 
 + **[Project Proposal](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/01%20-%20Proposal/Project%20Proposal.pdf):** This PDF represents the proposal of the Final Project, which has been accepted along with its outlined plan. The project involves an in-depth **Exploratory Data Analysis (EDA)** of financial and performance metrics for football teams across **15 European leagues**. The goal is to explore how **financial spending correlates** with **team performance**, identify **trends over time**, and provide insights through an **interactive dashboard**. The dataset includes financial information like `revenue` and `spending`, and performance data such as `goals`, `wins`, and `losses`. The analysis will help answer key questions about **financial efficiency** and performance across different leagues.
+
+<a name="notebooks"></a>
 
 ### [Notebooks](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/02%20-%20Notebooks)
 
@@ -34,6 +38,8 @@ This folder contains the analysis of financial and performance metrics across Eu
 
 + **Performance Metrics Analysis:** Examined how spending affects `goals`, `wins`, and `losses`, with `visualizations` showing varying degrees of correlation across leagues.
 
+<a name="data"></a>
+
 ### [Data](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/03%20-%20Data)
 
 This folder contains the data used for analyzing financial and performance metrics across European football leagues, including the **raw** `collected data` and the final `cleaned dataset` after preprocessing. It includes the following `CSV` files:
@@ -41,6 +47,8 @@ This folder contains the data used for analyzing financial and performance metri
 + **[first_data](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/03%20-%20Data/first_data.csv):** This file contains the raw data obtained through `web scraping` from `Transfermarkt`, capturing **financial and performance** metrics for **4,342** entries across **15** European football leagues. It includes key **columns** such as `league`, `team`, `season`, `revenue`, `spent`, `net`, `goals for`, `wins`, `losses`, and `position`. This dataset represents the initial unprocessed data used for analysis, featuring both **financial** and **performance** indicators that will later be cleaned and transformed.
            
 + **[clean_data](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/03%20-%20Data/clean_data.csv):** This file holds the **final dataset** after completing the `cleaning`, `preprocessing`, and `validation` steps. The data includes **32 columns**, with key transformations like `log transformations` for financial metrics (e.g., `log_revenue`, `log_spent`), and **performance metrics** such as `sqrt_goals_for` and `net_cube_root`. New features like `winsorized 5-season net` and `log 5-season relative` have been added, providing a refined and structured dataset ready for **exploratory analysis**.
+
+<a name="dashboard"></a>
 
 ### [Dashboard](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/04%20-%20Dashboard)
 

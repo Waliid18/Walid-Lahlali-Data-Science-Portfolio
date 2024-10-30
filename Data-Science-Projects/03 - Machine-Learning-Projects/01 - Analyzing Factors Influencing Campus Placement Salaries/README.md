@@ -1,8 +1,11 @@
 # Analyzing Factors Influencing Campus Placement Salaries
 
+________________________________________
+
 ## 📌 Project Overview
 
 The **transition from academia to a professional career** often hinges on **campus placements**, where **salary offers** play a critical role. This project delves into the **intricate factors** that influence these **placement salaries**, analyzing **academic records**, **demographic** details, and **additional qualifications** to build a **predictive model** that provides insights into potential **salary** outcomes. The `Random Forest Regressor` was selected as the **best model** for its **accuracy** and **interpretability**, shedding light on the multifaceted elements that impact a candidate's salary potential.
+________________________________________
 
 ## 📂 Project Structure
 
@@ -13,6 +16,8 @@ The project is meticulously organized for seamless exploration:
 + **[Data](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/02%20-%20Data):** Houses the primary [dataset](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/02%20-%20Data/Placement_Data_Full_Class_1.csv) used throughout the project.
 
 + **[Models](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/03%20-%20Models):** Contains the final deployment-ready file of the [best-performing model (Random Forest Regressor)](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries/03%20-%20Models/random_forest_model.pkl), ready for real-world **predictions**.
+  
+________________________________________
 
 ## 📊 Dataset Description
 
@@ -27,6 +32,8 @@ The dataset is a comprehensive snapshot of students’ **academic performance**,
 + **Outcome Variables:** `status` (Placement Status) and `salary` (offered salary for placed candidates).
   
 The dataset provides a nuanced view of candidates’ profiles, highlighting key characteristics that influence placement success and salary outcomes.
+
+________________________________________
 
 ## 🔍 Exploratory Data Analysis (EDA)
 
@@ -55,6 +62,8 @@ EDA provides essential insights into the data's structure and relationships, ena
 + **Correlation Matrix:** Showcases a **low** correlation between salary and other features, suggesting a mix of factors influences outcomes.
   
 + **Pair Plots:** Confirms limited associations between **academic scores** and **salary**, underlining the importance of additional features like **experience**.
+
+________________________________________
 
 ## 🚀 Model Development & Evaluation
 
@@ -91,6 +100,8 @@ Three regression models were developed, evaluated, and compared based on perform
 
 The `Random Forest Regressor` maintained consistent **accuracy across** multiple data folds, confirming its **robustness** and suitability for production **deployment**.
 
+________________________________________
+
 ## 📈 Key Insights & Findings
 
 + **Multi-Factor Influence on Salaries:** While academic performance is significant, factors like **employability scores** and **MBA specialization** also contribute meaningfully. The `Random Forest Regressor's` strength lies in integrating these elements to deliver precise **salary predictions**.
@@ -98,6 +109,8 @@ The `Random Forest Regressor` maintained consistent **accuracy across** multiple
 + **Model Selection:** The `Random Forest Regressor` demonstrated **exceptional predictive performance**, highlighting the value of ensemble methods for complex data relationships.
   
 + **Future Scope:** Additional demographic features or advanced tuning may **improve prediction accuracy**, offering even greater clarity into the dynamics of campus placements.
+
+________________________________________
 
 ## 🔑 Conclusion
 

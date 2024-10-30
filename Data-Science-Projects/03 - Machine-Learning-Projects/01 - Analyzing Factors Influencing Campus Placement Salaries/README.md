@@ -37,7 +37,7 @@ ________________________________________
 
 EDA provides essential insights into the data's structure and relationships, enabling better model performance and interpretability.
 
-#### Categorical Features Analysis
+### Categorical Features Analysis
 
 + **Gender Distribution:** Male candidates form a larger portion of the dataset.
   
@@ -47,7 +47,7 @@ EDA provides essential insights into the data's structure and relationships, ena
   
 + **Work Experience:** A significant portion of students lacks **work experience**, though those with experience generally received higher **placement offers**.
   
-#### Numerical Features Analysis
+### Numerical Features Analysis
 
 + **Salary Distribution:** Highly `skewed`, with most salaries around the lower end, reflecting high placement variation. The `average` salary stands at approximately **198**,**702**.
   
@@ -55,7 +55,7 @@ EDA provides essential insights into the data's structure and relationships, ena
   
 + **Correlation Analysis:** **Limited** correlations with salary, indicating that multiple factors, including but not limited to academic performance, contribute to salary outcomes.
   
-#### Visualization Insights
+### Visualization Insights
 
 + **Correlation Matrix:** Showcases a **low** correlation between salary and other features, suggesting a mix of factors influences outcomes.
   

@@ -32,18 +32,29 @@ The dataset provides a nuanced view of candidates’ profiles, highlighting key 
 
 EDA provides essential insights into the data's structure and relationships, enabling better model performance and interpretability.
 
-Categorical Features Analysis
-Gender Distribution: Male candidates form a larger portion of the dataset.
-Academic Backgrounds: Most students completed secondary education from the "Central" board and specialized in Commerce or Science fields in Higher Secondary.
-MBA Specialization: Marketing & Finance is the most common MBA specialization among placed students, followed by Marketing & HR.
-Work Experience: A significant portion of students lacks work experience, though those with experience generally received higher placement offers.
-Numerical Features Analysis
-Salary Distribution: Highly skewed, with most salaries around the lower end, reflecting high placement variation. The average salary stands at approximately 198,702.
-Academic Performance: Most scores cluster around 60-70%, with a few high-achievers in employability tests and MBA scores.
-Correlation Analysis: Limited correlations with salary, indicating that multiple factors, including but not limited to academic performance, contribute to salary outcomes.
-Visualization Insights
-Correlation Matrix: Showcases a low correlation between salary and other features, suggesting a mix of factors influences outcomes.
-Pair Plots: Confirms limited associations between academic scores and salary, underlining the importance of additional features like experience.
+### Categorical Features Analysis
+
++ **Gender Distribution:** Male candidates form a larger portion of the dataset.
+  
++ **Academic Backgrounds:** Most students completed secondary education from the "Central" board and specialized in Commerce or Science fields in Higher Secondary.
+  
++ **MBA Specialization:** Marketing & Finance is the most common MBA specialization among placed students, followed by Marketing & HR.
+  
++ **Work Experience:** A significant portion of students lacks work experience, though those with experience generally received higher placement offers.
+  
+### Numerical Features Analysis
+
++ **Salary Distribution:** Highly skewed, with most salaries around the lower end, reflecting high placement variation. The average salary stands at approximately 198,702.
+  
++ **Academic Performance:** Most scores cluster around 60-70%, with a few high-achievers in employability tests and MBA scores.
+  
++ **Correlation Analysis:** Limited correlations with salary, indicating that multiple factors, including but not limited to academic performance, contribute to salary outcomes.
+  
+### Visualization Insights
+
++ **Correlation Matrix:** Showcases a low correlation between salary and other features, suggesting a mix of factors influences outcomes.
+  
++ **Pair Plots:** Confirms limited associations between academic scores and salary, underlining the importance of additional features like experience.
 
 ## 🚀 Model Development & Evaluation
 

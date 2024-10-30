@@ -1033,13 +1033,13 @@ Each folder contains detailed projects showcasing my ability to apply machine le
 
 ________________________________________
 
-## Why This Portfolio?
+## ❓ Why This Portfolio?
 
 This portfolio is a curated showcase of my journey and growth as a data scientist, capturing the depth and breadth of my expertise across diverse data science disciplines. Each project embodies my commitment to mastering both foundational principles and cutting-edge techniques, from data wrangling and statistical analysis to machine learning, deep learning, and advanced data visualization. Designed to offer a structured, comprehensive view, this portfolio not only highlights my technical skills but also my analytical mindset, problem-solving approach, and dedication to impactful, real-world solutions.
 
 ________________________________________
 
-## Key Skills
+## 💡 Key Skills
 
 + **Data Wrangling and Cleaning**: Advanced data manipulation using `Pandas` to ensure datasets are organized, clean, and ready for insightful `analysis` and `model` development.
   
@@ -1053,7 +1053,7 @@ ________________________________________
 
 ________________________________________
   
-## Tools and Technologies
+## 🛠️ Tools and Technologies
 
 I utilize a range of powerful tools and technologies to ensure high-quality, efficient results across projects. Below are some of the key tools I leverage:
 
@@ -1069,7 +1069,7 @@ Whether you’re a recruiter looking for a well-rounded candidate or a fellow da
 
 ________________________________________
 
-## Contact
+## 📬 Contact
 
 I welcome connections, collaborations, and conversations about data science and analytics. If you’re interested in discussing potential projects, opportunities, or simply sharing insights, feel free to reach out. Let’s connect and explore how we can create impactful data-driven solutions together.
 

@@ -4,6 +4,8 @@
 
 This project examines financial efficiency and performance metrics of football teams across 15 European leagues, providing a comprehensive Exploratory Data Analysis (EDA). It explores how financial spending impacts team performance, identifies patterns over time, and offers valuable insights through an interactive dashboard. This analysis addresses key questions surrounding financial efficiency, strategic spending, and performance dynamics across different leagues.
 
+________________________________________
+
 ## 📂 Repository Structure
 
 This project is organized into five main folders: Proposal, Notebooks, Data, Dashboard, and Presentation. The structure is as follows:

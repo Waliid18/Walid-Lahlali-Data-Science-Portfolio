@@ -364,7 +364,7 @@ ________________________________________
 
 <a name="coursera-projects"></a>
 
-📜 **[3. Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**
+🥇 **[3. Coursera-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Coursera-Projects)**
 
 This branch highlights the extensive work completed while obtaining multiple **data science certifications on Coursera**. It contains **5 subdirectories**, each representing a specific certification or specialization, including:
 

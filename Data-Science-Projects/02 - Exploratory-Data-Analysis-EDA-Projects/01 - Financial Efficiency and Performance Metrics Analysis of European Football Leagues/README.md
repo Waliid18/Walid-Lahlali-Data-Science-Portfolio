@@ -60,6 +60,8 @@ This folder contains the **interactive dashboard** for analyzing financial and p
            
 + **[clean_data2](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/04%20-%20Dashboard/clean_data2.csv):** This file represents the final cleaned dataset after completing the `data cleaning`, `preprocessing`, and `validation` stages. It is used in the dashboard to present the analysis of **financial and performance metrics** for European football teams, showcasing the results through interactive visualizations.  
 
+<a name="presentation"></a>
+
 ### [Presentation](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/05%20-%20Presentation)
 
 This folder contains the **project's presentation**, summarizing the **objectives**, **methodology**, and **key findings** from the analysis of financial and performance metrics of football teams across European leagues. It includes the following presentation file:

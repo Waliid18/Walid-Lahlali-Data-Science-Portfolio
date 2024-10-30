@@ -8,7 +8,7 @@ ________________________________________
 
 ## 📂 Repository Structure
 
-This project is organized into five main folders: **[Proposal](#proposal)**, **[Notebooks](#notebooks)**, **[Data](#data)**, **[Dashboard](#dashboard)**, and **Presentation**. The structure is as follows:
+This project is organized into five main folders: **[Proposal](#proposal)**, **[Notebooks](#notebooks)**, **[Data](#data)**, **[Dashboard](#dashboard)**, and **[Presentation](#presentation)**. The structure is as follows:
 
 <a name="proposal"></a>
 

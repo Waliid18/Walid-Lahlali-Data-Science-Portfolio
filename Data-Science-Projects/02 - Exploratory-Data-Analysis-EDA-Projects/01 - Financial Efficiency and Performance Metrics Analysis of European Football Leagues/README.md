@@ -8,45 +8,52 @@ This project examines financial efficiency and performance metrics of football t
 
 This project is organized into five main folders: Proposal, Notebooks, Data, Dashboard, and Presentation. The structure is as follows:
 
-#### Proposal
+#### [Proposal](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/01%20-%20Proposal)
 
-Final Capstone Project Proposal: This document outlines the project objectives, methodology, and key deliverables. The goal is an in-depth EDA of financial and performance metrics across 15 European leagues, analyzing the relationship between financial investment and team performance using financial data (e.g., revenue, spending) and performance indicators (e.g., goals, wins).
+This folder contains the project proposal, outlining the objectives, methodology, and deliverables for analyzing financial and performance metrics of football teams across European leagues. It includes the approved project proposal file:
+
+         + [Project Proposal](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/01%20-%20Proposal/Project%20Proposal.pdf): This PDF represents the proposal of the Final Capstone Project, which has been accepted along with its outlined plan. The project involves an in-depth Exploratory Data Analysis (EDA) of financial and performance metrics for football teams across 15 European leagues. The goal is to explore how financial spending correlates with team performance, identify trends over time, and provide insights through an interactive dashboard. The dataset includes financial information like revenue and spending, and performance data such as goals, wins, and losses. The analysis will help answer key questions about financial efficiency and performance across different leagues.
 
 #### Notebooks
 
-Each notebook documents a stage in the analytical process:
+This folder contains the analysis of financial and performance metrics across European football leagues, detailing data collection, cleaning, validation, and exploratory data analysis steps. It includes the following notebooks:
 
-Notebook_1_Data_Collection: Data was collected through web scraping from Transfermarkt, targeting metrics such as revenue, spending, and performance for the top teams across leagues.
-
-Notebook_2_Data_Understanding: This notebook provides a comprehensive exploration of the dataset, including a summary of categorical and numerical features, identification of missing values, and an initial correlation analysis.
-
-Notebook_3_Data_Cleaning_and_Preprocessing: Here, the dataset was cleaned, transformed, and prepared for analysis. Steps included handling missing values, encoding categorical data, scaling features, and treating outliers to ensure data integrity.
-
-Notebook_4_Data_Validation: This notebook validates the accuracy and consistency of the cleaned data, verifying that preprocessing steps have been applied correctly.
-
-Notebook_5_Exploratory_Data_Analysis: This notebook conducts a thorough EDA. Key analyses include:
+         + [Notebook_1_Data_Collection]): This notebook is the first step in a project analyzing the correlation between financial investment and performance in European football clubs. It focuses on data collection through web scraping from the Transfermarkt website. The target dataset includes financial metrics (revenue, spending, net balance) and performance metrics (goals, wins, losses, league positions) for the top 10 teams from 15 European leagues. The scraped data will form the foundation for further analysis in the project.
+           
+         + [Notebook_2_Data_Understanding](): This notebook is dedicated to exploring the collected data to gain insights into its structure and content. It provides an overview of the dataset's features, highlighting numerical and categorical columns, identifying missing values, and detecting duplicates. The notebook sets the stage for further data cleaning and analysis by offering a comprehensive summary of the dataset's current state.
+           
+         + [Notebook_3_Data_Cleaning_and_Preprocessing](): This notebook focuses on cleaning and preprocessing the collected data. It includes steps such as handling missing values, transforming categorical variables, and detecting outliers. The goal is to prepare the dataset for analysis by ensuring it is free of inconsistencies, properly formatted, and ready for further processing in the next stages of the project.
+           
+         + [Notebook_4_Data_Validation](): In this notebook, the cleaned and preprocessed data is validated for accuracy and consistency. The process involves cross-checking for errors, verifying that all necessary transformations were correctly applied, and ensuring that the dataset is suitable for further exploratory data analysis.
+           
+         + [Notebook_5_Exploratory_Data_Analysis](): This notebook conducts an Exploratory Data Analysis (EDA) to examine financial efficiency and performance metrics in European football leagues. The analysis focuses on how financial spending correlates with team performance, identifying patterns over time, and comparing financial and performance metrics across different leagues. The notebook uses visualizations and descriptive statistics to uncover key insights regarding financial dynamics in European football.
 
 Revenue & Spending Analysis: Identification of high-revenue leagues like Italy, England, and Spain, each averaging over €30 million.
 Performance Metrics Analysis: Examined how spending affects goals, wins, and losses, with visualizations showing varying degrees of correlation across leagues.
 
 #### Data
 
-Contains both raw and processed datasets used throughout the project:
+This folder contains the data used for analyzing financial and performance metrics across European football leagues, including the raw collected data and the final cleaned dataset after preprocessing. It includes the following CSV files:
 
-first_data.csv: Raw data scraped from Transfermarkt, containing financial and performance metrics for teams in European leagues.
-clean_data.csv: The cleaned and processed dataset, featuring transformations like log-scaling of revenue and spending, enabling a more refined analysis.
+         + [first_data](): This file contains the raw data obtained through web scraping from Transfermarkt, capturing financial and performance metrics for 4,342 entries across 15 European football leagues. It includes key columns such as league, team, season, revenue, spent, net, goals for, wins, losses, and position. This dataset represents the initial unprocessed data used for analysis, featuring both financial and performance indicators that will later be cleaned and transformed.
+           
+         + [clean_data](): This file holds the final dataset after completing the cleaning, preprocessing, and validation steps. The data includes 32 columns, with key transformations like log transformations for financial metrics (e.g., log_revenue, log_spent), and performance metrics such as sqrt_goals_for and net_cube_root. New features like winsorized 5-season net and log 5-season relative have been added, providing a refined and structured dataset ready for exploratory analysis.
 
 #### Dashboard
 
-An interactive Streamlit dashboard provides an intuitive exploration of the data:
+This folder contains the interactive dashboard for analyzing financial and performance metrics in European football leagues, built with Streamlit. It includes the following files:
 
-app.py: The code for generating the dashboard, which visualizes financial and performance metrics, allowing users to filter data by league and team.
-requirements.txt: Dependencies for running the project, including essential libraries like numpy, pandas, streamlit, and matplotlib.
-clean_data2.csv: Used within the dashboard, this file presents cleaned data to support real-time analysis.
+         + [app](): This file contains the code for generating the interactive dashboard. It uses the Streamlit framework to visualize the cleaned data and allow users to explore financial and performance metrics of European football leagues. Running this file will produce the dashboard interface, enabling dynamic analysis of the data.
+         
+         + [requirements](): This file lists the dependencies required to run your project, including important libraries such as: numpy, pandas, streamlit, streamlit-option-menu, scikit-learn and matplotlib.
+           
+         + [clean_data2](): This file represents the final cleaned dataset after completing the data cleaning, preprocessing, and validation stages. It is used in the dashboard to present the analysis of financial and performance metrics for European football teams, showcasing the results through interactive visualizations.  
 
 #### Presentation
 
-Final Project Presentation: A PDF summarizing project objectives, methodology, and key insights, showcasing the relationship between financial efficiency and team performance across leagues.
+This folder contains the final project presentation, summarizing the objectives, methodology, and key findings from the analysis of financial and performance metrics of football teams across European leagues. It includes the following presentation file:
+
+         + [Final Project Presentation](): This file contains the presentation for your final project titled "Financial Efficiency and Performance Metrics Analysis of European Football Leagues". The presentation covers the project's objectives, methodology, and key findings, highlighting the relationship between financial spending and team performance across various European football leagues. It includes data features such as revenue, spending, net balance, wins, and goals, as well as insights into how financial efficiency impacts team success. The presentation also emphasizes the importance of strategic financial management for long-term stability and success in football.
 
 ## 📊 Key Insights & Findings
 

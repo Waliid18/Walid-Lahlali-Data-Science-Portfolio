@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-The transition from academia to a professional career often hinges on campus placements, where salary offers play a critical role. This project delves into the intricate factors that influence these placement salaries, analyzing academic records, demographic details, and additional qualifications to build a predictive model that provides insights into potential salary outcomes. The Random Forest Regressor was selected as the best model for its accuracy and interpretability, shedding light on the multifaceted elements that impact a candidate's salary potential.
+The **transition from academia to a professional career** often hinges on **campus placements**, where **salary offers** play a critical role. This project delves into the **intricate factors** that influence these **placement salaries**, analyzing **academic records**, **demographic** details, and **additional qualifications** to build a **predictive model** that provides insights into potential **salary** outcomes. The `Random Forest Regressor` was selected as the **best model** for its **accuracy** and **interpretability**, shedding light on the multifaceted elements that impact a candidate's salary potential.
 
 ## 📂 Project Structure
 

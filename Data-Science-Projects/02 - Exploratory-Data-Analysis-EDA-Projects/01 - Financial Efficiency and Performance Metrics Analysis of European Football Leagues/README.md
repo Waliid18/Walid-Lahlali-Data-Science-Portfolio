@@ -28,9 +28,9 @@ This folder contains the analysis of financial and performance metrics across Eu
            
 **5. [Notebook_5_Exploratory_Data_Analysis](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/02%20-%20Notebooks/Notebook_5_Exploratory_Data_Analysis.ipynb):** This notebook conducts an Exploratory Data Analysis (EDA) to examine financial efficiency and performance metrics in European football leagues. The analysis focuses on how financial spending correlates with team performance, identifying patterns over time, and comparing financial and performance metrics across different leagues. The notebook uses visualizations and descriptive statistics to uncover key insights regarding financial dynamics in European football.
 
-**+ Revenue & Spending Analysis:** Identification of high-revenue leagues like Italy, England, and Spain, each averaging over €30 million.
++ **Revenue & Spending Analysis:** Identification of high-revenue leagues like Italy, England, and Spain, each averaging over €30 million.
 
-**+ Performance Metrics Analysis:** Examined how spending affects goals, wins, and losses, with visualizations showing varying degrees of correlation across leagues.
++ **Performance Metrics Analysis:** Examined how spending affects goals, wins, and losses, with visualizations showing varying degrees of correlation across leagues.
 
 ### Data
 

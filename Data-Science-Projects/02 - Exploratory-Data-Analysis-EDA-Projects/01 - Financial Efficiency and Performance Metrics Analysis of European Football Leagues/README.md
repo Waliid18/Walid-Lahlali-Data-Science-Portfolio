@@ -58,6 +58,8 @@ This folder contains the final project presentation, summarizing the objectives,
 
 + **[Project Presentation](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/05%20-%20Presentation/Project%20Presentation.pdf):** This file contains the presentation for your final project titled "Financial Efficiency and Performance Metrics Analysis of European Football Leagues". The presentation covers the project's objectives, methodology, and key findings, highlighting the relationship between financial spending and team performance across various European football leagues. It includes data features such as revenue, spending, net balance, wins, and goals, as well as insights into how financial efficiency impacts team success. The presentation also emphasizes the importance of strategic financial management for long-term stability and success in football.
 
+________________________________________
+
 ## 📊 Key Insights & Findings
 
 + **Revenue and Spending Insights:** High-revenue leagues like Italy, England, and Spain dominate in revenue generation, supported by broadcasting deals and sponsorships. England’s Premier League exhibits the highest spending but also reports the most significant deficits, highlighting potential financial risks.
@@ -67,6 +69,8 @@ This folder contains the final project presentation, summarizing the objectives,
 + **Spending and Performance Correlation:** Spending correlates positively with team performance metrics, particularly in top leagues. However, efficiency varies significantly across leagues, with some achieving competitive success through strategic spending rather than high expenditures.
 
 + **Long-term Trends:** Over time, financial powerhouses continue to dominate, but smaller leagues are increasingly focusing on sustainable growth and player development, balancing financial investments with long-term stability.
+
+________________________________________
 
 ## 🔑 Conclusion
 

@@ -4,7 +4,7 @@ Welcome to a journey through `data science and analytics`, where each project in
 
 ________________________________________
 
-## Table of Contents
+## 📑 Table of Contents
 
 1. [Introduction](#introduction)
 2. [How to Navigate?](#how-to-navigate)

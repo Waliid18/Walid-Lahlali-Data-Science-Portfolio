@@ -8,7 +8,7 @@ The transition from academia to a professional career often hinges on campus pla
 
 The project is meticulously organized for seamless exploration:
 
-**[Notebooks]()**: Contains Jupyter notebooks documenting each step of the analysis, from data exploration to model evaluation.
+**[Notebooks]():** Contains Jupyter notebooks documenting each step of the analysis, from data exploration to model evaluation.
 
 **[Data]()**: Houses the primary dataset used throughout the project.
 

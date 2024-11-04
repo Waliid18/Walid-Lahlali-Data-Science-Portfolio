@@ -1,6 +1,6 @@
 # Walid Lahlali Data Science Portfolio
 
-Welcome to a journey through `data science and analytics`, where each project in this portfolio showcases a blend of technical skill and insightful analysis. This collection captures the depth and breadth of my training, from foundational skills to advanced applications. Each project is crafted with precision and innovation, underscoring my commitment to transforming raw data into meaningful, actionable insights with real-world impact. Explore to see how creativity and rigorous methodology converge as I strive to master and advance in data science.
+**Welcome** to a **journey** through **`data science and analytics`**, where each **project** in this **portfolio** showcases a blend of **technical skill** and **insightful analysis**. This collection captures the **depth** and **breadth** of my training, from **foundational skills** to **advanced applications**. Each **project** is crafted with **precision** and **innovation**, underscoring my commitment to transforming raw data into meaningful, actionable insights with **real-world impact**. Explore to see how **creativity** and **rigorous methodology** converge as I strive to **master** and **advance** in **`data science`**.
 
 ________________________________________
 

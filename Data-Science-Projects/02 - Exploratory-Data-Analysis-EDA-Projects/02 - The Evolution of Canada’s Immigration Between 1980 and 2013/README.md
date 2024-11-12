@@ -14,7 +14,7 @@ The project is meticulously organized for seamless exploration:
   
 + **[Data](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/02%20-%20The%20Evolution%20of%20Canada%E2%80%99s%20Immigration%20Between%201980%20and%202013/02%20-%20Data):** Houses the primary [dataset](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/02%20-%20The%20Evolution%20of%20Canada%E2%80%99s%20Immigration%20Between%201980%20and%202013/02%20-%20Data/Immigration_Canada.csv) used throughout the project.
 
-+ **[Dashboard](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/02%20-%20The%20Evolution%20of%20Canada%E2%80%99s%20Immigration%20Between%201980%20and%202013/03%20-%20Dashboard):** This folder contains an interactive dashboard for analyzing the evolution of Canada’s immigration between 1980 and 2013. 
++ **[Dashboard](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/02%20-%20The%20Evolution%20of%20Canada%E2%80%99s%20Immigration%20Between%201980%20and%202013/03%20-%20Dashboard):** Contains an interactive [dashboard]() for analyzing **the evolution of Canada’s immigration between 1980 and 2013**. 
 ________________________________________
 
 ## 📊 Dataset Description

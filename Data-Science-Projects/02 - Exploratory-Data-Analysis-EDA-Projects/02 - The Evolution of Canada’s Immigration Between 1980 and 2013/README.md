@@ -10,11 +10,11 @@ ________________________________________
 
 The project is meticulously organized for seamless exploration:
 
-+ **[Notebooks]():** Contains Jupyter notebook "[]()" documenting each step of the **analysis**, from **data exploration** to **model evaluation**.
++ **[Notebooks](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/02%20-%20The%20Evolution%20of%20Canada%E2%80%99s%20Immigration%20Between%201980%20and%202013/01%20-%20Notebooks):** Contains Jupyter notebook "[The Evolution of Canada’s Immigration Between 1980 and 2013]()" documenting each step of the **analysis**, from **data exploration** to **model evaluation**.
   
-+ **[Data]():** Houses the primary [dataset]() used throughout the project.
++ **[Data](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/02%20-%20The%20Evolution%20of%20Canada%E2%80%99s%20Immigration%20Between%201980%20and%202013/02%20-%20Data):** Houses the primary [dataset]() used throughout the project.
 
-+ **[Dashboard]():** Contains the final deployment-ready file of the [)](), ready for real-world **predictions**. 
++ **[Dashboard](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/02%20-%20The%20Evolution%20of%20Canada%E2%80%99s%20Immigration%20Between%201980%20and%202013/03%20-%20Dashboard):** This folder contains an interactive dashboard for analyzing the evolution of Canada’s immigration between 1980 and 2013. 
 ________________________________________
 
 ## 📊 Dataset Description

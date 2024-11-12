@@ -38,7 +38,7 @@ ________________________________________
 ## 💡 Key Insights & Findings
 
 
-### Overall Immigration Trends:
+#### 1. Overall Immigration Trends:
 
   + Immigration to Canada steadily increased from 99,137 in 1980 to over 257,537 by 2013, with noticeable peaks in the early 1990s, 2000s, and 2010s. These peaks likely correspond to global events or changes in Canadian immigration policies that influenced migration flows.
 

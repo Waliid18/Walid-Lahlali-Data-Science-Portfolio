@@ -42,16 +42,16 @@ ________________________________________
 
   + Immigration to Canada steadily increased from 99,137 in 1980 to over 257,537 by 2013, with noticeable peaks in the early 1990s, 2000s, and 2010s. These peaks likely correspond to global events or changes in Canadian immigration policies that influenced migration flows.
 
-+ Continent and Region-Specific Patterns:
+#### 2. Continent and Region-Specific Patterns:
 
   + Asia and Europe are the primary contributors. By 2013, Asia alone accounted for approximately 155,075 immigrants.
 African immigration, though smaller in volume, shows growth from 3,951 in 1980 to 38,543 in 2013, with North Africa making a notable contribution.
 
-+ Developed vs. Developing Regions:
+#### 3. Developed vs. Developing Regions:
 
   + Immigration from developing regions grew significantly, contributing 217,825 immigrants by 2013 compared to 39,712 from developed regions, highlighting Canada’s appeal to individuals from emerging economies.
   
-+ Focus on Africa, North Africa, and Morocco:
+#### 4. Focus on Africa, North Africa, and Morocco:
 
   + Immigration from North Africa grew from 1,100 in 1980 to 13,982 by 2013, with Morocco alone contributing 3,261 immigrants in 2013, a marked increase from 325 in 1980. This indicates Canada’s increasing attractiveness to skilled workers and students from these regions.
 

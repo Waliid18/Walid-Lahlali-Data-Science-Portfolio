@@ -40,23 +40,24 @@ ________________________________________
 
 #### 1. Overall Immigration Trends:
 
-  + Immigration to Canada steadily increased from 99,137 in 1980 to over 257,537 by 2013, with noticeable peaks in the early 1990s, 2000s, and 2010s. These peaks likely correspond to global events or changes in Canadian immigration policies that influenced migration flows.
+  + Immigration to Canada steadily **increased** from **99,137** in **1980** to over **257,537** by **2013**, with noticeable peaks in the early **1990s**, **2000s**, and **2010s**. These peaks correspond to global events or changes in Canadian immigration policies that influenced migration flows.
 
-#### 2. Continent and Region-Specific Patterns:
+#### 2. `Continent` and `Region`-Specific Patterns:
 
-  + Asia and Europe are the primary contributors. By 2013, Asia alone accounted for approximately 155,075 immigrants.
-African immigration, though smaller in volume, shows growth from 3,951 in 1980 to 38,543 in 2013, with North Africa making a notable contribution.
+  + **`Asia`** and **`Europe`** are the primary contributors. By **2013**, **`Asia`** alone accounted for approximately **155,075** immigrants.
+    
+  + **`African`** immigration, though **smaller** in volume, shows **growth** from **3,951** in **1980** to **38,543** in **2013**, with **`North Africa`** making a notable **contribution**.
 
-#### 3. Developed vs. Developing Regions:
+#### 3. `Developed` vs. `Developing` Regions:
 
-  + Immigration from developing regions grew significantly, contributing 217,825 immigrants by 2013 compared to 39,712 from developed regions, highlighting Canada’s appeal to individuals from emerging economies.
+  + Immigration from **`developing`** regions **grew** significantly, contributing **217,825** immigrants by **2013** compared to **39,712** from **`developed`** regions, highlighting Canada’s appeal to individuals from **emerging economies**.
   
-#### 4. Focus on Africa, North Africa, and Morocco:
+#### 4. Focus on `Africa`, `North Africa`, and `Morocco`:
 
-  + Immigration from North Africa grew from 1,100 in 1980 to 13,982 by 2013, with Morocco alone contributing 3,261 immigrants in 2013, a marked increase from 325 in 1980. This indicates Canada’s increasing attractiveness to skilled workers and students from these regions.
+  + Immigration from **`North Africa` grew** from **1,100** in **1980** to **13,982** by **2013**, with **`Morocco`** alone contributing **3,261** immigrants in **2013**, a marked **increase** from **325** in **1980**. This indicates Canada’s **increasing** attractiveness to **skilled workers** and **students** from these regions.
 
 ________________________________________
 
 ## 🔑 Conclusion
 
-This project successfully uncovers the trends and patterns of Canadian immigration between 1980 and 2013, providing insights into how various regions and countries have shaped the immigrant landscape. Through detailed analysis and visualization, this work sheds light on the economic, geographic, and political factors influencing migration flows. The findings offer a comprehensive understanding of how Canada’s population has evolved and highlight the ongoing importance of immigration in shaping a diverse and dynamic society. Whether you’re a researcher, policy-maker, or an advocate for multiculturalism, these insights empower informed decision-making in understanding and planning for Canada’s immigration future.
+This project successfully uncovers **the trends and patterns of Canadian immigration between 1980 and 2013**, providing insights into how various **`regions`** and **`countries`** have shaped the immigrant landscape. Through detailed **`analysis`** and **`visualization`**, this work sheds light on the **economic**, **geographic**, and **political** factors influencing migration flows. The findings offer a comprehensive understanding of how Canada’s population has evolved and highlight the ongoing importance of immigration in shaping a diverse and dynamic society. Whether you’re a **researcher**, **policy-maker**, or an **advocate** for multiculturalism, these insights empower informed **decision-making** in understanding and planning for Canada’s immigration future.

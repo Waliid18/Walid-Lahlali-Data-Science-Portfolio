@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 
-This project provides an in-depth analysis of Canada’s immigration trends from 1980 to 2013, using historical data from 195 countries worldwide. The analysis explores immigration patterns over time and across regions, examining distinctions between developed and developing regions and uncovering valuable insights on the contributions of continents, regions, and specific countries, including a focused study on Africa, North Africa, and Morocco. As an African and Moroccan, I have incorporated a comprehensive exploration of immigration from these areas to gain perspective on the migration patterns from my continent and homeland. Through data exploration and visualizations, this project aims to identify significant trends, economic and geographic influences, and notable peaks or declines in immigration numbers, providing a detailed understanding of Canada's diverse immigrant population.
+This project provides an in-depth **analysis of Canada’s immigration trends from 1980 to 2013**, using historical data from **195 countries** worldwide. The analysis explores immigration patterns over time and across **`regions`**, examining distinctions between **`developed`** and **`developing`** regions and uncovering valuable insights on the **contributions** of **`continents`**, **`regions`**, and specific **`countries`**, including a focused study on **`Africa`**, **`North Africa`**, and **`Morocco`**. As an **African** and **Moroccan**, I have incorporated a comprehensive exploration of immigration from these areas to gain perspective on the migration patterns from **my continent** and **homeland**. Through **`data exploration`** and **`visualizations`**, this project aims to identify significant **trends**, **economic** and **geographic** influences, and notable peaks or declines in immigration numbers, providing a detailed understanding of **Canada's diverse immigrant population**.
 ________________________________________
 
 ## 📂 Repository Structure
@@ -19,19 +19,19 @@ ________________________________________
 
 ## 📊 Dataset Description
 
-The dataset comprises immigration data spanning 34 years (1980-2013) for 195 countries. Key columns include:
+The dataset comprises immigration data spanning **34 years (1980-2013)** for **195 countries**. Key **`columns`** include:
 
-+ Country: Name of each country with immigration records.
++ **`Country`:** Name of each country with immigration records.
   
-+ Continent: Continent classification (e.g., Asia, Europe, Africa).
++ **`Continent`:** Continent classification (e.g., **`Asia`**, **`Europe`**, **`Africa`**).
   
-+ Region: A finer geographic breakdown, such as Southern Asia or Northern Africa.
++ **`Region`:** A finer geographic breakdown, such as **`Southern Asia`** or **`Northern Africa`**.
   
-+ DevName: Development classification, indicating whether the region is Developed or Developing.
++ **`DevName`:** Development classification, indicating whether the region is **`Developed`** or **`Developing`**.
   
-+ Annual Data (1980–2013): Annual immigration counts per country.
++ **`Annual Data (1980–2013)`:** Annual immigration counts per country.
   
-+ Total: Sum of immigration numbers for each country across all years.
++ **`Total`:** Sum of immigration numbers for each country across all years.
   
 ________________________________________
 

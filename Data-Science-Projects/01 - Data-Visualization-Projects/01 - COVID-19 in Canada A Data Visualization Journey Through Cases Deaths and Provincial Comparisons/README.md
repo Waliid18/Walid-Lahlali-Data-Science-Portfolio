@@ -4,6 +4,9 @@
 
 This project explores the impact of the **`COVID-19`** pandemic in **`Canada`** through an in-depth **`data visualization`** journey. It highlights trends in confirmed **`cases`** and **`deaths`** while drawing comparisons across **`provinces`**. The project aims to provide a comprehensive understanding of **regional disparities** and **temporal trends** during the pandemic.
 
+________________________________________
+
+
 ## 📂 Repository Structure
 
 The project is meticulously organized for seamless exploration:
@@ -13,6 +16,9 @@ The project is meticulously organized for seamless exploration:
 + **[Data](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects/01%20-%20COVID-19%20in%20Canada%20A%20Data%20Visualization%20Journey%20Through%20Cases%20Deaths%20and%20Provincial%20Comparisons/02%20-%20Data):** Houses the primary dataset, [canada_covid19.csv](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects/01%20-%20COVID-19%20in%20Canada%20A%20Data%20Visualization%20Journey%20Through%20Cases%20Deaths%20and%20Provincial%20Comparisons/02%20-%20Data/canada_covid19.csv), used throughout the project. This dataset, obtained from the [Government of Canada Public Health Infobase](https://open.canada.ca/data/en/dataset/261c32ab-4cfd-4f81-9dea-7b64065690dc), includes daily reported **`COVID-19 cases`** and **`cumulative deaths`** for all Canadian **`provinces`** and territories.
   
 + **[Visualizations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects/01%20-%20COVID-19%20in%20Canada%20A%20Data%20Visualization%20Journey%20Through%20Cases%20Deaths%20and%20Provincial%20Comparisons/03%20-%20Visualizations):** Features exported **`graphs`** and **`charts`** generated during the analysis, providing a clear and comprehensive view of the **pandemic's trends** and **regional disparities**.
+
+________________________________________
+
 
 ## 📊 Dataset Description
 
@@ -46,6 +52,9 @@ The project is meticulously organized for seamless exploration:
     
   + **Missing data:** **6.7%** in **`ratecases_total`** and **`ratedeaths`**.
 
+________________________________________
+
+
 ## 💡 Key Insights & Findings
 
 + **National Trends:**
@@ -71,6 +80,9 @@ The project is meticulously organized for seamless exploration:
   + **`Quebec`** had the **highest `death rate`**, with **4.5** deaths per **100,000** population.
     
   + Other provinces, such as **`British Columbia`** and **`Alberta`**, maintained **lower `death rates`** despite high case counts.
+
+________________________________________
+
 
 ## 🔑 Conclusion
 

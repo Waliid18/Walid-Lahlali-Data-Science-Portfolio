@@ -6,15 +6,15 @@ This project explores the impact of the **`COVID-19`** pandemic in **`Canada`** 
 
 ## 📂 Repository Structure
 
-+ **Notebook:** COVID-19 in Canada A Data Visualization Journey.ipynb
-Contains detailed analyses, data transformations, and visualizations.
-+ **Dataset:** canada_covid19.csv
-Source data on COVID-19 cases and deaths across Canada.
-+ **Visualizations:** Includes exported graphs and charts generated for the analysis.
+The project is meticulously organized for seamless exploration:
+
++ **[Notebook](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects/01%20-%20COVID-19%20in%20Canada%20A%20Data%20Visualization%20Journey%20Through%20Cases%20Deaths%20and%20Provincial%20Comparisons/01%20-%20Notebooks):** Contains the Jupyter Notebook, "[COVID-19 in Canada: A Data Visualization](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects/01%20-%20COVID-19%20in%20Canada%20A%20Data%20Visualization%20Journey%20Through%20Cases%20Deaths%20and%20Provincial%20Comparisons/01%20-%20Notebooks/COVID-19%20in%20Canada%20A%20Data%20Visualization%20Journey%20Through%20Cases%20Deaths%20and%20Provincial%20Comparisons.ipynb) Journey Through Cases, Deaths, and Provincial Comparisons", documenting each step of the **analysis**, from **data preparation** to **insightful `visualizations`** and **findings**.
++ **[Data](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects/01%20-%20COVID-19%20in%20Canada%20A%20Data%20Visualization%20Journey%20Through%20Cases%20Deaths%20and%20Provincial%20Comparisons/02%20-%20Data):** Houses the primary dataset, [canada_covid19.csv](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects/01%20-%20COVID-19%20in%20Canada%20A%20Data%20Visualization%20Journey%20Through%20Cases%20Deaths%20and%20Provincial%20Comparisons/02%20-%20Data/canada_covid19.csv), used throughout the project. This dataset, obtained from the [Government of Canada Public Health Infobase](https://open.canada.ca/data/en/dataset/261c32ab-4cfd-4f81-9dea-7b64065690dc), includes daily reported **`COVID-19 cases`** and **`cumulative deaths`** for all Canadian **`provinces`** and territories.
++ **[Visualizations](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects/01%20-%20COVID-19%20in%20Canada%20A%20Data%20Visualization%20Journey%20Through%20Cases%20Deaths%20and%20Provincial%20Comparisons/03%20-%20Visualizations):** Features exported **graphs** and **charts** generated during the analysis, providing a clear and comprehensive view of the **pandemic's trends** and **regional disparities**.
 
 ## 📊 Dataset Description
 
-+ **Source:** COVID-19 cases and death data from Canadian provincial reports.
++ **Source:** **`COVID-19 cases`** and **`death`** data compiled from **official Canadian provincial and territorial health reports**, sourced from the [Government of Canada Public Health Infobase](https://open.canada.ca/data/en/dataset/261c32ab-4cfd-4f81-9dea-7b64065690dc).
   
 + **Size:**
   

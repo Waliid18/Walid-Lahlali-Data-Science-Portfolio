@@ -997,7 +997,7 @@ Each folder contains assignments, practical projects, and case studies from the 
 
 ### 🔬 [4. Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)
 
-This branch showcases independent data science projects I’ve worked on, organized into **six** key categories:
+This branch highlights a curated collection of independent data science projects, meticulously organized into six categories. Each category showcases unique approaches, methodologies, and problem-solving techniques, demonstrating my expertise in extracting actionable insights from complex datasets:
 
 <a name="data-visualization-projects"></a>
 

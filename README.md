@@ -53,7 +53,7 @@ ________________________________________
 
 ## 🌟 Introduction
 
-Welcome to my `Data Science` **Portfolio**! This curated collection of projects illustrates my expertise and growth in data science. From `data wrangling` and `visualizatio`n to advanced `machine learning`, each project is a testament to my commitment to turning raw data into valuable insights. This portfolio not only highlights my technical proficiency but also reflects my drive for continuous learning and excellence. Dive in to explore a journey marked by precision, creativity, and a commitment to impactful results.
+Welcome to my **`Data Science`** **Portfolio**! This curated collection of projects illustrates my expertise and growth in data science. From `data wrangling` and `visualizatio`n to advanced `machine learning`, each project is a testament to my commitment to turning raw data into valuable insights. This portfolio not only highlights my technical proficiency but also reflects my drive for continuous learning and excellence. Dive in to explore a journey marked by precision, creativity, and a commitment to impactful results.
 
 ________________________________________
 

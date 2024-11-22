@@ -1001,27 +1001,27 @@ This branch highlights a curated collection of independent data science projects
 
 <a name="data-visualization-projects"></a>
 
-   + [Data-Visualization-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects): Projects focused on creating compelling data visualizations to uncover insights.
+   + [Data-Visualization-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects): Projects focused on crafting compelling visual narratives that transform raw data into actionable insights, uncovering hidden patterns and driving impactful results. Presented below are the projects I have developed:
 
 <a name="exploratory-data-analysis-eda-projects"></a>
 
-   + [Exploratory-Data-Analysis-EDA-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects): Detailed EDA projects that analyze datasets and uncover trends.
+   + [Exploratory-Data-Analysis-EDA-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects): Detailed EDA projects that analyze datasets and uncover trends. Presented below are the projects I have developed:
 
 <a name="machine-learning-projects"></a>
 
-   + [Machine-Learning-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects): Machine learning projects ranging from regression and classification to clustering.
+   + [Machine-Learning-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects): Machine learning projects ranging from regression and classification to clustering. Presented below are the projects I have developed:
 
 <a name="natural-language-processing-nlp-projects"></a>
 
-   + [Natural-Language-Processing-NLP-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/04%20-%20Natural-Language-Processing-NLP-Projects): Projects focused on NLP techniques such as text classification and sentiment analysis.
+   + [Natural-Language-Processing-NLP-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/04%20-%20Natural-Language-Processing-NLP-Projects): Projects focused on NLP techniques such as text classification and sentiment analysis. Presented below are the projects I have developed:
 
 <a name="deep-learning-projects"></a>
 
-   + [Deep-Learning-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/05%20-%20Deep-Learning-Projects): Projects exploring deep learning techniques, including neural networks and CNNs.
+   + [Deep-Learning-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/05%20-%20Deep-Learning-Projects): Projects exploring deep learning techniques, including neural networks and CNNs. Presented below are the projects I have developed:
 
 <a name="time-series-analysis-projects"></a>
 
-   + [Time-Series-Analysis-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/06%20-%20Time-Series-Analysis-Projects): Time series analysis and forecasting projects using techniques like ARIMA and LSTM.
+   + [Time-Series-Analysis-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/06%20-%20Time-Series-Analysis-Projects): Time series analysis and forecasting projects using techniques like ARIMA and LSTM. Presented below are the projects I have developed:
      
 Each folder contains detailed projects showcasing my ability to apply machine learning, deep learning, and data analysis techniques to real-world data science challenges.
 

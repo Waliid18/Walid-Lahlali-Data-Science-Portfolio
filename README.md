@@ -39,8 +39,12 @@ ________________________________________
       + [Google-Advanced-Data-Analytics-Professional-Certificate](#google-advanced-data-analytics-professional-certificate)    
    + [Data-Science-Projects](#data-science-projects)
       + [Data-Visualization-Projects](#data-visualization-projects)
+         + [COVID-19 in Canada A Data Visualization Journey Through Cases Deaths and Provincial Comparisons](#covid-19-in-canada-a-data-visualization-journey-through-cases-deaths-and-provincial-comparisons)
       + [Exploratory-Data-Analysis-EDA-Projects](#exploratory-data-analysis-eda-projects)
+         + [Financial Efficiency and Performance Metrics Analysis of European Football Leagues](#financial-efficiency-and-performance-metrics-analysis-of-european-football-leagues)
+         + [The Evolution of Canada’s Immigration Between 1980 and 2013](#the-evolution-of-canada’s-immigration-between-1980-and-2013) 
       + [Machine-Learning-Projects](#machine-learning-projects)
+         + [Analyzing Factors Influencing Campus Placement Salaries](#analyzing-factors-influencing-campus-placement-salaries) 
       + [Natural-Language-Processing-NLP-Projects](#natural-language-processing-nlp-projects)
       + [Deep-Learning-Projects](#deep-learning-projects).
       + [Time-Series-Analysis-Projects](#time-series-analysis-projects)

@@ -997,31 +997,40 @@ Each folder contains assignments, practical projects, and case studies from the 
 
 ### 🔬 [4. Data-Science-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects)
 
-This branch highlights a curated collection of independent data science projects, meticulously organized into six categories. Each category showcases unique approaches, methodologies, and problem-solving techniques, demonstrating my expertise in extracting actionable insights from complex datasets:
+This **branch** highlights a curated collection of independent data science projects, meticulously organized into **six** categories. Each category showcases unique **approaches**, **methodologies**, and **problem-solving** techniques, demonstrating my expertise in extracting actionable insights from complex datasets:
 
 <a name="data-visualization-projects"></a>
 
-   + [Data-Visualization-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects): Data-Visualization-Projects: A collection of projects dedicated to crafting compelling visual narratives that transform raw data into actionable insights. These visualizations uncover hidden patterns, highlight key trends, and drive impactful decision-making. Below is a showcase of the projects I have meticulously developed.
+   + [Data-Visualization-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects): A collection of projects dedicated to crafting compelling **`visual narratives`** that transform **raw data** into actionable insights. These **`visualizations`** uncover **hidden patterns**, highlight **key trends**, and drive impactful **decision-making**. Below is a showcase of the projects I have meticulously developed.
+
+      + [COVID-19 in Canada A Data Visualization Journey Through Cases Deaths and Provincial Comparisons](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects/01%20-%20COVID-19%20in%20Canada%20A%20Data%20Visualization%20Journey%20Through%20Cases%20Deaths%20and%20Provincial%20Comparisons):
 
 <a name="exploratory-data-analysis-eda-projects"></a>
 
-   + [Exploratory-Data-Analysis-EDA-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects): A selection of comprehensive EDA projects that delve deeply into datasets, uncovering trends, identifying anomalies, and extracting critical insights through detailed exploratory analyses. Below is a showcase of the projects I have thoughtfully developed.
+   + [Exploratory-Data-Analysis-EDA-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects): A selection of comprehensive **`EDA projects`** that delve deeply into **datasets**, uncovering **trends**, identifying **anomalies**, and extracting critical **insights** through detailed exploratory analyses. Below is a showcase of the projects I have thoughtfully developed.
 
+      + [Financial Efficiency and Performance Metrics Analysis of European Football Leagues](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues):
+
+      + [The Evolution of Canada’s Immigration Between 1980 and 2013](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/02%20-%20The%20Evolution%20of%20Canada%E2%80%99s%20Immigration%20Between%201980%20and%202013):
+    
+        
 <a name="machine-learning-projects"></a>
 
-   + [Machine-Learning-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects): A showcase of machine learning projects demonstrating the development of predictive models and analytical solutions. These projects span a range of techniques, including regression, classification, clustering, and other advanced methodologies. Below is a curated selection of the projects I have meticulously crafted.
+   + [Machine-Learning-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects): A showcase of **`machine learning`** projects demonstrating the development of **predictive models** and **analytical solutions**. These projects span a range of techniques, including **`regression`**, **`classification`**, **`clustering`**, and other advanced methodologies. Below is a curated selection of the projects I have meticulously crafted.
+
+      + [Analyzing Factors Influencing Campus Placement Salaries](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries):
 
 <a name="natural-language-processing-nlp-projects"></a>
 
-   + [Natural-Language-Processing-NLP-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/04%20-%20Natural-Language-Processing-NLP-Projects): A collection of projects harnessing the power of text data through advanced NLP techniques. These projects include applications such as sentiment analysis, text classification, and other innovative solutions. Below is a showcase of the projects I have developed.
+   + [Natural-Language-Processing-NLP-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/04%20-%20Natural-Language-Processing-NLP-Projects): A collection of projects harnessing the power of text data through **`advanced NLP`** techniques. These projects include applications such as **`sentiment analysis`**, **`text classification`**, and other innovative solutions. Below is a showcase of the projects I have developed.
 
 <a name="deep-learning-projects"></a>
 
-   + [Deep-Learning-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/05%20-%20Deep-Learning-Projects): A showcase of projects delving into advanced AI methodologies, utilizing neural networks, CNNs, and other state-of-the-art deep learning architectures. Below is a curated selection of the projects I have developed.
+   + [Deep-Learning-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/05%20-%20Deep-Learning-Projects): A showcase of projects delving into advanced **`AI methodologies`**, utilizing **`neural networks`**, **`CNNs`**, and other state-of-the-art deep learning architectures. Below is a curated selection of the projects I have developed.
 
 <a name="time-series-analysis-projects"></a>
 
-   + [Time-Series-Analysis-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/06%20-%20Time-Series-Analysis-Projects): A collection of projects dedicated to time series analysis and forecasting, focusing on uncovering temporal data trends and building accurate predictive models using techniques such as ARIMA and LSTM. Below is a curated showcase of the projects I have developed.
+   + [Time-Series-Analysis-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/06%20-%20Time-Series-Analysis-Projects): A collection of projects dedicated to **`time series analysis`** and **forecasting**, focusing on uncovering temporal data trends and building accurate **predictive models** using techniques such as **`ARIMA`** and **`LSTM`**. Below is a curated showcase of the projects I have developed.
      
 Each folder contains detailed projects showcasing my ability to apply machine learning, deep learning, and data analysis techniques to real-world data science challenges.
 

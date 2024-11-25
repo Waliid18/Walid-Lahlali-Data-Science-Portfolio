@@ -39,12 +39,12 @@ ________________________________________
       + [Google-Advanced-Data-Analytics-Professional-Certificate](#google-advanced-data-analytics-professional-certificate)    
    + [Data-Science-Projects](#data-science-projects)
       + [Data-Visualization-Projects](#data-visualization-projects)
-         + [COVID-19 in Canada A Data Visualization Journey Through Cases Deaths and Provincial Comparisons](#covid-19-in-canada-a-data-visualization-journey-through-cases-deaths-and-provincial-comparisons)
+         + [COVID-19 in Canada A Data Visualization Journey Through Cases Deaths and Provincial Comparisons](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects/01%20-%20COVID-19%20in%20Canada%20A%20Data%20Visualization%20Journey%20Through%20Cases%20Deaths%20and%20Provincial%20Comparisons)
       + [Exploratory-Data-Analysis-EDA-Projects](#exploratory-data-analysis-eda-projects)
-         + [Financial Efficiency and Performance Metrics Analysis of European Football Leagues](#financial-efficiency-and-performance-metrics-analysis-of-european-football-leagues)
-         + [The Evolution of Canada’s Immigration Between 1980 and 2013](#the-evolution-of-canada-immigration-between-1980-and-2013) 
+         + [Financial Efficiency and Performance Metrics Analysis of European Football Leagues](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues)
+         + [The Evolution of Canada’s Immigration Between 1980 and 2013](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/02%20-%20The%20Evolution%20of%20Canada%E2%80%99s%20Immigration%20Between%201980%20and%202013) 
       + [Machine-Learning-Projects](#machine-learning-projects)
-         + [Analyzing Factors Influencing Campus Placement Salaries](#analyzing-factors-influencing-campus-placement-salaries) 
+         + [Analyzing Factors Influencing Campus Placement Salaries](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries) 
       + [Natural-Language-Processing-NLP-Projects](#natural-language-processing-nlp-projects)
       + [Deep-Learning-Projects](#deep-learning-projects).
       + [Time-Series-Analysis-Projects](#time-series-analysis-projects)
@@ -1007,8 +1007,6 @@ This **branch** highlights a curated collection of independent data science proj
 
    + [Data-Visualization-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects): A collection of projects dedicated to crafting compelling **`visual narratives`** that transform **raw data** into actionable insights. These **`visualizations`** uncover **hidden patterns**, highlight **key trends**, and drive impactful **decision-making**. Below is a showcase of the projects I have meticulously developed.
 
-<a name="covid-19-in-canada-a-data-visualization-journey-through-cases-deaths-and-provincial-comparisons"></a>
-
       + [COVID-19 in Canada A Data Visualization Journey Through Cases Deaths and Provincial Comparisons](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects/01%20-%20COVID-19%20in%20Canada%20A%20Data%20Visualization%20Journey%20Through%20Cases%20Deaths%20and%20Provincial%20Comparisons): This project explores the COVID-19 pandemic's impact across Canada through detailed data visualization. It provides a deep dive into confirmed cases, deaths, and provincial disparities, offering a comprehensive view of temporal and regional trends. The project aims to highlight critical patterns to inform public health strategies and raise awareness of the pandemic's dynamics. This project contains the following elements:
     
          + [README](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects/01%20-%20COVID-19%20in%20Canada%20A%20Data%20Visualization%20Journey%20Through%20Cases%20Deaths%20and%20Provincial%20Comparisons/README.md): Provides a detailed summary of the project, including its objectives, methodology, and key insights. It outlines the repository structure, describing the notebooks, dataset, and visualizations used to analyze and interpret the impact of COVID-19 in Canada.
@@ -1022,8 +1020,6 @@ This **branch** highlights a curated collection of independent data science proj
 <a name="exploratory-data-analysis-eda-projects"></a>
 
    + [Exploratory-Data-Analysis-EDA-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects): A selection of comprehensive **`EDA projects`** that delve deeply into **datasets**, uncovering **trends**, identifying **anomalies**, and extracting critical **insights** through detailed exploratory analyses. Below is a showcase of the projects I have thoughtfully developed.
-
-<a name="financial-efficiency-and-performance-metrics-analysis-of-european-football-leagues"></a>
 
       + [Financial Efficiency and Performance Metrics Analysis of European Football Leagues](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues): This project delves into the financial and performance metrics of football teams across 15 European leagues, uncovering the intricate relationship between financial spending and team success. Through meticulous exploratory data analysis (EDA), it highlights patterns over time, league disparities, and key insights that underscore strategic spending and financial efficiency. This project contains the following elements:
     
@@ -1063,8 +1059,6 @@ This **branch** highlights a curated collection of independent data science proj
        
             + [Final Project Presentation](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues/05%20-%20Presentation/Project%20Presentation.pdf): This file contains the presentation for your final project titled "Financial Efficiency and Performance Metrics Analysis of European Football Leagues". The presentation covers the project's objectives, methodology, and key findings, highlighting the relationship between financial spending and team performance across various European football leagues. It includes data features such as revenue, spending, net balance, wins, and goals, as well as insights into how financial efficiency impacts team success. The presentation also emphasizes the importance of strategic financial management for long-term stability and success in football.
 
-<a name="the-evolution-of-canada’s-immigration-between-1980-and-2013"></a>
-
       + [The Evolution of Canada’s Immigration Between 1980 and 2013](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/02%20-%20The%20Evolution%20of%20Canada%E2%80%99s%20Immigration%20Between%201980%20and%202013): This project analyzes Canada's immigration trends over 34 years, highlighting patterns across continents, regions, and countries. It examines economic and geographic factors influencing immigration, with a special focus on Africa, North Africa, and Morocco. Through exploratory analysis and interactive visualizations, it provides valuable insights into how immigration has shaped Canada’s diverse population. This project contains the following elements:
     
          + [README](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/blob/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/02%20-%20The%20Evolution%20of%20Canada%E2%80%99s%20Immigration%20Between%201980%20and%202013/README.md): Provides a detailed overview of the project, outlining its objectives, methodology, and structure. It includes sections on exploratory data analysis, the dataset, and an interactive dashboard, offering a comprehensive look at immigration trends in Canada from 1980 to 2013.
@@ -1078,8 +1072,6 @@ This **branch** highlights a curated collection of independent data science proj
 <a name="machine-learning-projects"></a>
 
    + [Machine-Learning-Projects](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects): A showcase of **`machine learning`** projects demonstrating the development of **predictive models** and **analytical solutions**. These projects span a range of techniques, including **`regression`**, **`classification`**, **`clustering`**, and other advanced methodologies. Below is a curated selection of the projects I have meticulously crafted.
-
-<a name="analyzing-factors-influencing-campus-placement-salaries"></a>
 
       + [Analyzing Factors Influencing Campus Placement Salaries](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/03%20-%20Machine-Learning-Projects/01%20-%20Analyzing%20Factors%20Influencing%20Campus%20Placement%20Salaries): This project explores the factors affecting campus placement salaries, leveraging data on academic performance, demographics, and work experience. Using advanced machine learning techniques, it identifies key drivers of salary outcomes, with the Random Forest Regressor emerging as the best-performing model. This analysis offers valuable insights into the dynamics of campus placements and salary predictions. This project contains the following elements:
     

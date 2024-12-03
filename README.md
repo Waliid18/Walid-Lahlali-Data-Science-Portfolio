@@ -40,6 +40,7 @@ ________________________________________
    + [Data-Science-Projects](#data-science-projects)
       + [Data-Visualization-Projects](#data-visualization-projects)
          + [COVID-19 in Canada A Data Visualization Journey Through Cases Deaths and Provincial Comparisons](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects/01%20-%20COVID-19%20in%20Canada%20A%20Data%20Visualization%20Journey%20Through%20Cases%20Deaths%20and%20Provincial%20Comparisons)
+         + [Morocco’s Historic FIFA World Cup 2022 Performance and Africa’s Rise in Global Football](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/01%20-%20Data-Visualization-Projects/02%20-%20Morocco-FIFA-WorldCup-2022-Analysis)
       + [Exploratory-Data-Analysis-EDA-Projects](#exploratory-data-analysis-eda-projects)
          + [Financial Efficiency and Performance Metrics Analysis of European Football Leagues](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/01%20-%20Financial%20Efficiency%20and%20Performance%20Metrics%20Analysis%20of%20European%20Football%20Leagues)
          + [The Evolution of Canada’s Immigration Between 1980 and 2013](https://github.com/Waliid18/Walid-Lahlali-Data-Science-Portfolio/tree/main/Data-Science-Projects/02%20-%20Exploratory-Data-Analysis-EDA-Projects/02%20-%20The%20Evolution%20of%20Canada%E2%80%99s%20Immigration%20Between%201980%20and%202013) 

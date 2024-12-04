@@ -114,31 +114,33 @@ ________________________________________
   
 + **`Total Matches Played by Morocco`:** **7**
   
-+ **`Total Wins`:** **3**
++ **`Total Wins`:** **4**
   
 + **`Total Draws`:** **1**
   
-+ **`Total Losses`:** **3**
++ **`Total Losses`:** **2**
   
-+ **`Average Possession`:** **49%**
++ **`Average Possession`:** **34.28%**
   
 + **`Average Goals per Match`:** **0.86**
   
 + **`Goals Conceded`:** **4**
   
-+ **`Goals per Match (Overall Tournament)`:** **1.34**
++ **`Goals per Match (Overall Tournament)`:** **0.85**
   
-+ **`Average Yellow Cards per Match`:** **1.14**
++ **`Average Yellow Cards per Match`:** **1.28**
   
 + **Average Red Cards per Match:** **0.14**
   
-+ **Total Assists by Morocco:** **3**
++ **Total Assists by Morocco:** **6**
   
-+ **`Successful Pass Completion Rate`:** **78%**
++ **`Successful Pass Completion Rate`:** **81%**
+
++ **`Total Attemps On Target`:** **17**
   
-+ **`Total Corners Taken`:** **25**
++ **`Total Corners Taken`:** **12**
   
-+ **`Total Free Kicks Awarded`:** **19**
++ **`Total Offsides`:** **19**
 
 ________________________________________
 

@@ -165,9 +165,9 @@ ________________________________________
   
 + **`Average Yellow Cards per Match`:** **1.28**
   
-+ **Average Red Cards per Match:** **0.14**
++ **`Average Red Cards per Match`:** **0.14**
   
-+ **Total Assists by Morocco:** **6**
++ **`Total Assists by Morocco`:** **6**
   
 + **`Successful Pass Completion Rate`:** **81%**
 
